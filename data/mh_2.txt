@@ -1,0 +1,1600 @@
+Since January 2020 Elsevier has created a COVID-19 resource centre with
+free information in English and Mandarin on the novel coronavirus COVID19. The COVID-19 resource centre is hosted on Elsevier Connect, the
+company's public news and information website.
+
+Elsevier hereby grants permission to make all its COVID-19-related
+research that is available on the COVID-19 resource centre - including this
+research content - immediately available in PubMed Central and other
+publicly funded repositories, such as the WHO COVID database with rights
+for unrestricted research re-use and analyses in any form or by any means
+with acknowledgement of the original source. These permissions are
+granted for free by Elsevier for as long as the COVID-19 resource centre
+remains active.
+
+Review
+
+COVID-19 mental health impact and responses in
+low-income and middle-income countries: reimagining
+global mental health
+Lola Kola, Brandon A Kohrt, Charlotte Hanlon, John A Naslund, Siham Sikander, Madhumitha Balaji, Corina Benjet, Eliza Yee Lai Cheung,
+Julian Eaton, Pattie Gonsalves, Maji Hailemariam, Nagendra P Luitel, Daiane B Machado, Eleni Misganaw, Olayinka Omigbodun, Tessa Roberts,
+Tatiana Taylor Salisbury, Rahul Shidhaye, Charlene Sunkel, Victor Ugo, André Janse van Rensburg, Oye Gureje, Soumitra Pathare, Shekhar Saxena,
+Graham Thornicroft, Vikram Patel
+
+Most of the global population live in low-income and middle-income countries (LMICs), which have historically
+received a small fraction of global resources for mental health. The COVID-19 pandemic has spread rapidly in many
+of these countries. This Review examines the mental health implications of the COVID-19 pandemic in LMICs in
+four parts. First, we review the emerging literature on the impact of the pandemic on mental health, which shows
+high rates of psychological distress and early warning signs of an increase in mental health disorders. Second, we
+assess the responses in different countries, noting the swift and diverse responses to address mental health in some
+countries, particularly through the development of national COVID-19 response plans for mental health services,
+implementation of WHO guidance, and deployment of digital platforms, signifying a welcome recognition of the
+salience of mental health. Third, we consider the opportunity that the pandemic presents to reimagine global mental
+health, especially through shifting the balance of power from high-income countries to LMICs and from narrow
+biomedical approaches to community-oriented psychosocial perspectives, in setting priorities for interventions and
+research. Finally, we present a vision for the concept of building back better the mental health systems in LMICs with
+a focus on key strategies; notably, fully integrating mental health in plans for universal health coverage, enhancing
+access to psychosocial interventions through task sharing, leveraging digital technologies for various mental health
+tasks, eliminating coercion in mental health care, and addressing the needs of neglected populations, such as children
+and people with substance use disorders. Our recommendations are relevant for the mental health of populations
+and functioning of health systems in not only LMICs but also high-income countries impacted by the COVID-19
+pandemic, with wide disparities in quality of and access to mental health care.
+
+Introduction
+Although much has been written about the mental
+health implications of COVID-19,1,2 greater attention has
+been given to high-income countries (HICs) than to
+low-income and middle-income countries (LMICs),
+where 83% of the global population live. LMICs have
+historically received a small fraction of global health
+resources for mental health.3 Furthermore, COVID-19 is
+now spreading rapidly in many of these settings. The
+relationship between mental health and COVID-19
+among the vast population of LMICs is the focus of this
+Review.
+Major risk factors for mortality from COVID-19, such as
+medical comorbidities including diabetes or heart
+disease,4 are increasingly common in LMICs, especially
+among individuals with lower educational levels.5,6
+Despite the lower average age of populations in LMICs
+compared with that in HICs offering some potential
+protection, the high prevalence of comorbidities, along
+with generally low levels of access to universal health
+coverage,7 paint a worrying picture in terms of the
+potential for lives to be lost to the pandemic. Leaving
+aside the direct health effects of COVID-19, the knock-on
+effects of efforts to contain the pandemic, such as
+lockdowns, closure of schools, shifting allocation of
+health resources, and curtailed livelihood opportunities,
+have the potential to be devastating and long-lasting.
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+These measures are particularly detrimental for poor and
+vulnerable people in countries with weak social safety
+nets and inadequate economic resources to buffer against
+lost livelihoods. Global economic growth is expected to
+contract by 5–8% during and following the pandemic,
+pushing up to 100 million people into extreme poverty.8
+The expected vulnerability of LMICs to the negative
+mental health sequelae of COVID-19 can be compared
+with the impressive efforts in many of these resourcelimited countries to develop nationwide policies to address
+the pandemic itself and its mental health consequences.
+Some LMICs have developed model programmes to
+address the pre-existing mental health-care needs and
+increasing distress related to the pandemic, and have
+implemented guidance on psychosocial programmes
+from WHO and international organisations. The sen­
+sitivity and comprehensiveness of these mental health
+responses in some LMICs can be a model for other
+countries, which are suffering from fragmented mental
+health responses, minimal financial investment, and
+scarce outreach to the most vulnerable populations.9
+In this Review, we examine the global mental health
+implications of the COVID-19 pandemic in four parts:
+first, the impact of the pandemic on mental health;
+second, the responses in different countries; third, the
+opportunity that the pandemic presents to reimagine
+global mental health; and finally, a future vision for
+
+Lancet Psychiatry 2021;
+8: 535–50
+Published Online
+February 24, 2021
+https://doi.org/10.1016/
+S2215-0366(21)00025-0
+This online publication has
+been corrected. The corrected
+version first appeared at
+thelancet.com/psychiatry on
+March 8, 2021.
+WHO Collaborating Centre for
+Research and Training in
+Mental Health, Neurosciences
+and Drug and Alcohol Abuse,
+Department of Psychiatry
+(L Kola PhD,
+O Omigbodun FMCPsych,
+O Gureje DSc) and Centre for
+Child and Adolescent Mental
+Health (O Omigbodun), College
+of Medicine, University of
+Ibadan, Ibadan, Nigeria; BRiTE
+Center, Department of
+Psychiatry and Behavioral
+Sciences, University of
+Washington, Seattle, WA, USA
+(L Kola); Division of Global
+Mental Health, Department of
+Psychiatry, George Washington
+University, Washington,
+DC, USA (B A Kohrt PhD); Centre
+for Global Mental Health
+(C Hanlon PhD, T T Salisbury PhD,
+G Thornicroft PhD), Centre for
+Implementation Science
+(G Thornicroft), Centre for
+Society and Mental Health
+(T Roberts PhD), and WHO
+Collaborating Centre for
+Research and Training in
+Mental Health
+(T T Salisbury PhD), Department
+of Health Service and
+Population Research, Institute
+of Psychiatry, Psychology and
+Neuroscience, King’s College
+London, London, UK;
+Department of Psychiatry,
+WHO Collaborating Centre for
+Mental Health Research and
+Capacity-Building, School of
+Medicine, College of Health
+Sciences, Addis Ababa
+University, Addis Ababa,
+Ethiopia (C Hanlon);
+
+535
+
+Review
+
+Department of Global Health
+and Social Medicine, Harvard
+Medical School, Boston,
+MA, USA (J A Naslund PhD,
+D B Machado, V Patel PhD);
+Global Health Department,
+Health Services Academy,
+Islamabad, Pakistan
+(S Sikander PhD); Department of
+Primary Care and Mental
+Health, University of Liverpool,
+Liverpool, UK (S Sikander);
+Wellcome–DBT India Alliance,
+Sangath, New Delhi, India
+(P Gonsalves MSc, V Patel);
+Sangath, India (M Balaji MSc);
+Division of Epidemiology and
+Psychosocial Research, National
+Institute of Psychiatry Ramón
+de la Fuente Muñiz,
+Mexico City, Mexico
+(C Benjet PhD); The Reference
+Centre for Psychosocial
+Support, International
+Federation of the Red Cross and
+Red Crescent, Hong Kong
+Special Administrative Region,
+China (E Y L Cheung PhD);
+The Red Cross of the Hong Kong
+Special Administrative Region
+of China, Hong Kong Special
+Administrative Region, China
+(E Y L Cheung); CBM Global and
+Centre for Global Mental
+Health, London, UK
+(J Eaton MBBS); School of
+Psychology, University of
+Sussex, Brighton, UK
+(P Gonsalves); Department of
+Obstetrics, Gynecology and
+Reproductive Biology, College
+of Human Medicine, Michigan
+State University, East Lansing,
+MI, USA (M Hailemariam PhD);
+Transcultural Psychosocial
+Organization Nepal,
+Kathmandu, Nepal
+(N P Luitel MPhil); Centre for
+Data and Knowledge
+Integration for Health, CIDACS–
+FIOCRUZ, Bahia, Brazil
+(D B Machado PhD); Mental
+Health Service Users
+Association Ethiopia, Addis
+Ababa, Ethiopia
+(E Misganaw MA); Global
+Mental Health Peer Network,
+Pretoria, South Africa
+(E Misganaw); Pravara Institute
+of Medical Sciences, Loni, India
+(R Shidhaye PhD); Global Mental
+Health Peer Network,
+Johannesburg, South Africa
+(C Sunkel); Mentally Aware
+Nigeria Initiative, Lagos,
+Nigeria (V Ugo MBBS); United
+for Global Mental Health,
+London, UK (V Ugo); Centre for
+Rural Health, College of Health
+Sciences, University of
+KwaZulu-Natal, Durban,
+
+536
+
+mental health systems. Although our concerns begin
+with a focus on LMICs, the pandemic has shown the
+profoundly interconnected nature of global health and
+the opportunities for experiences and knowledge to
+inform the mental health response in all countries.
+As the COVID-19 pandemic is still unfolding at the
+time of writing, and much of the research on mental
+health concerns is ongoing, this Review seeks to provide
+a narrative overview of some prominent findings to date.
+We also attempt to look into the future to anticipate the
+potential longer-term mental health effects that will
+emerge in the aftermath of the health, economic, and
+social consequences of the pandemic.
+
+The impacts of the COVID-19 pandemic on
+mental health
+The COVID-19 pandemic has exposed the already large
+treatment gap in mental health across LMICs, and
+threatens to widen it. New demands for mental health
+care in these countries intersect with fragile health
+systems, scarce resources and workforce capacity, social
+unrest and violence in response to COVID-19 contain­
+ment strategies, and overall scarce and inequitable access
+to evidence-based interventions.10–12 It can be speculated
+that the long-term consequences on mental health will
+be particularly severe in the lowest resourced and most
+impoverished regions of the globe, where there was
+virtually no access to mental health services before the
+pandemic.13
+
+Immediate impacts
+Emerging reports on the impacts of the COVID-19
+pandemic on mental health have primarily documented
+the increase in symptoms of mental health distress,
+which might reflect a normative response to the
+extraordinary uncertainties and difficulties experienced
+by populations. For example, reports have documented
+increased prevalence of psychological distress among
+health-care staff,14,15 associated with stigma and fear of
+the disease.16 That said, these reports could also imply a
+shifting of the population distribution of distress and a
+consequent increase in the prevalence of clinically
+significant mental health problems. This theory is
+congruent with the few studies on the prevalence of
+mental health disorders that we have identified.
+For example, a nationwide online study of more
+than 10 000 individuals in Bangladesh reported a
+33% prevalence of depression and 5% prevalence of
+suicidal ideation.17 Thus, recognising acute stress
+responses is essential for preventive interventions to
+reduce the incidence of clinically significant conditions
+and to build systems that address the rising needs for
+mental health care.
+In LMICs worldwide, population-wide distress can be
+attributed to continued uncertainties about the spread of
+the disease, the effectiveness of containment strategies,
+and when and how everyday life will return to some
+
+resemblance of familiarity.18 These experiences of distress
+are exacerbated by actions aimed at mitigating the spread
+of COVID-19, in which governments in many LMICs
+have implemented strict measures (eg, use of lockdowns).
+These measures and related policy decisions have had
+unprecedented effects on the economic and social sectors
+in countries where the vast majority of people are
+employed in the informal labour market and where
+threats to their livelihood are already leading to public
+resistance and, sometimes, violence.13,19 For instance, use
+of force by law enforcement and the authorities has been
+reported in several countries.20–23 There have been reports
+of violence, arrests, and the abduction of journalists
+and activists documenting questionable government
+policies, corruption, and mismanagement in response to
+COVID-19.20,24,25 The pandemic is also exposing the fact
+that particular vulnerable groups, such as prisoners,
+patients in psychiatric hospitals or social care homes,
+people with disabilities, or women experiencing domestic
+violence or abuse, might be at even greater risk of
+psychological distress because pre-existing failures in
+human rights protection are worsened,21,26 further
+complicating other mental health consequences related
+to COVID-19.14,15
+Threats of the pandemic towards mental health can be
+observed by systemic social inequities across demo­
+graphic (eg, age, ethnicity, caste, religion, gender),
+economic (eg, income, assets, unemployment), neigh­
+bourhood (eg, housing structure or overcrowding), and
+sociocultural (eg, social support, social capital, edu­
+cation) characteristics.19,27,28 In high-income settings, low
+educational levels and indices of economic and social
+disadvantage, such as poor or overcrowded housing and
+homelessness, unemployment, social isolation, and
+loneliness, are important risk factors for contracting
+severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2).29,30 As poverty and socio­economic ineq­
+uities are prominent in LMICs, and with poor coverage
+of adequately resourced health-care and social safety
+nets, it is plausible to expect mental health problems in
+large sections of communities across LMICs. For
+example, this pattern is already apparent in Brazil where
+the greatest risk of disease transmission is among the
+poorest communities in the country.31
+Older populations are among the most affected by the
+COVID-19 pandemic in terms of illness severity and
+mortality. They are also more likely to suffer psychological
+impacts due to isolation, which is complicated by
+pre-existing physical health problems and medical
+comorbidities, and reduced access to care.32,33 Additionally,
+lockdowns and the diversion of all health-care services to
+COVID-19 control and care affects people living with
+serious mental illnesses, for whom access to mental
+health care has been hindered during the pandemic.34
+Therefore, COVID-19 is likely to lead to the recurrence or
+worsening of disorders among this group, who are also
+more likely to have other risk factors.
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Review
+
+Another particularly vulnerable group are front-line
+health workers who have been deployed and redeployed
+for various tasks to try to contain the pandemic.35,36 Risk
+factors include settings where many health workers have
+inadequate personal protective equipment, experiencing
+stigma and discrimination because of their profession,
+personal fears of infecting their families and loved ones,
+isolation from family members, and being quarantined.37,38
+Mental health effects of the pandemic among health
+workers have also manifested as experiences of trauma
+and confusion, especially in the context of lack of clarity
+on how to effectively treat patients with COVID-19.39–41
+
+Long-term impacts
+Without massive global action, the COVID-19 pandemic
+is expected to have worldwide negative impacts on
+economic and other social determinants of health in
+the long term. Mental health conditions most
+susceptible to negative social determinants include
+anxiety, mood, and disorders related to trauma and
+stress, which are already leading contributors to
+disability worldwide, according to the Global Burden of
+Disease study.42 The pandemic is laying the foundations
+for a potential worldwide suicide increase as a result of
+increased exposure to known risk factors, such as
+economic stress, job insecurity and unemployment,
+social isolation, decreased access to community
+support, barriers to mental health treatment, and
+exacerbated physical health problems, especially among
+older adults.33,39,43 A model combining data from
+multiple countries, including both HICs and LMICs,
+suggests that job losses due to COVID-19 might result
+in up to 9570 additional suicides per year worldwide.43
+Time-trend regression models following the pandemic
+in the USA showed a forecast of 3235 excess suicides
+over 2 years attributable to the economic downturn
+(3·3% increase per year) if the unemployment increase
+is moderated, and an 8164 excess suicides over 2 years
+(8·4% increase per year) if the increase is extreme.44
+No such models currently exist for LMICs. However,
+given that LMICs bear the bulk of the global burden of
+suicide45 and are especially vulnerable to economic
+devastation from the pandemic, it can be speculated that
+suicide rates could increase markedly in these countries.
+This theory is supported by a review of Indian media on
+COVID-19 and suicide.46 One concern is that in many
+LMICs, suicides often go under-reported or are reported
+as different causes of death due to the associated stigma,
+as well as other cultural or religious considerations.47,48
+Therefore, it will be essential to ensure transparent and
+rigorous reporting and monitoring of suicides in the
+months and years ahead, not only to fully ascertain the
+impacts of the pandemic but also to identify whether
+there are regional differences in suicide rates and to
+develop responses to mitigate these risk factors. Similarly,
+substance use disorders represent another major cause
+of mortality associated with previous global recessions,
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+leading to a rise in so-called deaths of despair in affected
+communities.49
+Prolonged school closures are likely to have a profound
+effect on the mental health of children, adolescents, and
+young adults globally.50 Aside from the important
+academic benefits of schooling, schools have an essential
+role in shaping the mental wellbeing of young people by
+providing a structured and supervised space for
+socioemotional development, friendship and social
+support networks, protection from risk-taking behav­
+iours and exploitative labour, delays to early marriage
+and childbearing, and gatekeeper services to detect and
+intervene early to reduce child abuse. Furthermore,
+schools often represent a key access point for food for
+children in many LMICs.51 School meal and feeding
+programmes are essential for ensuring sufficient
+nutrition while promoting academic performance and
+cognitive development.52,53 Therefore, the school closures
+in response to the pandemic might have the unintended
+consequence of increasing food insecurity among
+children,54 which negatively affects mental health.
+
+South Africa
+(A J van Rensburg PhD); Centre
+for Health Systems Research
+and Development, Faculty of
+Humanities, University of the
+Free State, Bloemfontein,
+South Africa (A J van Rensburg);
+Centre for Mental Health Law
+and Policy, Indian Law Society,
+Pune, India (S Pathare PhD);
+Department of Global Health
+and Population, Harvard
+T H Chan School of Public
+Health, Boston, MA, USA
+(S Saxena MD)
+Correspondence to:
+Dr Lola Kola, Department of
+Psychiatry, College of Medicine,
+University of Ibadan,
+Ibadan PMB 5116, Nigeria
+lola_kola2004@yahoo.com
+
+The response to mental health needs
+To date, there is little evidence on the impact of mental
+health programmes for multiple reasons: the COVID-19
+pandemic is still progressing in many countries, most
+programmes are being implemented under real-world
+public health emergency circumstances with no
+resources for evaluation, and there has been insufficient
+time since the onset of the pandemic to complete and
+publish comprehensive evaluations. Thus, the purpose
+of this section is to highlight the variety and inno­
+vativeness of programmes that have been initiated. The
+initiative and ability of governments in LMICs to develop
+COVID-19 mental health plans is in itself an important
+observation. Similarly, the ability to launch and
+implement diverse programmes addressing populationlevel and individual clinical needs offers lessons about
+implementation, even if claims about effectiveness
+cannot yet be made for most of these initiatives. Going
+forward, it will be important to evaluate implementation
+processes and outcomes, not least to inform the mental
+health response to future public health emergencies,
+such as the extent to which the shift of care delivery from
+in-person to remote addresses individual clinical needs
+equitably or the extent to which low-cost positive
+psychology approaches adequately address population
+mental health needs.
+
+Population initiatives
+Since the start of the pandemic, there have been growing
+efforts to develop international guidance, national
+policies, and resources for LMICs to address mental
+health and psychosocial support (MHPSS) needs
+(figure 1).55–74 In February, 2020, the Inter-Agency Standing
+Committee, which coordinates responses to humanitarian
+emergencies, issued one of the first briefing notes with
+537
+
+Review
+
+March
+
+• Remote psychological first aid during a COVID-19 outbreak (IFRC)58
+• Mental health and psychosocial support (MHPSS) in the COVID-19 response: guidance and toolkit
+for the use of IOM MHPSS teams: version II (IOM)59
+• My hero is you: how kids can fight COVID-19! (IASC)60
+• National action plan for mental health and psychosocial support response in Lebanon61
+• National guidelines on mental health interventions in South Africa62
+
+April
+
+• A comprehensive guide on mental health and psychosocial support during the COVID-19
+pandemic (Ministry of Health, Kenya)63
+• National guidelines for management of COVID-19 in Uganda64
+• National Emergency Operations Centre of Maldives established65
+• Mental health in the times of COVID-19 pandemic: guidance for general medical and specialised
+mental health care settings (National Institute of Mental Health and Neurosciences, India)66
+• Doing what matters in times of stress: an illustrated guide (WHO)67
+• Ensuring Quality in Psychological Support platform on remote psychological services (WHO)68
+• Stories from the field: providing mental health and psychosocial support during the COVID-19
+pandemic (Mental Health Information Network and WHO)69
+
+2020
+
+February
+
+• Addressing mental health and psychosocial aspects of COVID-19 outbreak (IASC briefing note)55
+• Social stigma associated with COVID-19: a guide to preventing and addressing social stigma
+(IFRC, UNICEF, WHO)56
+• National Health Commission of China guidelines on emergency psychological crisis intervention57
+
+May
+
+June
+
+• Policy brief: COVID-19 and the need for action on mental health (UN)70
+• Guidance for mental health and psychosocial support for COVID-19 (Africa Centres for Disease
+Control and Prevention)71
+• Clinical management of COVID-19: interim guidance (WHO)72
+• Maintaining essential health services: operational guidance for the COVID-19 context: interim
+guidance (WHO)73
+• Basic psychosocial skills: a guide for COVID-19 responders (IASC)74
+
+Figure 1: Timeline of mental health and psychosocial support guidance, policies, and resources in LMICs
+during the initial months of the COVID-19 pandemic
+IASC=Inter-Agency Standing Committee. IFRC=International Federation of Red Cross and Red Crescent Societies.
+IOM=International Organization for Migration.
+
+For more on the IFRC
+Psychosocial Support Centre
+see https://pscentre.org
+
+538
+
+MHPSS recommendations for COVID-19.55 The brief
+highlighted approaches for specific populations, such as
+older people, children, front-line workers, and individuals
+in quarantine, as well as guidance on combating stigma.
+Shortly after this event, the International Federation of
+the Red Cross and Red Crescent Societies (IFRC) called
+for widespread use of psychological first aid, including
+remote delivery to people in quarantine, health workers,
+and groups with previous vulnerabilities (eg, mental and
+substance use disorders).75 The International Organization
+for Migration provided guidelines for forced and labour
+migrants.59 The Africa Centres for Disease Control and
+Prevention also released guidelines on MHPSS for
+COVID-19.71 In May, 2020, the UN released a policy brief
+that synthesised and added political weight to these
+recommendations.70
+Many of the guidelines in response to COVID-19 were
+grounded in pre-COVID-19 approaches to MHPSS in
+humanitarian settings, and the experience of imple­
+menting MHPSS services in LMICs.76–78 Notable among
+these are Inter-Agency Standing Committee MHPSS
+guidelines published in 2007,64 which have been
+continually revised and supplemented with additional
+guidance. These guidelines are organised as a pyramid
+of services with four layers: basic services and
+secu­rity, strengthening community and family, focused
+non-specialised supports, and specialised services.79
+
+Furthermore, many LMICs have gained considerable
+expertise in addressing MHPSS in response to
+humanitarian emergencies,80,81 and there is emerging
+consensus on the central principles for supporting
+individuals in such contexts. Some of these principles
+include the recommendations by Hobfoll and colleagues,82
+which address five domains: safety, calm, self-efficacy and
+community efficacy, connectedness, and hope.
+Therefore, on the basis of previous humanitarian
+emergencies and the unique needs of the COVID-19
+pandemic, many LMICs rapidly developed COVID-19
+national MHPSS response plans. The National Health
+Commission of China developed guidelines on emer­
+gency psychological crisis intervention, emphasising
+that mental health services should be organised at city,
+municipal, and provincial levels, and included psy­
+chological outreach teams and hotlines.57 In March, 2020,
+Lebanon issued a government action plan for a
+MHPSS response, outlining mental health promotion
+and mitigation of COVID-19 related stres­sors, support
+for people in quarantine and front-line workers, and
+continuity of services for patients with pre-existing
+mental illness.61 Similar national action plans were
+released in South Africa,62 Kenya,63 Uganda,64
+the Maldives,65 and India.66 Some regional responses
+within countries preceded national plans. For example,
+the Kerala State Government in India constituted a
+multidisciplinary team in February, 2020, which
+integrated efforts by several sectors and established a
+state helpline.83
+Materials have been developed in many LMICs to
+promote self-help for stress management during the
+COVID-19 pandemic and beyond. WHO developed Doing
+what matters in times of stress: an illustrated guide.67 The
+stress management self-help techniques can be practised
+with just a few minutes each day and include
+accompanying audio exercises. Released originally in
+English, with other translations underway, the guide is
+freely available for use and adaptation, and can be offered
+as guided or unguided self-help. In India, Firework, a
+short-format, 30-second, decentralised video platform
+that began in 2019, launched #sparkthejoy, a social
+impact campaign that encourages people to do an “act of
+good”.84 Use of the platform doubled during the period
+between lockdowns in India from the beginning of
+March to the end of May, 2020.85 The Mental Health
+Innovation Network and WHO launched Stories from the
+field: providing mental health and psychosocial support
+during the COVID-19 pandemic69 to share MHPSS
+innovation and best practice through personal narratives
+from health-care workers worldwide. Information,
+education, and communication materials highlighting
+mental health and stigma have been produced by many
+institutions and organisations implementing or sup­
+porting responses in LMICs, such as the IFRC Reference
+Centre for Psychosocial Support. In China, mental health
+education materials were produced and disseminated
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Review
+
+Nicaragua
+• The Nicaraguan Association for the Development
+of Psychology offers virtual online resources for
+educational, informative, and reflective material,
+and tools to train professionals
+
+Honduras
+• Médecins Sans Frontières offers phonebased psychosocial care to hospitalised
+patients and care to survivors of violence,
+and has established a mental health
+phone helpline
+
+Costa Rica
+• The Costa Rican Social Security Fund
+has established a virtual visit system
+using tablets, phones, etc, for
+patients to engage with relatives to
+enhance mood
+
+Brazil
+• Academic recommendations for
+delirium management in patients with
+obsessive compulsive disorder or those in
+intensive care units
+• Outreach programmes for people with
+severe mental illness
+
+Serbia
+• National line for psychosocial support during COVID-19
+• 3556 hotline calls for mental health
+• Mobile teams of health professionals located at
+quarantine points
+
+Lebanon
+• COVID-19 call centre operators trained
+in psychological first aid
+• Social media campaign targeting
+young people
+• Development of child-friendly
+quarantine protocols
+
+Liberia
+• MHPSS training and law enforcement
+• Community healing dialogues
+
+Suriname
+• Helpline 123
+• Social workers refer to
+specialists for support with
+people in quarantine and
+other populations
+
+Uganda
+• Training of staff in all regional
+referral hospitals on MHPSS
+• Home outreach programmes
+for people with severe
+mental illness
+
+Peru
+• Patient Health Questionnaire-9 chatbot to screen for individuals
+with depression in affected communities
+• Remote delivery of the Thinking Health Programme and
+Problem Management Plus via phone
+
+China
+• Online mental health education materials produced
+and disseminated through WeChat, Weibo, and TikTok
+• Artificial intelligence programmes used for the
+detection of psychological crises during the pandemic
+• WeChat also used for the delivery of cognitive
+behavioural therapy for depression, anxiety,
+and insomnia
+
+Philippines
+• National Center for Mental Health toll-free
+crisis hotline, which has had a four times
+increase in the number of calls
+
+Maldives
+• Psychological first aid via hotlines for
+front-line workers and other populations
+at risk of COVID-19 to provide support
+and identify potential severe mental
+health issues that would benefit
+from referral
+• Hotlines to migrant workers
+
+South Africa
+• Programmes encouraging frontline workers to call hotlines
+• Specific hotlines set-up for frontline workers
+
+Low-income
+Lower-middle income
+Upper-middle income
+High-income
+
+Turkey
+• Apps built to allow access to mental
+health specialists online
+• Fairy tale reading project for children
+
+India
+• Toll-free mental health helpline number
+• Kerala state Government has established a
+multidisciplinary team
+• 1140 psychiatrists, counsellors, and social workers
+trained to assess the psychological health of people
+with COVID-19, older people living alone,
+and children
+• 1·3 million calls to people in quarantine and other
+vulnerable individuals
+• Opioid drug replacement therapy dispensed
+fortnightly to more than 500 000 patients
+
+Pakistan
+• Trained 3610 community members to provide mental health first aid for healthcare workers
+• Aga Khan University, Karachi, has launched a nationwide child and adolescent
+mental health response by providing online training in parent-mediated therapy
+
+Figure 2: Mental health responses to COVID-19 in low-income and middle-income countries
+MHPSS=mental health and psychosocial support.
+
+through WeChat, Weibo, and TikTok.86 A series of videos
+on grief and mental health as part of the Regional
+Psychosocial Support Initiative has been developed for
+children and adolescents in South Africa.
+
+Detection and care
+In many countries, members of the health-care system,
+ranging from community health workers to mental
+health specialists, have been trained to help detect
+individuals with mental illness and psychological
+distress (figure 2). Phone-based programmes in Kerala,
+India, and in-person initiatives in Pakistan and Uganda
+have been used to identify and refer people in need of
+care.87,88 In China, individuals at risk of suicide can be
+recognised by the artificial intelligence programme
+Tree Holes Rescue by analysing the messaging service
+Weibo.57 In Peru, Socios en Salud has disseminated
+information via mass media to engage with a chatbot
+that provides free automated depression screening and
+referral.89
+However, in most settings in LMICs, ongoing
+in-person mental health services have been disrupted
+and patients with severe mental illness and substance
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+use disorders are often unable to obtain medications,
+attend treatment facilities, or receive social services.34
+People with severe mental health conditions and
+intellectual disabilities, along with various other
+disabilities, are disproportionately likely to be in insti­
+tutions, which are often not safe in relation to risk of
+SARS-CoV-2 infection and where care has often been
+compromised during the crisis.90 In some settings,
+outpatient services have been suspended or inpatient
+psychiatric facilities temporarily repurposed to treat
+patients with COVID-19.91 Seeking psychiatric care,
+especially from hospital facilities, has decreased because
+of concerns about SARS-CoV-2 infection and stigma due
+to associations of institutionalised settings with
+COVID-19 transmission.92 In Iran, implementation of
+drug use rehabilitation has been disrupted due to travel
+restrictions, a shift towards COVID-19 priorities,93
+and rejection of external support (eg, expelling
+Médecins Sans Frontières94). In other settings, hospitals
+and drug and alcohol services have been overwhelmed
+with large influxes of patients facing substance
+use withdrawal following lockdown, with many
+countries suspending alcohol sales during lockdown
+
+For more on the Regional
+Psychosocial Support Initiative
+see https://repssi.org
+
+539
+
+Review
+
+For more on EQUIP-remote see
+https://whoequipremote.org
+
+540
+
+(eg, South Africa and India). There is a debate regarding
+the ethics of forced abstinence.95
+Face-to-face services have been maintained in parts of
+some LMICs, indicating considerable variability in the
+response of the mental health-care system.96 For example,
+in Punjab, India, opioid drug replacement therapy was
+successfully implemented.97 In Brazil, a hybrid model of
+in-person and remote services was instituted for
+individuals with psychotic disorders, including depot
+antipsychotic injections delivered during in-home visits,
+in which food insecurity was monitored.98 A similar
+model of home visits for patients with severe mental
+illness is ongoing in Uganda amid the pandemic.99
+Furthermore, governments, health-care providers, and
+other institutions in many LMICs have adapted to the
+challenges imposed by physical distancing, disrupted
+public transportation, and lockdowns by shifting to
+remote services, ranging from suicide and mental health
+helplines, to voice-only phone-based services, to video
+services over smartphones or other digital devices. To
+help promote public mental health during the COVID-19
+pandemic, the Indonesian Government, through the
+Ministry of Health, launched Sejiwa (ie, healthy mind) as
+a counselling hotline service.100 From its launch date on
+April 29 to May 28, 2020, Sejiwa provided 14 916 hotline
+consultations with a workforce of 737 volunteer psy­
+chologists from the Indonesian Psychology Association.
+Similar helplines have experienced heavy use in India,101,102
+Nigeria,103 the Philippines,104 and many other LMICs.
+Helplines have also been used for specific populations,
+such as south Asian labour migrants in Gulf countries
+and other settings.58
+In the Maldives and other countries, helplines have
+provided psychological first aid to front-line workers.58 In
+South Africa, videos were developed for health-care
+workers highlighting symptoms of stress, anxiety, and
+depression, with links to seek assistance. These videos
+were distributed via social media. Non­
+-governmental
+psychology and counselling groups in the country also
+offered free counselling via phone or Zoom to healthcare workers during the height of the outbreak.105 In
+China, WeChat-based resources have been widely
+established throughout the country to provide free,
+24 h services, including cognitive behavioural therapy.57
+In the Philippines, health-care workers and repatriated
+overseas Filipino workers can book appointments for
+online or phone-based MHPSS services.104 These services
+predominantly address general psychological distress
+and common mental disorders, such as depression and
+anxiety, as well as suicidality.
+A major initiative has been building capacities among
+non-specialists to deliver psychological services remotely.
+Problem Management Plus, a five-session psychological
+intervention based on problem solving therapy and
+designed for delivery by non-specialists in humanitarian
+settings,106 has been adapted for remote training and
+delivery (eg, voice-only phone or with video) by the IFRC
+
+in east African countries,107 Socios en Salud in Peru, and
+other organisations. In Peru, individuals identified to
+have depression with the chatbot89 are referred for remote
+Problem Management Plus. Another problem-solving
+therapy, the Friendship Bench, which is delivered by
+non-specialists in Zimbabwe, is now being adapted for
+online delivery.108 Based on the large demand for
+psychological services to be delivered remotely, WHO
+has adapted the Ensuring Quality in Psychological
+Support (EQUIP) platform.68 The result, EQUIP-remote,
+includes guidance on preparing for remote delivery
+(eg, confidentiality and technology issues), delivering
+supervision for remote services, and managing suicidality
+in remote delivery, as well as a competency assessment
+tool to support safe delivery of psychological services.
+These recommendations are an extension of WHO’s
+overall guidance on assuring quality and comprehensive
+care in the shift from in-person to remote delivery of
+health services during the COVID-19 pandemic.73
+However, access to these interventions is not equitably
+distributed. Settings with restricted phone, electricity, or
+WiFi access cannot engage in all of these services. People
+with disabilities who, as well as being exposed to other
+social determinants of mental ill health and exposure
+to COVID-19, often encounter practical barriers to
+accessing support, and many of the interventions
+delivered are often not accessible to those with sensory
+impairments.109 In relation to children and adolescents,
+mental health care that would have otherwise been
+delivered via school counsellors or student health
+services has been disrupted as a result of school and
+university closures.50 One innovation in Pakistan has
+been the launch of nationwide, free, online training
+sessions in parent-mediated therapy to support
+rehabilitative care of children with disabilities by
+Aga Khan University, Karachi.110
+
+Infectious disease control efforts integrating mental
+health principles
+A valuable lesson learned from the Ebola virus outbreak
+was that MHPSS services are important not only for
+reducing mental health problems but also for effective
+infectious disease control.111,112 Initial suspicion in some
+communities that Ebola virus was a government
+conspiracy led to the realisation in west Africa that
+engagement with communities, families, and individuals
+needed to focus on trust building, listening skills, and
+managing distress.113 Therefore, in response to the
+outbreak, community healing dialogues were an impor­
+tant MHPSS initiative to build trust and engagement with
+public health recommendations for infection control.114
+This response showed that MHPSS training was vital for
+contact tracers to build trust, support treatment
+engagement, and recognise distress that would benefit
+from mental health services.111 Thus, psychological first
+aid training is now recommended for contact tracers
+during infectious disease control.115 Currently, in Liberia,
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Review
+
+Remote services
+
+In-person services
+
+Phone helplines
+• Mpower (India)
+• Sejiwa (Indonesia)
+SMS helplines
+• Mentally Aware Nigeria Initiative (Nigeria)
+• WeChat (China)
+• National hotline (Philippines and Maldives)
+• South African Depression and Anxiety Group (South Africa)
+Help-seeking
+and delivery
+of treatment
+services
+
+Online consultation services
+• Practo and Ebate platforms (India)
+• Government programme for health-care workers and children (Turkey)
+
+Services for
+treatmentseeking
+populations
+
+Remote psychological services
+• Problem Management Plus (Peru, Ethiopia, Somalia, Rwanda, Burundi)
+• Parent-mediated therapy (Pakistan)
+• Crisis management (Zambia)
+• Friendship Bench (Zimbabwe)
+• Counselling for overseas workers (Philippines)
+
+Psychiatric hospitals and inpatient units
+• COVID-19 safety guidelines for psychiatric units and
+staff (South Africa, India, Uganda)
+• Community outreach teams for previously hospitalised
+patients (Brazil and Uganda)
+• Online prescribing services (India and Philippines)
+• Modification of delirium treatment and other conditions
+for COVID-19 (Brazil)
+Addiction management and prevention
+• Extended dispensing of opioid-replacement medication
+to reduce need for in-person visits (India)
+• Increased screening for substance use (India)
+Primary care centres
+• Training in detection and
+treatment for mental health
+services in primary care (Uganda
+and Liberia)
+
+Phone-based screening
+• Health workers trained to do phone screenings of populations at risk—
+eg, people in quarantine or older people (India and Philippines)
+Detection of
+psychological
+distress and
+mental illness
+
+Chatbot screening
+• Patient Health Questionnaire-9 administered to all pregnant women
+in programme registries in Socios En Salud (Peru)
+Monitoring social media
+• Artificial intelligence programmes to detect mental illness
+from social media monitoring (China)
+
+Mental health
+and psychosocial
+principles in the
+COVID-19
+response
+
+Online resources
+• Resources and messaging to reduce stigma in the public health
+response and other services (Belize)
+Remote family services
+• Remote services to connect patients hospitalised with
+COVID-19 with families, facilitated by mental health staff—
+eg, Pojok Sahabat (Indonesia)
+
+Identification of
+a person's
+mental health
+problems and
+psychosocial
+difficulties
+
+Community health workers
+• Training for case detection and referral—
+eg, mental health first aid (Pakistan,
+Uganda, Liberia)
+
+All population
+groups
+Remote and home visit contact tracing
+• 3 day case detection training with
+50% of content dedicated to psychosocial
+aspects of contact tracing (Liberia)
+
+Law enforcement training
+• Crisis Intervention Team training on
+mental health for law enforcement
+personnel doing home visits and
+stationed at COVID-19 treatment and
+observation facilities (Liberia)
+Mobile mental health teams
+• Mobile mental health professional teams
+at quarantine checkpoints (Serbia)
+
+Figure 3: Detection and care strategies for mental illness, and the role of mental health and psychosocial support in infectious disease control
+
+half of the 3 day training curriculum for contact tracers in
+the COVID-19 response is devoted to MHPSS content.
+During the Ebola virus outbreak, the IFRC advocated
+the five-pillar response for effective disease control:
+community engagement or social mobilisation, sur­
+veillance and contact tracing, case management and
+treatment, safe and dignified burials and disinfection,
+and overall psychosocial support. Lessons learned from
+this outbreak in west Africa also highlight the need to
+assure the mental health and psychosocial wellbeing of
+health workers, which is equally important now in
+response to COVID-19.116 Similarly, during the Ebola virus
+outbreak, law enforcement personnel also benefited
+from MHPSS training to assist in home visits and
+staffing of treatment centres,117 and de-escalation training
+is recom­
+mended for COVID-19 first responders in
+Lebanon. In Lebanon, child-friendly quarantine guide­
+lines incorporate MHPSS to increase the likelihood of
+successful infection control while mini­mising child and
+family distress.61 Figure 3 provides an overall model of
+MHPSS treatment, detection, and integration in
+COVID-19 responses.
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Reimagining the principles of global mental
+health
+The COVID-19 pandemic has disrupted many previous
+certainties about the way that societies are organised, and
+the relationship between governments and their citizens
+and between nations; however, it also offers a window of
+opportunity to rethink old assumptions and to re-evaluate
+priorities in and approaches to global mental health. We
+argue that global mental health can and must do better to
+successfully respond to the mental health challenges posed
+by COVID-19 globally. These efforts will involve hastening
+the shift from the treatment gap notion, with its implicit
+biomedical emphasis, to a broader care gap perspective,118
+increased recognition of the crucial contribution of civil
+society and local leadership, and action beyond the health
+sector, to make the contexts in which people grow up, live,
+work, and age more promoting of mental health. Although
+the framework shift that we propose is not new,119 it has not
+yet been achieved at scale. To accomplish this goal, we set
+out key opportunities organised around three dimensions
+for change: context (ie, where), stakeholders (ie, who), and
+sectors (ie, what).
+541
+
+Review
+
+Panel 1: Examples of service user partnership in the
+COVID-19 pandemic response
+• The Global Mental Health Peer Network, an international
+organisation for mental health service users, partnered with
+Human Rights in Mental Health–Federation Global Initiative
+on Psychiatry, an international organisation that promotes
+user-oriented mental health services, has advocated for
+greater equality and equity in the pandemic response
+through a joint position statement.143
+• In a study that examined the psychosocial consequences
+of the pandemic, the Global Mental Health Peer Network
+collaborated with the World Dignity Project to carry out a
+global survey to ensure that the voices of people with
+lived experience of mental health, their families,
+and professionals who work with them are heard.144
+• As a result of amplified needs for mental health support
+due to the pandemic, several mental health service user
+organisations have been involved in providing support.
+For example, the Psychiatric Disability Organization Kenya
+is providing psychosocial support for prison staff in
+Nakuru working in isolation, the Zimbabwe Obsessive
+Compulsive Disorder Trust is providing peer support
+addressing anxiety due to COVID-19, and the Global
+Mental Health Peer Network is running online COVID-19
+and mental health virtual support groups twice monthly.
+
+Context: the where of global mental health
+The COVID-19 pandemic has shown that successful
+public health responses are not necessarily correlated
+with national gross domestic product. Some LMICs in
+Asia and Africa have shown how the pandemic can be
+managed with minimal loss of life, whereas some HICs
+in Europe and North America have had some of the
+highest mortality rates in the world.120 The pandemic
+indicates that the time has come to abandon the HIC
+versus LMIC dichotomy, which obscures meaningful
+variations within and between contexts, and too often
+carries an implicit assumption of unidirectional learning.
+Moving beyond these categories by thinking in terms of
+differently resourced settings, we can recognise the
+diversity of resources including, but not limited to,
+financial resources that distinguish between contexts
+globally and can be harnessed to face crises and improve
+health. For example, religious centres, community ties,
+family support structures, traditional healers, village
+leaders, and youth groups are all contextually varying
+resources that are essential to engage with to overcome
+mental and physical health threats, including those of
+COVID-19.121–123 Compared with deficit-based assessments
+of resources, typically defined in terms of money and
+biomedical resources, strength-based assessments
+provide more nuanced perspectives on the assets of
+heterogeneous contexts and avoid the displacement of
+effective local strategies by imported, context-free
+approaches.121 Much can be learned from implementation
+542
+
+research methodologies that measure local conditions
+and evaluate context-dependent mechanisms of change
+when evaluating interventions and implementation
+strategies for mental health care across settings.125
+A new architecture of global mental health is emerging,
+which challenges the view that LMICs are simply data
+collection sites126,127 or test beds for interventions
+developed in HICs, and promotes equitable, mutually
+beneficial partnerships with HICs.99 Insights from
+LMICs will be vital for promoting mental health during
+the COVID-19 pandemic. During the short history of
+global mental health, there has already been an
+investment in building capacity in LMICs for research in
+the field.128–130 Additionally, there has been a substantial
+increase in research led by LMICs, and this is now
+influencing the way in which mental health care is
+envisaged in HICs.127 However, research priorities and
+programmes in global mental health are still too often
+led by funders and academics from HICs.131,132 Research
+from LMICs is valued less in terms of strength of
+evidence and potential global impact, even when
+objectively rated as having equivalent quality.133
+Addressing this bias requires HIC researchers, funders,
+and journal editors to embrace a position of humility,
+alongside challenging enduring colonial attitudes built
+into the education of LMIC professionals.134 In the face of
+the COVID-19 pandemic, the new norm must be mutual
+learning between all countries because even HICs are a
+long way from reaching universal and equitable coverage
+of mental health care.
+
+Stakeholders: the who of global mental health
+For both infectious disease and mental health, public
+health strategies fail when communities are not engaged
+with or are treated as passive recipients.135 Communities,
+including families of people with mental health con­
+ditions, local leadership, community health workers, and
+traditional and religious healers, must be empowered as
+active partners in delivering public health initiatives that
+are grounded in local realities and that recognise the
+interdependence of mental health, physical health, and
+social and economic context. Protecting mental health in
+the face of COVID-19 will be contingent on strategic
+coalitions and the development of collective pressure
+groups.
+There have been some positive steps towards increased
+collaboration in global mental health, including evidence
+of effective collaboration between primary care workers
+and traditional and faith healers.136 However, global
+mental health advocates should become much firmer
+in demanding participatory action to implement
+community-led responses to the mental health impact of
+COVID-19, by taking advantage of a global climate where
+power structures are challenged, linking in with
+collective movements such as MeToo, Black Lives Matter,
+and student-led movements against environmental
+degra­dation.137 Young people’s voices must be central to
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Review
+
+this endeavour, particularly given the potential longterm impact of the pandemic on their life chances.
+Similarly, the role of people with lived experience of
+mental ill health, their families and caregivers, and other
+groups at risk in shaping the systems that exist to serve
+their needs must go beyond nominal participation,
+recognising their unique perspective as experts by
+experience.138 Setting policy without meaningful
+engagement of individuals with lived experience as key
+stakeholders risks, at best, wasting resources on
+ineffective strategies and, at worst, causing harm.139,140
+People with lived experience have a key role in leading
+social contact anti-stigma inter­ventions,141,142 which is of
+particular relevance to efforts addressing intersecting
+the stigma related to COVID-19 and mental health. As
+the COVID-19 pandemic strains trust in authorities,
+localism becomes more important than ever as an
+effective approach to scaling up inter­ventions.
+The potential of peer support and further collaboration
+with people with lived experience of mental illness needs
+to be recognised within mental health-care systems,
+building on emerging initiatives (panel 1). Key lessons
+are to invest in capacity building for service users and to
+support peer workers to bring relational values to work
+(ie, offering equal, reciprocal relationships and taking a
+whole-of-life approach rather than one focused on
+illness). Currently, both LMICs and HICs have a long
+way to go in ensuring involvement of service users in
+research, policy, and programme implementation and
+evaluation.145,146 For system change, there needs to be a
+conscious effort, backed by investment and policy, to
+equip and enable service users to be actively involved in
+all aspects of the system of care.147
+
+Sectors: the what of global mental health
+To achieve good mental health as part of COVID-19
+response efforts, we must ensure that people’s basic needs
+are met and that human rights are protected. When social
+inequalities remain unaddressed, mental health inter­
+ventions are less effective.148,149 The pandemic response,
+including the mental health response, requires recognition
+of the syndemic co-occurrence and inter­action of mental
+health, physical health, and social context (panel 2). Many
+of the social determinants of poor mental health, such as
+living in cramped conditions, scarce access to clean water
+and green spaces, poor nutrition, informal employment,
+and precarious working conditions, increase the risk of
+contracting SARS-CoV-2 and suffering complications after
+infection.156 Therefore, economic recovery packages
+should strategically address the social determinants that
+increase susceptibility to both COVID-19 and mental ill
+health. Across diverse settings, growing evidence indicates
+that national-level policies to improve the living conditions
+of low-paid workers and families can improve mental
+health at the population level.157–159 Social welfare, active
+labour market programmes that help people to retain or
+regain jobs, family support programmes, and debt support
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Panel 2: Applying syndemic theory to global mental health
+in the context of COVID-19
+Syndemic theory postulates that specific localised sociocultural,
+economic, and political conditions contribute to patterns of
+multimorbidity, and that settings without the same contextual
+features will not share these multimorbidity patterns.150–152
+Syndemic theory goes beyond comorbidity to recognise the
+clustering of health burdens in a specific population that
+biologically interact to worsen health, and the shared
+sociostructural forces that exacerbate the biological disease
+interaction.150,153 Therefore, diseases become concentrated in
+specific geographical or temporal contexts where people are
+exposed to harmful social conditions, interacting at individual
+and population levels to worsen health.
+The ways in which, in some settings, COVID-19 is comorbid
+with high prevalence of non-communicable diseases,
+including cardiovascular, pulmonary, metabolic, and mental
+health conditions, and that these other conditions fall along
+gradients of economic and other disparities, suggests that
+there are different types of syndemics around the world,
+including in low-income and middle-income countries. There
+is not one universal COVID-19 syndemic, but rather contextspecific interactions substantially aggravated in specific social
+groups and geographies.152 We cannot refer to a global
+COVID-19 syndemic, as the stark differences in disease
+pattern and response between countries like New Zealand
+and the USA clearly show. A nuanced and localised approach
+is crucial.
+Approaching different local syndemics that involve COVID-19
+highlights the need for integrated, intersectoral,
+and interdisciplinary responses. The interactions between
+substance misuse, violence, and HIV or AIDS154 led to the
+development of various multilevel interventions, including
+integrated behavioural interventions focusing on intimate
+partner violence and HIV prevention; integrated traumafocused care to reduce substance misuse and post-traumatic
+stress disorder; synchronous community mobilisation
+interventions to reduce gender-based violence,
+HIV, and sexually transmitted illnesses (among men and
+women); and economic empowerment interventions to
+reduce gender-based violence and HIV risk.155 For COVID-19,
+taking a syndemic approach should similarly influence mental
+health responses and research, by recognising how biological
+and sociostructural factors interact to create mental health
+inequalities and by promoting a multilevel, intersectoral
+response that addresses the sociopolitical dynamics that lead
+to the clustering and interaction of poverty, infection,
+and mental ill health.150
+
+are all likely to help reduce the mental health impact of
+the crisis.160 In Latin America and Africa, governmental
+cash transfer programmes have doc­
+umented positive
+mental health benefits, which could be more impactful
+than ever during the economic contraction caused by
+543
+
+Review
+
+Panel 3: Recommendations to build back better
+Integrating mental health services into UHC
+Collaborative care strategies for building community capacity,
+based in primary care setup for community care and linkages
+with specialist services, is and must be the singular focus for
+investment.178 Collaborative care designs are essential in UHC
+and must be contextually appropriate and, through intersectoral
+partnerships, simultaneously address social and human rights
+concerns. It is essential to avoid impoverishment and
+catastrophic health-care costs in accessing mental health care.
+Improving access and coverage of psychosocial interventions
+A crucial aspect of UHC for mental health care is the community
+delivery of psychosocial interventions by front-line providers,
+such as community health workers and peers (ie, task-sharing
+interventions). These providers are needed for addressing mental
+health issues related to COVID-19 and for deploying a host of
+innovations, such as digital training and competency
+assessment, peer supervision, and quantifiable quality metrics,
+to help build a workforce to address prevention and treatment
+gaps.179–182
+Eliminating coercion in mental health care
+The Convention on the Rights of Persons with Disabilities has
+laid down the foundational values of a world in which coercion
+must be abolished in all aspects of health care and for all
+people, and has developed various strategies to support
+decision making, rather than substitute it.183 A crucial element is
+engagement of people with lived experience. Peer support
+activities are associated with improved treatment outcomes
+and promotion of human rights.184,185 These strategies are
+essential during the COVID-19 pandemic for the inclusion of
+individuals with mental health conditions in the design and
+implementation of services.186,187
+
+gender, education, employment, and social networks is
+attracting fresh policy attention in the face of unprecedented
+worsening of poverty and inequality in the near future.
+Intersectoral strategies are essential for sustainable recovery
+from mental disorders, and for addressing stigma and other
+negative consequences associated with health seeking119 for
+overall reduction in the incidence of new cases.
+Addressing the mental health of children and young people
+One blind spot of global mental health has been its relative
+neglect of children and young people (aged <24 years).
+More than 80% of the world’s young people live in low-income
+and middle-income countries. Given how the complete closure
+of schools and colleges is directly affecting the lives of
+young people, building back better with intersectional
+approaches must explicitly address this crucially important
+demographic group to promote nurturing environments at
+home, in schools, and across neighbourhoods.189
+Incorporating technological innovations in mental health
+services
+The COVID-19 pandemic has fuelled a striking transformation
+in the use of digital platforms for various mental health-care
+tasks. The opportunities presented by use of digital technology
+could address stigma and discrimination, isolation and
+marginalisation; identify individuals at risk (through social
+media footprints); and assist with the training and supervision
+of front-line workers. However, caution is needed so that its use
+does not increase the existing disparities in access. Use of
+personal digital information also needs to be done in
+accordance with local regulations and in a way that maximises
+protection of privacy and confidentiality.190
+UHC=universal health coverage.
+
+Integrating mental health interventions into other sectors
+COVID-19 has amply shown the interdependence of health and
+other sectors.188 The relationships between mental health and
+
+For more on the Society for
+Nutrition, Education, and
+Health see https://
+snehamumbai.org
+
+544
+
+COVID-19.161 For example, greater coverage of the
+conditional cash transfer programme, Bolsa Família, in
+municipalities across Brazil was associated with reduced
+suicide rates.162 In Malawi’s Social Cash Transfer
+Programme, depressive symptoms in young people were
+reduced by 15 percentage points, with the greatest benefits
+for those with the worst mental health.163,164 Examples of
+other initiatives that have incorporated social and
+economic interventions into health programmes with
+important lessons for the crisis include the Atmiyata
+programme165 and the Society for Nutrition, Education,
+and Health Action’s violence prevention interventions166 in
+India, Dream-a-World cultural therapy in Jamaica,167 the
+integrated intervention model for dialogue and screening
+in Kenya,168 and innovative nutrition programmes that
+simultaneously address violence, poverty, and mental
+distress in Ecuador.169
+
+Furthermore, inequality is an important determinant
+of mental health,170 and this is worsening as a result of
+the pandemic. Therefore, we must follow the Sustainable
+Development Goal principle of leaving no one behind
+and target interventions for the most marginalised
+groups. Such groups include people with severe mental
+illness or disabilities, communities living in extreme
+poverty, immigrants and displaced populations, and
+individuals who face discrimination for any reason.171,172
+The challenges of the COVID-19 pandemic further justify
+use of the principle of proportionate universalism,160
+which focuses on protecting the rights and basic needs of
+young people (eg, enabling schools to open safely);
+reducing gender-based violence, which has escalated
+during the pandemic; and implementing environmental
+protection strategies, given the impact of environmental
+degradation on virus transmission and mental health.173
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Review
+
+Building back better
+The COVID-19 pandemic has affected mental health in
+all contexts and has highlighted the weaknesses of
+mental health systems globally. COVID-19 has shown the
+mental health impacts of pandemics not only on
+individuals with existing mental health needs but also
+across populations due to the polices aimed to stem its
+spread, which disproportionately affect vulnerable and
+already disadvantaged groups. It is vital that we recognise
+these effects as a historic opportunity to reimagine
+mental health systems, building on the vast body of
+clinical, implementation, and public health science119,174
+with the active engagement of all relevant stakeholders,
+particularly people with lived experience.
+Building back better was a concept introduced in a
+report issued at the second anniversary of the
+2004 Indian Ocean tsunami by the UN SecretaryGeneral’s Special Envoy for Tsunami Recovery, former
+US president, Bill Clinton.175 Since then, the concept
+has become the approach for nearly all post-disaster
+reconstruction programmes, including upending
+previously unchal­lenged and inadequate policies and
+practices. In 2013, the principles of building back better
+were used by WHO to provide a framework to support
+the development of sustainable post-disaster mental
+health systems, globally.176 Resource-limited countries,
+such as Afghanistan, Sri Lanka, Jordan, Nepal, and the
+occupied Palestinian territories, have shown how
+fragile mental health systems can be strengthened
+during and in the wake of public health emergencies.
+The COVID-19 pandemic and the likelihood of future
+pandemics highlight the importance of resilient and
+responsive mental health systems.177 Although increased
+global and national investments in mental health were in
+great need even before the COVID-19 pandemic, there is
+a threat that the diversion of policy focus on the pandemic
+might further delay progress in mental health. We must
+work in concert with all stakeholders to ensure that
+resources are mobilised for strengthening mental health
+systems and that these investments are used in an
+effective and efficient manner, and cover the entire
+spectrum of needs, from promotion, protection, and
+prevention to treatment, care, and recovery. Reports from
+The Lancet Commission on global mental health and
+sustainable development119 and World Bank’s Disease
+Control Priorities174 have outlined priorities for the
+strengthening of mental health systems. Within the
+context of COVID-19, we recommend a set of practical
+actions to address these priorities (panel 3).
+
+Conclusions
+The COVID-19 pandemic has disrupted every aspect of
+life in all countries almost simultaneously and, in this
+respect, represents a global phenomenon unlike any
+other in human history. Emerging evidence indicates
+that the mental health impacts will be large, longlasting, and greatest in under-resourced contexts and
+www.thelancet.com/psychiatry Vol 8 June 2021
+
+Search strategy and selection criteria
+Section leads searched the peer-reviewed literature on
+PubMed for articles published between Jan 1 and
+July 31, 2020, describing the impact of the COVID-19
+pandemic on mental health using the search terms “mental
+health”, “depression”, “anxiety”, “psychosis”,
+“schizophrenia”, “posttraumatic stress disorder”, “suicide”,
+“substance use disorders”, “alcohol use disorders”, or “child
+and adolescent mental health” and “COVID-19”. The search
+was restricted to articles published in English. We used the
+current fiscal-year classifications of World Bank Country and
+Lending Groups and included low-income, lower-middleincome, and upper-middle-income countries on the basis of
+2019 economic data. Given that research on this topic
+continues to evolve rapidly and, to date, there have been
+relatively few studies published from low-income and
+middle-income countries, we broadened our search to
+Google searches and contacted key informants (including
+the large and globally representative group of authors of
+this Review). We reviewed reports and guidance from WHO,
+the Inter-Agency Standing Committee, MHPSS.net and
+mhinnovation.net, and reached out to non-governmental
+organisations in low-income and middle-income countries.
+The resulting literature was summarised and interrogated
+by our authorship group, which included senior global
+mental health experts, and relevant content was
+synthesised through multiple rounds of feedback and
+review.
+
+disadvantaged populations. Unless addressed robustly
+and urgently, these impacts will contribute to enormous
+human suffering, premature mortality, and social
+breakdown, and will slow down economic recovery.
+Although there was already an enormous crisis relating
+to mental health before the pandemic, COVID-19
+presents an historic opportunity for all countries and
+global agencies to reassess how human society organises
+itself to recover from these impacts. We know what this
+should look like; not only should we invest in building
+mental health systems now but we should also ensure
+that these investments embrace the diversity of
+experiences and actions that characterise mental ill
+health, well beyond the narrow biomedical focus on
+doctors, diagnoses, and drugs that has dominated
+mental health policies globally. Thus, we call for a
+balanced approach that addresses the social determinants
+of mental health and the individual clinical needs for
+people with mental health disorders. Mental health
+interventions that fail to take account of social
+determinants of mental ill health, especially those
+exacerbated by COVID-19, will fail to achieve their
+intended impacts. With a balanced app­roach, we can not
+only reimagine mental health care in LMICs, but also
+reframe mental health as a common and prioritised
+aspiration in all countries worldwide.
+545
+
+Review
+
+Contributors
+LK and VP conceptualised and drafted the full manuscript. BAK, CH,
+JAN, and SS led the drafting of each of the four major sections of the
+paper. BAK developed the figures. All authors reviewed and approved the
+final version of the paper.
+Declaration of interests
+VP and SSa are co-founders of Librum, a mental health consulting
+company. TTS reports grant funding from the UK Medical Research
+Council, Bill & Melinda Gates Foundation, and UK Research and
+Innovation. TTS also reports consultancy income for mental health
+research from Save the Children Denmark and The MHPSS Collaborative,
+and travel to a mental health conference paid by the Tunisian Government.
+CB reports grants from the US National Institutes of Health. LK is
+supported by the US National Institute of Mental Health
+(NIMH; K43TW011046). BAK is supported by the US NIMH
+(R01MH120649). CH and GT are funded by the National Institute of
+Health Research (NIHR) Global Health Research Unit on Health System
+Strengthening in Sub-Saharan Africa, King’s College London
+(GHRU 16/136/54) using UK aid from the UK Government. CH receives
+support from AMARI as part of the DELTAS Africa Initiative [DEL-15-01].
+GT is supported by the NIHR Applied Research Collaboration South
+London at King’s College London NHS Foundation Trust. GT also receives
+support from the NIMH of the National Institutes of Health under award
+number R01MH100470 (Cobalt study). GT is supported by the UK Medical
+Research Council in relation to the Emilia (MR/S001255/1) and Indigo
+Partnership (MR/R023697/1) awards. JE is supported by the UK Foreign,
+Commonwealth and Development Office through the SUCCEED Research
+Programme Consortium at London School of Hygiene and Tropical
+Medicine. MB is supported by the Wellcome Trust/DBT India Alliance.
+TTS is supported by a UK Research and Innovation Future Leaders Fellow
+award. TR is supported by a UK Economic and Social Research Council
+fellowship (ES/T007125/1). JAN and VP are supported by the US NIMH
+(5U19MH113211). The views expressed are those of the authors and not
+necessarily those of the NIMH, NHS, the NIHR, UK Department of
+Health and Social Care, or any other funder. All other authors declare no
+competing interests.

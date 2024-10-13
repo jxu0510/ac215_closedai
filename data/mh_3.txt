@@ -1,0 +1,2400 @@
+FORUM – SOCIAL DETERMINANTS OF MENTAL HEALTH AND DISORDER, AND EFFECTIVE
+PREVENTION STRATEGIES
+
+The social determinants of mental health and disorder: evidence,
+prevention and recommendations
+James B. Kirkbride1, Deidre M. Anglin2,3, Ian Colman4, Jennifer Dykxhoorn1, Peter B. Jones5,6, Praveetha Patalay7,8, Alexandra Pitman1,9,
+Emma Soneson10, Thomas Steare7, Talen Wright1, Siân Lowri Griffiths11
+1
+
+Division of Psychiatry, University College London, London, UK; 2City College, City University of New York, New York, NY, USA; 3Graduate Center, City University of New York, New
+York, NY, USA; 4School of Epidemiology and Public Health, University of Ottawa, Ottawa, ON, Canada; 5Department of Psychiatry, University of Cambridge, Cambridge, UK; 6Cambridgeshire & Peterborough NHS Foundation Trust, Cambridge, UK; 7Medical Research Council Unit for Lifelong Health and Ageing, University College London, London, UK; 8Centre
+for Longitudinal Studies, Social Research Institute, University College London, London, UK; 9Camden and Islington NHS Foundation Trust, London, UK; 10Department of Psychiatry,
+University of Oxford, Oxford, UK; 11Institute for Mental Health, University of Birmingham, Birmingham, UK
+
+People exposed to more unfavourable social circumstances are more vulnerable to poor mental health over their life course, in ways that are often de­ter­
+mined by structural factors which generate and perpetuate intergenerational cycles of disadvantage and poor health. Addressing these challenges is an
+imperative matter of social justice. In this paper we provide a roadmap to address the social determinants that cause mental ill health. Relying as far
+as possible on high-quality evidence, we first map out the literature that supports a causal link between social determinants and later mental health
+outcomes. Given the breadth of this topic, we focus on the most pervasive social determinants across the life course, and those that are common across
+major mental disorders. We draw primarily on the available evidence from the Global North, acknowledging that other global contexts will face both
+similar and unique sets of social determinants that will require equitable attention. Much of our evidence focuses on mental health in groups who are
+marginalized, and thus often exposed to a multitude of intersecting social risk factors. These groups include refugees, asylum seekers and displaced per­
+sons, as well as ethnoracial minoritized groups; lesbian, gay, bisexual, transgender and queer (LGBTQ+) groups; and those living in poverty. We then
+introduce a preventive framework for conceptualizing the link between social determinants and mental health and disorder, which can guide much
+needed primary prevention strategies capable of reducing inequalities and improving population mental health. Following this, we provide a review of
+the evidence concerning candidate preventive strategies to intervene on social determinants of mental health. These interventions fall broadly within the
+scope of universal, selected and indicated primary prevention strategies, but we also briefly review important secondary and tertiary strategies to pro­
+mote recovery in those with existing mental disorders. Finally, we provide seven key recommendations, framed around social justice, which constitute a
+roadmap for action in research, policy and public health. Adoption of these recommendations would provide an opportunity to advance efforts to inter­
+vene on modifiable social determinants that affect population mental health.
+Key words: Mental health, mental disorder, social determinants, social risk factors, prevention, marginalized groups, population mental health,
+social justice
+(World Psychiatry 2024;23:58–90)
+
+Social determinants of health represent the most modifiable
+set of targets for intervention currently available to prevent the on­
+set of mental health problems and disorders, and to promote posi­
+tive mental health in our populations. Social determinants of men­
+tal health encompass the set of structural conditions to which peo­
+ple are exposed across the life course, from conception to death,
+which affect individual mental health outcomes, and contribute to
+mental health disparities within and between populations. These
+structural conditions include factors such as income, employment,
+socioeconomic status, education, food security, housing, social
+support, discrimination, childhood adversity, as well as the neigh­
+bourhood social and physical conditions in which people live, and
+the ability to access acceptable and affordable health care. Impor­
+tantly, our chances of being exposed to protective or harmful so­
+cial determinants of (mental) health are “shaped by the distribu­
+tion of money, power and resources at global, national and local
+levels, which are themselves influenced by policy choices”1. Such
+determinants are therefore not randomly or benignly distributed
+within or between populations, but are manifested by systems and
+institutions of power that often produce and reproduce intergener­
+ational inequities in people’s opportunities to realize safe, secure,
+prosperous and healthy lives.
+
+58
+
+There is now compelling evidence that the risk of developing
+any mental health condition is inextricably linked to our life cir­
+cumstances2, meaning that a higher burden of population-level
+psychiatric morbidity is disproportionately experienced by those
+closer to the margins of our societies. Since poor mental health can
+be the invisible hand that suppresses life chances, including both
+how long we live3 and the quality of years lived4, improving popu­
+lation mental health by designing effective prevention strategies
+that inter­­vene on modifiable social risk factors should be seen as a
+central issue of social justice5.
+We stand at a threshold moment not only in understanding the
+potential causal role of modifiable social determinants in the on­
+set (or exacerbation) of mental health problems, but also in defin­
+ing our response to them through effective prevention strategies
+that reduce inequities in the burden of psychiatric morbidity ex­
+perienced between and within different populations. Arguably,
+the last two decades have brought about some progress in our
+biomedical understanding of psychiatric disorders, while investi­
+gating the importance of psychosocial factors in causing mental
+disorder has remained a peripheral focus for scientific discovery
+and clinical psychiatry. We have expanded our knowledge about
+the immutable, overlapping (pleiotropic) and polygenic bases of
+
+World Psychiatry 23:1 - February 2024
+
+psychiatric disorders that can help explain why some individuals
+are more at risk of a diverse array of psychopathologies than oth­
+ers6. We have also achieved a better understanding of how com­
+plex the neurobiology of different psychiatric conditions is likely
+to be7, including depression, psychosis and bipolar disorder. This
+progress has, however, simultaneously exposed limitations in our
+ability to translate the acquired knowledge into effective clinical
+targets to prevent or alleviate symptoms of mental distress. The
+promise of personalized prediction and treatment remains out
+of reach in routine clinical practice8. Frontline pharmacological
+treatments for depression, anxiety, psychosis and bipolar disorder
+have remained largely unchanged since they were first developed
+in the 20th century9; treatment resistance affects 20-60% of our pa­
+tients10; and the pharmaceutical industry has largely withdrawn
+from psychiatric drug discovery in the last 20 years11.
+These last two decades have simultaneously witnessed at least
+two seismic transformations in the mental health landscape. First,
+unprecedented increases in public awareness and advocacy about
+mental health, well-being and illness, albeit concentrated in the
+Global North, have raised political pressure on institutions and
+governments to act to address the global burden of psychiatric
+morbidity2. Such has been the transformation that promoting men­­
+tal health and well-being is now identified as a specific outcome
+in the United Nations (UN) Sustainable Development Goals​12, a-­
+long­side targets to tackle various social determinants of health – in­­
+clud­ing poverty, inequality, gender equality, and social justice – by
+2030. The World Health Organization (WHO) also recognizes the
+urgent need to address how our environments affect mental health.
+In the recent World Mental Health Report2, T. Ghebreyesus, the WHO
+Director-General, reaffirmed the Organization’s com­mitment in
+“transforming the environments that influence our mental health”
+to promote mental well-being and prevent mental disorder.
+Second, longitudinal declines in public stigma and more pos­
+itive attitudes towards major psychiatric conditions such as de­
+pression – particularly in so-called Millennial and Gen Z gen­
+erations13,14 – have been paralleled by sustained increases in the
+number of people seeking help for mental health issues over the
+last 20 years. In some contexts, this has placed overwhelming
+pressure on clinical services tasked with providing primary, sec­
+ondary and tertiary treatment for mental health conditions, with
+evidence globally that economic investment in mental health
+service provision continues to fall far short of need for care2. For
+example, in England, a 54% increase in referrals to public mental
+health services from 2016 to 2022 was accompanied by a mere
+10.9% real-terms increase in service funding15,16, highlighting the
+growing treatment gap in population mental health. This gap has
+been reported globally for depression17 and psychosis2, and is par­
+ticularly high in low- and middle-income countries (LMICs)18.
+The increased need for mental health care over the last two de­
+cades is not randomly distributed within populations, but follows
+clearly the social, demographic and economic lines along which ex­
+periences of poor mental health and receipt of mental health care
+are inequitably distributed2.
+Nowhere is this more evident than in the case of children and
+young people. Given that adolescence represents a critical period
+
+World Psychiatry 23:1 - February 2024
+
+of neural, psychological, behavioural and social development, it is
+perhaps no surprise that so many mental health problems emerge
+for the first time during this period. A recent systematic review of
+the pre-pandemic literature estimated that the onset of around
+one third, half and two thirds of any mental disorder will have al­
+ready occurred by ages 14, 18 and 25, respectively19. In the US, the
+proportion of university students – typically aged 18-22 years –
+who reported having been treated for mental health problems has
+risen from 19% in 2007 to 34% in 201720. A rapid increase in selfreported depressive symptoms amongst younger adolescents in
+the US since 2012 has also been reported, peaking in 2018 (the last
+date of available survey data)21. These are not isolated findings.
+Further research from the US22, Canada23, Europe24, France25, Ice­
+land26 and Australia27,28 all suggest that rates of depression, anxi­
+ety, self-harm, eating disorders, attention-deficit/hyperactivity dis­
+order (ADHD) and suicide have risen rapidly amongst teenagers
+since 201029, particularly in females26,27,30,31. By contrast, there is
+some evidence that the prevalence of alcohol and drug use disor­
+ders24,32 and behaviours33 has decreased over this period.
+Observed changes in the prevalence of mental health prob­
+lems in children and young people have been attributed to both
+period21 and cohort22 effects. While the COVID-19 pandemic – a
+textbook period effect – appears to have had only minimal im­
+pact on long-term mental health in the general population34,35,
+impacts on children and young people, who have often borne the
+brunt of restrictive lockdown policies, are more pronounced25,34,35.
+For example, in England, the number of people less than 18 years
+old accessing public mental health services in the previous 12
+months increased by 20.4% between the start of the pandemic and
+July 202215. These patterns have been observed in several differ­
+ent countries34,35, and extend to suicidal outcomes, particularly
+amongst girls34. Inequalities in poor mental health following the
+COVID-19 pandemic have also been reported for women36-38, lowincome households36, and several groups minoritized by race and
+ethnicity38, gender identity and sexual orientation39, or migrant
+status40.
+Other shocks (i.e., food, energy and economic crises, global con­­
+flicts, racial injustice), in addition to ongoing climate change, also
+contribute to the inequitable distribution of mental health and dis­
+order in our populations. These shocks affect people’s freedom of
+movement, social connectedness, and levels of isolation and lone­
+liness. They influence people’s economic precarity through impacts
+on employment, income, education, food and housing security.
+They affect people’s agency and autonomy by threat to life, liveli­
+hood and civil liberties, whether via experiences of interpersonal,
+institutional or systematic racism, or displacement through conflict
+and violence, political instability, or climate-related events. Most
+inescapably, these acute shocks belie a more chronic, pervasive ex­­­­
+posure to negative social determinants which erode people’s oppor­­
+tunities to sustain good mental health, recover from poor mental
+health, and prevent illness in the future. Repeated exposure to these
+determinants can create cycles of intergenerational disadvantage,
+which affect individual, familial and area-level in­equal­ities in men­
+tal health2,41.
+At this critical juncture, we argue for the need to fully integrate
+
+59
+
+a social determinants perspective into the biopsychosocial model
+of mental health and illness. This requires establishing the extent to
+which various social determinants are causally implicated in pro­
+ducing poor mental health, and generating inequalities in risk for
+mental disorders. It also involves understanding the mechanisms
+and pathways through which these outcomes arise. Armed with
+this knowledge, we will be in a stronger position to fund, develop,
+test and implement evidence-based prevention strategies tackling
+the social determinants of mental health that shift the popula­
+tion-level expression of mental disorders. In turn, this can reduce
+gross inequities in the mental, physical and social outcomes that
+arise as a result of poor mental health. Such public mental health
+strategies should sit alongside existing evidence-based strategies in clinical psychiatry that have proved effective in treating indi­­­
+viduals.
+In this paper, we provide a roadmap towards this ambitious
+but necessary revolution. We first review the evidence that exists
+to support a causal association between key social determinants
+and mental health and disorder. We focus on those determinants
+which may have broad effects on several major mental disorders
+globally, and/or which may be highly prevalent in society, and
+thus have the potential to offer the biggest gains for public mental
+health prevention. These include social determinants that occur at
+the individual or family level (including socioeconomic disadvan­
+tage, discrimination, isolation and loneliness, early life adversities,
+childhood traumas), and those in the wider social environment
+(including neighbourhood disadvantage, social capital, the physi­
+cal environment, and climate change). Our review pays special
+attention to inequalities experienced by women; lesbian, gay, bi­
+sexual, transgender and queer (LGBTQ+) people; migrants and
+ethnoracial minoritized groups. Throughout, we cite the strongest
+quantitative evidence, where available, and acknowledge any gaps
+in knowledge. One limitation of this approach is that the major­
+ity of the evidence we draw from – though by no means alle.g.,42 –
+comes from high-income countries (HICs) in the Global North.
+Redressing the inequitable production of knowledge in this field
+is beyond the scope of our review, but provides a direct challenge
+to make global progress on the UN Sustainable Development Goal
+for mental health12,43. Where available, we highlight evidence col­
+lected in the Global South, but recognize that different contexts
+will also face unique social determinants of mental health that re­
+quire dedicated attention.
+We then introduce a preventive framework for conceptualiz­
+ing how such social determinants affect the expression of mental
+health and disorder at the population level, and how this under­
+standing can ground and guide prevention strategies to improve
+public mental health. In this framework, we introduce the funda­
+mental idea of treating whole populations, which should sit along­
+side prevailing models of individual clinical care in psychiatry.
+Treatments here, broadly defined, may include universal, selec­
+tive or indicated primary prevention strategies that intervene on
+social determinants of health aiming to affect the population-level
+expression of mental health and illness, as well as secondary and
+tertiary prevention strategies to help those with existing mental
+health problems. Using this framework, we then review the current
+
+60
+
+strength of evidence on the efficacy and effectiveness of a (nonexhaustive) set of universal, selective and indicated strategies that
+intervene on social determinants for the prevention and allevia­
+tion of mental distress. In the final section of the paper, drawing to­
+gether current evidence, we provide a set of seven recommenda­
+tions for action, as a roadmap for improving population mental
+health and reducing inequities in mental health and disorder.
+
+SOCIAL DETERMINANTS THAT IMPACT MENTAL
+HEALTH AND DISORDER: THE EVIDENCE
+Social determinants at the individual level
+Socioeconomic disadvantage
+Socioeconomic disadvantage is a fundamental determinant of
+mental health outcomes over the life course44-46. Strong socioeco­
+nomic gradients have been observed for an array of mental health
+outcomes in HIC45 and LMIC settings42. Socioeconomic disadvan­
+tage can be operationalized in several ways, and is a multifaceted
+construct encompassing different dimensions, including educa­
+tion47,48, finance49,50, occupation51-53, and living standards54,55. All
+these dimensions have been associated with mental health and
+disorder, and social inequalities in mental health may arise from
+a series of interrelated structural and cultural processes operating
+in society.
+According to structural explanations, social stratification cre­
+ates unequal access to resources – such as wealth and knowledge –
+that help individuals avoid exposure to harmful stressors46. Higher
+levels of wealth and income enable access to key determinants of
+positive mental health, including adequate and safe housing55,
+sufficient food security54, and effective health care. Income losses
+appear to have a far greater impact on mental health than income
+gains49, with further financial stressors such as income volatility,
+perceived job insecurity and moving into debt all linked to worsen­
+ing mental health50,56,57. Poor mental health itself can also impact
+earnings and contribute to financial stress, meaning that the rela­
+tionship between socioeconomic disadvantage and mental health
+is likely to be bi-directional58. Indeed, while there is a long-stand­
+ing debate about the so-called “social causation” and “social drift”
+theories of mental disorders46, recognizing the bi-directional and
+cyclical relationship between socioeconomic disadvantage and
+mental health is likely to be vital for promoting prevention strate­
+gies that interrupt the intergenerational transmission of environ­
+mental risks for mental disorders2. Since socioeconomic disadvan­
+tage is both a risk factor for, and a consequence of, mental disor­
+ders, establishing key periods over the life course to intervene is a
+critical step towards effective prevention. We note here the need
+for stronger causal inference methods to address these challenges
+in observational studies.
+Early life exposure to socioeconomic disadvantage may be par­
+ticularly harmful for later mental health. For example, in a sys­
+tematic review of evidence in children and adolescents59, 52 of
+55 studies (mostly from HICs), including 25 longitudinal ones,
+
+World Psychiatry 23:1 - February 2024
+
+reported an inverse association of mental health problems with
+socioeconomic position. Children growing up in socioeconomic
+disadvantage were 2-3 times more likely to experience mental
+health problems than their non-disadvantaged peers, with risk as­
+sociated with both duration and severity of exposure. A systematic
+review reported similar associations with respect to ADHD60. An
+inverse relationship between parental income during a child’s up­
+bringing and later schizophrenia risk has been also found in Den­
+mark61,62, independent of parental mental health and education.
+Birth cohort evidence from the UK also suggests that children
+growing up or transitioning into poverty are more likely to experi­
+ence mental health problems by age 11, independent of maternal
+mental health63. Finally, there is also systematic review evidence
+from LMICs that supports (mostly cross-sectional, but extending
+to longitudinal) associations between poverty and depression in
+adulthood42.
+If causal, early life exposure to socioeconomic disadvantage
+may increase risk of mental health problems through several differ­
+ent mechanisms, based on potential biological, psychological and
+social pathways64. In LMIC settings, a systematic review conclud­
+ed that education, food insecurity, socioeconomic position and
+financial stress had more consistent effects on risk for common
+mental disorders than income and employment42. Families lack­
+ing financial resources are less likely to have their basic needs met,
+including adequate nutrition, which prenatally has been shown to
+increase the risk of some psychiatric disorders, including schizo­
+phrenia, later in life (see below)65. Ongoing familial socioeconomic
+disadvantage is also likely to contribute to chronic stress for parents,
+which may affect parenting behaviours and the stability of fam­ily­
+environments, and may also result in fewer longer-term education­­
+al and employment opportunities for children. Mental health
+inequal­ities according to education level have been seen across
+the lifespan. Leaving school at a younger age, fewer years in for­
+mal education, and having a lower level of education are each as­
+sociated with poorer future mental health and increased risk of
+suicide48,66. Education is likely to impact mental health through a
+variety of means, such as determining one’s future social status and
+income, although these associations are likely to be partially due
+to confounding by early-life factors such as childhood adversity67.
+
+Early life adversity
+There is strong evidence that several early life (defined here as
+prenatal and perinatal) adversities – including maternal stress,
+obstetric complications, and malnutrition – can have profound
+effects on mental health and disorder decades later68. These events
+do not affect all people equally, making them strongly socially de­
+termined risk factors for offspring mental health. For example, pa­
+rental socioeconomic status and experiences of income inequal­
+ity are associated with adverse birth outcomes69. Furthermore,
+in the US, there is consistent evidence of racial/ethnic disparities
+in adverse maternal and neonatal outcomes (including preterm
+birth, low birthweight and infant mortality) and receipt of prenatal
+
+World Psychiatry 23:1 - February 2024
+
+care70, all of which are higher for Black, Hispanic and Indigenous
+groups than non-Hispanic White and Asian groups. These dispar­
+ities are hypothesized to arise through structural racism that oper­
+ates on a number of levels to affect “a woman’s knowledge of pre­
+natal care (individual); the amount of support she receives from
+her family, friends, and community (social); experiences with rac­
+ism and other social and environmental stressors (social); the way
+she is treated by her care provider (institutional); and the policies
+and practices of her insurer (systemic)”70, p.124.
+There is good evidence that exposure to prenatal maternal
+stressors – including financial stress and relationship difficulties
+– is associated with increased risk of many (though not all) off­
+spring behavioural and mental health outcomes, including neuro­
+cognitive development71, negative affectivity71, externalizing and
+internalizing problems in childhood71, autistic traits71, borderline
+personality disorder71, anxiety71, depression71,72, and psychosis68.
+Nevertheless, this association has not been universally observed.
+For example, a systematic review on ADHD and autism spectrum
+disorder found that evidence was limited to low-quality case-control
+studies, raising doubts about the likelihood of a causal association
+73
+.
+Prenatal malnutrition following famine exposure has also been
+strongly associated with risk of psychotic disorders65, notwith­
+standing similar issues around causality. A systematic review also
+found evidence to support a protective effect of prenatal multivita­
+min supplementation on autism spectrum disorder74, but this was
+restricted to high-quality studies. Surprisingly few studies have ex­
+amined the association between prenatal nutrition and common
+mental disorders, with no systematic review available, although
+some longitudinal evidence exists for childhood mood and be­
+havioural outcomes75-77, with associations persisting after adjust­
+ment for maternal perinatal mental health, prenatal smoking and
+alcohol use. Early life vitamin D deficiency has also been proposed
+as an explanation for higher risk of various psychiatric disorders78,
+but recent causally-informed evidence does not support this for
+depression79-81, schizophrenia82 and Alzheimer’s disease81.
+Understanding the causal mechanisms through which any pre­
+natal exposure may affect offspring mental health remains a criti­
+cal objective for psychiatric epidemiology. These associations may
+be particularly vulnerable to unobserved confounding and se­
+lection effects, most importantly by maternal mental health and
+behaviour. Cyclical relationships between poor perinatal men­
+tal health, social adversity, maternal stress, maternal behaviour
+(in­cluding alcohol and substance use), maternal care and prena­
+tal nutrition83 may lead to a sociodevelopmental cascade that in­­
+creases exposure to adverse child outcomes (all of which have been
+associated with risk of mental disorders), including early life infec­
+tions (with a stronger relationship between some infections and
+psychosis68 rather than depression84), obstetric complications68,85,
+altered neurodevelopment86, childhood adversities87, and behav­
+ioural and mental health difficulties88. If proven, this would warrant
+public mental health strategies focused on improving prenatal ma­
+ternal, parental and familial conditions as an intervention strategy
+that could benefit multiple parent-child outcomes.
+
+61
+
+Childhood adversity
+
+Migration
+
+Childhood adversity is an especially well-characterized social
+determinant of mental ill health. Whilst no consensus definition
+exists, McLaughlin defines these adversities as “experiences that
+are likely to require significant adaptation by an average child
+and that represent a deviation from the expectable environment”​
+89, p.363
+. To date, much research has focused on a “core set” of
+­ad­versities that includes child maltreatment (i.e., physical, sexual
+or emotional abuse; neglect; exposure to domestic violence) and
+household dysfunction (e.g., substance use, mental ill health, or
+incarceration of a parent or other household member; paren­
+tal separation or divorce). In a seminal study on these adverse
+childhood experiences90, they were found to be associated with
+a 4- to 12-fold increased risk of depression, suicide attempt and
+substance abuse. Increasingly, the conceptualization of childhood
+adversity has expanded to include interpersonal adversities oc­
+curring outside of the home environment (e.g., bullying victimi­
+zation)91.
+Experience of childhood adversity is unfortunately common​
+89,92,93
+. For example, the World Mental Health Surveys estimate
+that around two in five individuals have experienced at least one
+form of childhood adversity94. These experiences are clustered in
+patterns that are unequally distributed throughout the popula­
+tion95. In particular, greater socioeconomic disadvantage, which
+can place increased stress on parents and families96, is one of the
+clearest and strongest determinants of exposure to childhood ad­
+versities95,97; recent evidence suggests that this may be mediated
+by effects on parental mental health97. Children who grow up ex­
+periencing more family discord98,99, who are born to adolescent
+mothers95, and who grow up in single-parent households99 are
+more likely to experience multiple childhood adversities. More­
+over, given systemic inequalities in socioeconomic disadvantage,
+there is also strong evidence that women, people from ethnora­
+cially minoritized backgrounds, and Indigenous populations are
+more likely to experience multiple childhood adversities100,101.
+Clear and consistent evidence has demonstrated associations
+between childhood adversity (both prospectively- and retrospec­
+tively-measured) and several poor mental health outcomes in
+childhood, adolescence and adulthood, including general psy­
+chopathology, depression, anxiety, self-harm, psychosis and sui­
+cide95,102-105. If causal, the population-attributable risk proportions
+(the percentage of disorder that could hypothetically be prevented
+via removal of the exposure) for childhood adversity are substan­
+tial, calculated at 28.2% of all psychiatric disorders amongst chil­
+dren and adolescents92, and 29.8% amongst adults94.
+This epidemiological evidence strongly suggests that approach­
+es to reduce childhood adversities and their impact are promis­
+ing routes for reducing the incidence of mental disorders in the
+population96. Importantly, however, there is still much to learn
+a­bout the complex relationship between childhood adversity and
+mental disorders. Recent findings from studies pertaining to mea­
+surement91,106 and prediction modelling107,108 offer important op­
+portunities to support the development and evaluation of policies
+and interventions to address this widespread societal problem.
+
+Migrants are exposed to a complex set of social determinants
+of mental health. This has resulted in a disproportionate burden
+of some mental health problems, in particular psychotic disorders.
+Elevated rates of psychotic disorders in migrants were first noted
+in 1932 by Ødergaard amongst Norwegian migrants to the US109,
+and subsequent research has highlighted the consistency of this
+phenomenon amongst many migrant groups and their descen­
+dants110, including both economic migrants111 and refugees112,113.
+There is also consistent evidence of a high prevalence of post-trau­
+matic stress disorders (PTSD) amongst refugees and asylum seek­
+ers114.
+Whether other psychiatric disorders – including depression,
+anxiety, non-psychotic bipolar disorder, and substance use disor­
+ders – and suicide are elevated amongst migrant groups is less clear,
+with some evidence suggesting that the rates of these conditions
+may even be lower among migrants than in the non-migrant ma­
+jority population111,115-117. Most studies specifically concerned with
+common mental disorders in refugees, asylum seekers or forced
+migrants generally lack a comparator, but available evidence sug­
+gests that the prevalence of depression and anxiety may be higher
+in these displaced groups than in the general population114,118.
+Several explanations for these potentially divergent results exist.
+These include the possibility of selection effects, so that people
+with pre-existing mental health problems do not migrate. These
+effects are much less likely to exist amongst displaced persons.
+Elevated psychosis rates amongst both economic and refugee mi­
+grants may – prima facie – challenge these explanations, but young­
+er age-at-migration has been associated with greater psychosis
+risk119, meaning that the influence of positive selection would be
+weaker amongst those who emigrate at earlier ages.
+Other explanations for elevated rates of psychotic disorders in
+migrants and their descendants, and of several psychiatric disor­
+ders in refugees and asylum seekers, include chronic exposure to
+socioeconomic disadvantage and social adversities before, dur­
+ing and after index migration120,121. For example, migrant groups
+may be exposed to many social, economic, political and environ­
+mental conditions that serve as push factors prior to migration
+and increase risk of mental health problems. These may include
+poverty, lack of employment opportunities, food insecurity, con­
+flict, violence, and natural disasters122,123. The act of migrating also
+involves displacement and dislocation, which may be traumatic,
+compromise personal safety, create uncertainty and stress, and
+involve prolonged separation from family124-126, and high levels
+of risk to life or personal safety124. For example, between 40 and
+90% of asylum seekers report traumatic experiences during mi­
+gration118,122,127, including violence, exploitation, and detainment
+during the asylum-seeking process128. Finally, adapting to life in a
+host country can introduce challenges for migrants and refugees,
+including high levels of acculturative stress, exclusion from labour
+markets, precarious employment, housing insecurity, and socio­
+economic deprivation129,130.
+There is strong evidence that the post-migratory environment is
+causally related to mental health problems amongst migrants and
+
+62
+
+World Psychiatry 23:1 - February 2024
+
+their descendants131. While lower rates of mood and anxiety disor­
+ders have been noted in migrants compared with the host popula­
+tion132, rates in children of migrants are similar or elevated com­
+pared with the majority population132,133. Risk of psychosis also
+remains elevated in children of migrants, and may persevere into
+the grandchildren generation134. Post-migratory experiences in­
+clude exposure to discrimination and structural racism135-139, and
+high levels of social isolation and exclusion135,140,141. It has been
+theorized that such experiences lead to psychosocial disempow­
+erment142,143, and there is recent evidence that this pathway may
+explain inequities in psychosis risk experienced by both migrants
+and ethnoracial minoritized groups144. Most people also migrate
+with the expectation of finding better opportunities in the host coun­
+try145,146, which may potentially affect mental health if they are not
+met147. Migrants also face barriers to high-quality, timely and cul­
+turally appropriate psychiatric care148-150, affecting recovery from
+and long-term consequences of experiencing mental disorder.
+
+Ethnoracial discrimination
+Ethnoracial disparities across various mental disorders have
+been documented for decades, independent of migrant status,
+especially in HICs110. The patterns of disparities across racial and
+ethnic categories are complex, with levels of psychological dis­
+tress and symptoms of common mental disorders higher in mi­
+noritized groups than White groups151, but lower prevalence/
+incidence of diagnosed depression, anxiety, or substance use dis­
+orders in many ethnoracially minoritized groups152,153. In contrast,
+there is more consistent evidence of increased rates of psychotic
+symptoms and disorders in ethnoracial minoritized groups, par­
+ticularly amongst groups perceived as more socioculturally distant
+from the racial or ethnic majority population in HICs144,152. For
+those with diagnosed mental disorders, there is strong evidence
+that many ethnoracial minoritized groups – and particularly peo­
+ple of Black ethnicities – experience more negative pathways into
+care and psychiatric treatment154-156, resulting in higher levels of
+morbidity157.
+Many of these ethnoracial differences in the incidence, course
+and treatment of mental disorders have been linked with increased
+exposure to racial discrimination and structural racism among mi­
+noritized groups144. Socioenvironmental risk factors are thought to
+be driven by structural racism – i.e., by interconnected, racially in­
+equitable systems (e.g., housing, education, employment, health
+care, the legal system) that reinforce each other158 to stigmatize,
+discriminate and disempower marginalized people159.
+Racial discrimination involves major events such as experi­
+encing interpersonal racism, exclusion from labour markets, and
+police harassment159,160. These experiences extend to racial micro­
+aggressions, which are more subtle everyday expressions of dis­
+crimination through being slighted, made to feel inferior, stereo­
+typed, and/or invalidated due to race or ethnicity161,162. Racial dis­
+crimination has been prospectively associated with poorer mental
+health and distress163, common mental disorders164,165, psychotic
+disorders166, and risk for conversion to psychosis among those at
+
+World Psychiatry 23:1 - February 2024
+
+high risk167. Racial discrimination is also identified as a reason
+why, even among non-poor upwardly mobile Black Americans,
+the risk of negative health outcomes is higher than for their poor
+White American counterparts168.
+Structural racism can also increase exposure to other risk fac­
+tors for mental disorders at the individual level. For example, re­
+cent research from the Adolescent Brain Cognitive Development
+(ABCD) study in the US169 found that Black children were more
+likely to be exposed to traumatic events, family conflict and ma­
+terial hardship compared with White children. Black children
+also had lower brain volumes in key areas associated with men­
+tal health problems, including the amygdala, the hippocampus
+and prefrontal cortex. These race-related disparities were attenu­
+ated after adjustment for exposure to childhood adversities. Data
+from the same study indicated that Black and Hispanic children
+are more likely to report psychotic-like experiences than White
+children, and that this is partially accounted for by experiences
+of racial discrimination170. This supports further research from
+Europe and Brazil showing that elevated rates of psychotic disor­
+ders in several ethnoracially minoritized groups are attenuated to
+the null after accounting for experiences of structural inequalities
+(socioeconomic disadvantage, poor education, childhood adver­
+sity) and psychosocial disempowerment (discrimination, social
+exclusion)144. Further research is now required to identify the bio­
+psychosocial pathways through which stressors associated with
+experiences of minoritization and discrimination shape mental
+health outcomes171.
+
+Inequalities experienced by the LGBTQ+ community
+Interest in the social determinants of health and mental health
+in LGBTQ+ people has surged in recent years. Acceptance and
+social inclusion of these people have improved consistently over
+recent decades, rising steadily from the late 1970s to the early
+2010s172, and show signs of increasing further during the current
+decade173. Nonetheless, LGBTQ+ people continue to be exposed
+to acts of marginalization and moral panics51,174-176, which can
+have harmful effects on mental health51,177,178. Marginalization
+occurs through discrimination, stigma, anti-queer and anti-trans
+policies, bullying/harassment, and other violence occurring at
+both micro-levels (e.g., microaggressions) and macro-levels (e.g.,
+denial of human rights and health service access)177,179-183, placing
+these people at greater risk of social exclusion and loneliness182.
+Minority stress following exposure to these experiences is thought
+to be a key process in determining mental health outcomes a­­
+mongst LGBTQ+ people184-188.
+There is substantial evidence to suggest that experiences of prej­
+udice, stigma, discrimination, violence, and assumptions of cisheteronormativity (i.e., the implicit and explicit assumption and
+building of society which views everyone as cisgender and het­
+erosexual) hold substantial associations with poor mental health
+and well-being in LGBTQ+ people across the lifespan178,189-191. Pa­
+rental and peer support, the formation of romantic relationships,
+and navigating the coming-out process, appear to affect some of
+
+63
+
+the initial mental health outcomes in LGBTQ+ youth192,193. For
+those who are supported in these processes, there is evidence of
+higher self-esteem and lower depressive symptomatology, com­
+pared with people who do not receive such support193,194. Simi­
+larly, in recent research, navigating homophobia, biphobia and
+transphobia, as well as feeling unable to talk about their experiences
+and navigating cis-heteronormativity, all increase the risk of poor
+mental health, specifically depression, anxiety and suicidality
+192,195,196
+. There is some evidence that mental health outcomes are
+worse for LGBTQ+ people who experience poverty, or who are from
+ethnoracial minoritized backgrounds, highlighting the intersec­
+tional ways in which social inequalities affect mental health187.
+
+Sex-based inequalities
+The incidence and prevalence of many psychiatric disorders dif­
+fer by biological sex. For example, depression and anxiety are ap­
+proximately twice as common in women than men197, a pattern
+that seems reversed in non-affective psychotic disorders (although
+this is most pronounced for first onset in early adulthood)198. Bi­
+polar disorder occurs with more uniformity198. The lifetime prev­
+alence of externalizing and substance use disorders is higher in
+males197, who are also more likely to die by suicide throughout the
+world regions199. The extent to which these differences are biologi­
+cally and/or socially determined remains unclear for some condi­
+tions, as discussed below.
+Several potential drivers for sex differences in the incidence/
+prevalence of common mental disorders have been proposed, in­
+cluding ascertainment biases, family environment, social norms,
+social support, hormones and neurotransmitters200. Although
+available research is limited, there is some evidence challeng­
+ing the notion that these differences are solely biologically deter­
+mined200. First, the magnitude of sex differences in common
+mental disorders varies substantially between countries201, which
+would not be predicted on the basis of biological determinism
+alone. Second, there is accumulating evidence for the causal role
+of certain gendered social risk factors202. For example, the contexts
+in which children grow up and are socialized, alongside differ­
+ences in social and cultural norms and behaviours, are important
+considerations when trying to understand sex differences in men­
+tal health and disorder. Some risk factors are strongly gendered
+(i.e., intimate partner violence is more commonly experienced by
+women), and preventive efforts to tackle their causes are required
+in education, law and wider society203.
+Other conditions, including eating disorders and autism spec­
+trum disorder, have traditionally exhibited more dramatic sex dif­
+ferences in their occurrence, with systematic review evidence that
+the prevalence of eating disorders is up to four times greater in ­bio-­
+­logical females than males204, a ratio reversed for autism spectrum
+disorder205. Recent research on this latter condition has investi­
+gated the extent to which these sex differences arise from biases in
+case ascertainment and detection205-207. Some evidence suggests
+that part of the gap could be due to the validity of diagnostic crite­
+
+64
+
+ria and instruments used to diagnose the disorder, which prioritize
+symptoms labelled as male-typic (e.g., overt restricted interests)
+over symptoms labelled as female-typic (e.g., internalizing prob­
+lems and emotional difficulties)207,208. Likewise, some authors have
+questioned whether eating disorders are likely to be underdiag­
+nosed in biological males206, partly as a result of gendered social
+determinants including stigmatization, trauma and perceptions of
+masculinity.
+An important consideration in understanding how inequalities
+contribute to sex and gender differences in mental health is that
+most societies are structured in ways that generally privilege cis­
+men over all other genders, with even legal equality being achieved
+only in a few countries worldwide209. Nonetheless, the relation­
+ship between gender equality and gendered differences in mental
+health problems is complex. For example, wider gender gaps in
+depression have been observed in countries with higher levels of
+gender equality amongst both adults and adolescents201,210. Vari­
+ous theories have been proposed to explain this evidence. For ex­
+ample, women may experience a mismatch between expectations
+of equality and reality211, and/or face the burden of multiple roles
+as their involvement in the labour market increases in ways that
+are not matched by compensatory increases in men’s involvement
+in domestic, childrearing and other domains212. Indeed, in coun­
+tries with a dual-earner model, where employment, wage earning,
+and domestic and childcare tasks are shared more equitably be­
+tween men and women, gender inequality in mental health risks
+appears to be smaller213.
+
+Loneliness and social isolation
+Interest in loneliness214,215 and social isolation43,215 as social
+determinants of mental health and disorder has burgeoned in the
+last decade. The distinction between these conditions is important,
+and has implications for causal pathways, which have not yet been
+well described, as well as for targeted intervention.
+While social isolation is an objective measure of the number
+of social connections, quantified in terms of social network size
+and number of meaningful ties216, loneliness describes the sub­
+jective and distressing mismatch between a person’s desired and
+perceived quantity and/or quality of social relationships217. It is
+therefore possible to have a large number of social contacts but
+still experience feelings of loneliness, or vice versa. Transient
+experiences of social isolation or loneliness are common after
+moving house, migration or bereavement, serving as a prompt to
+form friendships, such that loneliness could be viewed as an evo­
+lutionary advantage in this context218. However, where chronic
+loneliness sets in, as indicated by consistent problems with fos­
+tering meaningful relationships219, this is more likely to adversely
+impact mental health. Estimates of the prevalence of loneliness
+internationally range from 9 to 14% in adolescents, falling to 3-10%
+in middle age, and rising again to 5-21% in older adults220. Preva­
+lence estimates for social isolation (around 25%) tend to relate to
+older adults, and derive from low-quality evidence221.
+
+World Psychiatry 23:1 - February 2024
+
+The majority of studies investigating longitudinal associations be­
+tween loneliness or social isolation and mental health have fo­
+cused on depression, reporting a longitudinal (and bi-directional
+222-224
+) association of loneliness with depression onset214, sever­
+225
+ity and recovery226. Such research estimates that 11-18% of cases
+could potentially be prevented if loneliness were eliminated225, pre­
+dicated on causality. There is also evidence that loneliness is longi­
+tudinally (and bi-directionally227) associated with anxiety214, as well
+as with suicide attempt228. Both social isolation and loneliness are
+also associated with suicide among men229. In children, whose men­­­­
+tal health and well-being were a particular concern in periods of
+social restriction during the COVID-19 pandemic, both loneli­­­ness
+and social isolation are also associated with depression onset230.
+A mediation analysis has found support for a pathway from social
+isolation to loneliness and subsequent depression and anxiety
+symptoms223, though again bi-directionality was observed. De­
+pression itself may also be a mediator of the association between
+loneliness and suicide attempt228.
+For other mental health outcomes, longitudinal evidence is just
+emerging. Cross-sectional research has found associations be­
+tween loneliness and dementia, paranoia and psychotic symp­
+toms231, but these tell us little about causal pathways. Recent longi­
+tudinal evidence is often based on selected and/or small samples,
+though providing some evidence that loneliness in young adults
+is longitudinally associated with psychotic-like symptoms (but not
+vice versa)232. For dementia, a systematic review of mostly longi­
+tudinal studies reported stronger associations with measures of
+social engagement and isolation than of loneliness233.
+Such is the interest in addressing loneliness to prevent and re­
+duce the severity of mental health problems234 that the UK govern­
+ment has issued an international review of evidence gaps with a
+call for researchers to address them234. Particular priorities in rela­
+tion to mental health are understanding mechanisms, investigat­
+ing the impact of loneliness and social isolation in marginalized
+groups, and addressing the lack of rigorous trials of psychological
+and social interventions to address these key risk factors. Addi­
+tional gaps related to this field are estimates of the prevalence and
+correlates of social isolation in groups other than older adults.
+
+Social determinants in the wider social environment
+Neighbourhood socioeconomic disadvantage and
+inequality
+Some of the earliest studies in psychiatric epidemiology investi­
+gated whether neighbourhood social determinants were associat­
+ed with the incidence and prevalence of mental disorders235. Early
+cross-sectional studies in high-income settings identified particu­
+larly high incidence rates of some severe mental disorders – espe­
+cially schizophrenia and non-affective psychotic disorders more
+generally235-237 – in more urban and socioeconomically disadvan­
+taged neighbourhoods235,236. As with individual socioeconomic
+status (see above), these studies generated considerable debate
+about the relative contributions of social selection (i.e., downward
+
+World Psychiatry 23:1 - February 2024
+
+drift of vulnerable individuals into socially disadvantaged envi­
+ronments) and social causation. This debate continues to date.
+While there is now consistent evidence that people who are born
+and raised in more urban and socially disadvantaged neighbour­
+hoods in HICs are at greater risk of non-affective psychotic disor­
+ders238-241, even after adjustment for individual-level measures of
+socioeconomic status239-242, other research has suggested that this
+may be due to intergenerational selection243, whereby families
+with greater genetic liability to severe mental disorders are more
+likely to remain or drift into more disadvantaged neighbourhoods
+over time.
+In the last decade, epidemiological studies that attempt to le­
+verage genetic information to strengthen causal inference from
+observational data have been published on this issue, with equiv­
+ocal results. For example, a nationwide longitudinal study of pop­
+ulation density and neighbourhood deprivation at age 15 and risk
+for later schizophrenia (and depression) found that associations
+were progressively attenuated to the null in analyses restricted
+to first-degree cousins and siblings243, who shared, on average,
+12.5% and 50% of genes respectively, implying that such associa­
+tions in unrestricted population samples are due to unmeasured
+familial confounding. Some additional studies, based on poly­
+genic risk scores (PRS) for schizophrenia, have also found that
+increased genetic liability predicts living in more densely popu­
+lated244, urban245,246 and disordered245 areas in adulthood244 and
+adolescence245,246. By contrast, two studies have found no rela­
+tionship between PRS for schizophrenia and population density
+at birth246,247. One further study found no evidence that PRS for
+schizophrenia predicted deprivation in adolescence245, although
+another study has shown such a relationship at birth247. Of these
+studies, three went on to test whether genetic liability confounded
+longitudinal associations of neighbourhood deprivation245,247 and
+population density246/urbanicity245 with psychosis risk; all found
+that these associations persisted after adjustment for measures of
+genetic liability.
+Studies of other mental disorders, including depression, anxi­
+ety and bipolar disorder, have generally found less consistent gra­
+dients with neighbourhood social disadvantage and urban-rural
+status248,249. Most evidence has been cross-sectional, remains
+equivocal and is largely based in high-income settings248,249. Lon­
+gitudinal studies of incidence are sparse, and those that have been
+conducted have shown mixed results. Studies based on treated
+depression diagnosed in secondary care support an association
+with urban birth and upbringing243,250, while no such pattern has
+been observed in comparable studies of bipolar disorder251, or in
+longitudinal population-based samples of depression and anxi­
+ety252,253. For suicide, there is consistent evidence that risk is el­
+evated in more disadvantaged, socially fragmented rural rather
+than urban communities249.
+Neighbourhood socioeconomic disadvantage is, of course, a
+multidimensional construct. Interestingly, a recent systematic re­
+view found that one aspect of neighbourhood disadvantage – i.e.,
+perceived or objective levels of crime – was associated with several
+mental health outcomes, including depression, psychological dis­
+tress, anxiety and psychosis254, suggesting that specific aspects of
+
+65
+
+that disadvantage may represent putative targets for prevention.
+Nonetheless, the causal nature of this effect remains to be clari­
+fied, since the effects of crime were diminished after adjustment
+for socioeconomic deprivation, and samples where perceived
+crime and mental health are measured in the same respondents
+may be prone to both same-source bias and reverse causality.
+Another important neighbourhood social determinant, related
+to absolute socioeconomic deprivation, is socioeconomic inequa­
+lity. The aforementioned studies typically estimated associations
+between average levels of neighbourhood socioeconomic disad­
+vantage and mental health. In contrast, studies concerned with
+inequality seek to understand whether the unequal distribution of
+resources (typically based on income) within a population, com­
+munity or neighbourhood is associated with health. Across HICs,
+there is robust correlational evidence that countries with higher
+levels of income inequality experience worse population mental
+health255. A recent systematic review on within-country income
+inequality also found that two thirds of included studies observed
+statistically significant associations, with the majority (55%) sup­
+portive of a relationship between higher inequality and worse
+mental health (the so-called “income inequality hypothesis”)256.
+A further 12% of studies found evidence that higher income in­
+equality was associated with better mental health (supportive of
+the so-called “mixed neighbourhood hypothesis”, which purports
+that the presence of people with higher income levels in a neigh­
+bourhood results in universal improvements in living standards,
+access to resources and health). Studies supportive of the income
+inequality hypothesis were more common for all outcomes stud­
+ied, including depression, psychosis and general mental health,
+and were conducted in both HICs and LMICs256: Their findings
+persisted after control for absolute levels of socioeconomic dep­
+rivation.
+Although different theories exist on how higher levels of in­
+equality may lead to worse mental health256, one possible expla­
+nation is that highly unequal neighbourhoods erode levels of
+trust, weaken social ties, and reduce positive reciprocity, leading
+to greater exposure to stressogenic environments that negatively
+affect mental health. This raises the possibility that neighbourhood
+social capital and other related constructs may be important social
+determinants of mental health, as reviewed in the next section.
+
+Social capital, fragmentation and ethnic density
+Social capital encapsulates the nature and stock of shared so­
+cial resources, relationships and networks available for groups to
+achieve common goals or outcomes. It encompasses concepts
+of trust, reciprocity, norms of behaviour, rules for cooperation,
+collective attitudes, shared language, and the size and structure of
+informal and formal networks. As such, it is a complex, multidi­
+mensional construct, theorized to operate at different levels (i.e.,
+individual, school, workplace, neighbourhood, regional, national);
+be a property of individuals or groups; and have different concep­
+tual dimensions (e.g., structural/cognitive/relational, bonding/
+bridging/linking257). Given such complexities, it would be surpris­
+
+66
+
+ing if there was a universal effect of social capital on health. Rather,
+particular dimensions of social capital could be either protective
+or harmful, dependent on the dimension, level and/or group ex­
+posed.
+Despite this challenge, a recent umbrella review concluded that
+higher levels of social capital were generally associated with better
+mental health outcomes258, based on a set of systematic reviews
+that covered psychological distress, depression and anxiety, and
+behavioural problems and well-being in children. Two reviews
+from that paper found evidence of a stronger effect of cognitive
+(shared language, values and codes) than structural (networks,
+rules, roles) social capital on common mental disorders258.
+To our knowledge, systematic review evidence on social capi­
+tal and suicidal outcomes is missing. Most studies in this space are
+ecological259-263, with several reporting national263, regional261,262
+or neighbourhood-level259 associations between higher levels of
+social capital (particularly trust) and lower suicide rates. Nonethe­
+less, effect sizes for suicidal outcomes appear modest, and are of­
+ten limited to – or stronger in – various subgroups, including White
+men and women261, non-Hispanic Black groups262, men alone262,
+younger groups259 or unmarried people259, or are sometimes not
+found at all260. One of the few longitudinal studies conducted to
+date reported that higher structural social capital was associated
+with lower suicide rates in South Korea264, but further high-quality
+evidence is required.
+A recent scoping review of social capital and psychosis found
+mixed evidence of an association257, with considerable heteroge­
+neity in study design, definitions of social capital, assessment in­
+struments, setting, control for confounders, and findings. As with
+other mental health outcomes, longitudinal evidence is generally
+missing. Of nine studies, four reported an overall protective effect
+of higher social capital on psychosis risk, two found null results,
+and three reported subgroup or nonlinear effects; here, protec­
+tive effects were restricted to women265, those with a family history
+of psychosis266, or people living in areas with either the lowest or
+highest levels of social capital267, especially among ethnoracially
+minoritized groups.
+These subgroup and curvilinear effects may provide important
+opportunities to triangulate evidence about how exposure to con­
+textual factors in the social environment generates inequalities in
+mental health between different groups. In the example above,
+from the ÆSOP study of first-episode psychosis in Southeast Lon­
+don267, rates of schizophrenia were higher for people living in low
+or high social capital neighbourhoods, compared with moderate
+levels. Social capital was estimated in a random sample of resi­
+dents via a separate cross-sectional survey. Importantly, response
+bias meant that White residents were over-represented in the sur­
+vey, biasing estimates of social capital towards those perceived by
+this group. In areas with high social capital – as disproportionately
+perceived by White respondents – psychosis rates were only sub­
+stantially elevated amongst ethnoracial minoritized residents, who
+may have been excluded from accessing this social capital. Inter­
+estingly, this has recently been replicated in longitudinal research
+from Sweden amongst people with a migrant heritage268, and sim­
+ilar findings have been observed in other contexts269.
+
+World Psychiatry 23:1 - February 2024
+
+These findings may provide a mechanistic explanation for ob­
+servations from a related literature that higher levels of ethnic den­
+sity – the degree to which one’s ethnoracial group is represented in
+a neighbourhood – are associated with lower levels of psychosis270.
+Such findings also extend to migrants271. Ethnic density is the­
+orized to have a protective effect on mental health via increased
+social capital (particularly bonding social capital) amongst people
+who share more similar language, norms, codes, customs and cul­
+tural backgrounds. These resources may help buffer against social
+stressors144,272. Relatedly, higher rates of psychosis are observed
+in more socially fragmented neighbourhoods273, an effect that
+appears to persist at school level for young people274. A systematic
+review275 has demonstrated that evidence for a protective ethnic
+density effect is strongest for psychosis270,276, and extends to sui­
+cide277-279, but is less consistent or strong for anxiety and depres­
+sive disorders. Recent systematic review evidence also suggests
+that the protective effect of high ethnic density on psychosis risk
+is more consistent for Black and Latino populations, with mixed
+findings for Asian ones270.
+Ethnic density and social capital may be particularly important
+during childhood. For example, one study found evidence that
+low ethnic density during childhood was associated with later in­
+creased psychosis risk276. This may be linked to greater social and
+cultural isolation, or increased exposure to other risk factors for
+mental health problems, such as bullying280. There is also longitu­
+dinal evidence that social capital in childhood buffers the impact
+of earlier childhood adversity on adolescent mental health prob­
+lems281. Recent cross-sectional data from the National Comorbid­
+ity Survey (Adolescent Supplement) in the US also suggest that
+both school-level bonding and perceived neighbourhood social
+capital are associated with lower risk of mood and anxiety disor­
+ders in young people282.
+As with social capital, the relationship between ethnic density
+and mental health outcomes may be nonlinear283. Very high levels
+of ethnic density (>80%) are indicative of racial segregation283,
+and may be related to poorer mental health for Black Americans
+and Asian Americans in the US283, as well as for some South Asian
+groups in the UK284. In this latter country, mental well-being was
+found to be poorest for people living in the most segregated com­
+munities, an effect larger for Black participants and independent
+of ethnic density285. In highly segregated neighbourhoods, the
+buffering effect of high ethnic density may be eroded as exposure to
+a range of other risk factors for mental health problems increases,
+including social exclusion, deprivation, discrimination, violence
+and crime. These social determinants tend to arise as downstream
+effects of interpersonal, institutional and structural processes and
+policies that govern patterns of residential organization286.
+
+Physical environment
+Physical environment encompasses the built environment
+(housing quality, density and type; urban design), exposure to
+pollution (particularly air and noise pollution), access to green and
+blue space, and climate change. We consider physical environ­
+
+World Psychiatry 23:1 - February 2024
+
+ment as a potential social determinant of mental health because
+exposure to protective or harmful physical environments is rarely
+randomly distributed within or between populations. Rather, ex­
+posure is influenced by many factors already described in this
+paper, including socioeconomic position, minoritization, and
+structural discrimination in policies, institutions and systems that
+govern (in)equitable access to housing, education, employment
+and income287. Given the high correlation between physical and
+social environmental adversities, teasing out their causal mecha­
+nisms remains a challenge, which has led two systematic reviews
+conducted in 2007288 and 2018289 to conclude that there was a lack
+of robust research on the role of physical environment in mental
+health, with a particular paucity of high-quality longitudinal re­
+search.
+Nonetheless, some evidence supports an association between
+mental health and specific aspects of the physical environment. For
+example, longitudinal research suggests that housing regenera­
+tion programs are associated with improvements in depression,
+anxiety and general mental health outcomes55,288. Housing dis­
+advantage is also associated with worse mental health in longi­
+tudinal research55, and may lead to increased residential mobility
+during childhood, which itself has been longitudinally associated
+with more emotional and behavioural problems290, depression290
+and psychosis291 later in life, independent of material disadvan­
+tage, education and social adversities. In further longitudinal re­
+search, children growing up in poorer built environments experi­
+enced more emotional symptoms and conduct problems at age 3
+years292.
+Exposure to some air pollutants has been associated with men­
+tal health and disorder, including in case-only study designs (i.e.,
+self-controlled case series, case-crossover designs) that control for
+short-term time invariant confounders293. A systematic review of
+the effects of particulate matter (PM2.5 or PM10, i.e. finer than 2.5 or
+10 microns in diameter) reported consistent evidence that shortand long-term exposure to PM2.5 was associated with increased
+risk of depression and anxiety, while short-term exposure to PM10
+was associated with suicide risk293. The depression association has
+since been confirmed in a subsequent review294, and may extend
+to other air pollutants, including ozone (O3) and nitrogen dioxide
+(NO2). However, limitations remain, including publication bias,
+failure to consider multiple pollutants simultaneously, and a pre­
+dominantly Global North focus (although with exceptions295). It
+also remains unclear whether observed associations are mediated
+by effects of pollution on physical health, particularly on early life
+neurodevelopment296,297. Systematic review evidence supports a
+link between prenatal/perinatal exposure to PM2.5 and risk of au­
+tism spectrum disorder in offspring298. Findings for other men­
+tal health outcomes remain sparse, although there is emerging
+­evidence of a relationship between nitrogen oxides and psychosis
+299,300
+​
+.
+Evidence on the association of green and blue space with men­
+tal health is predominantly based on heterogeneous measures,
+unrepresentative samples, and cross-sectional study designs, re­
+sulting in mixed findings301-304. Overall, there are currently insuf­
+ficient high-quality data to support this association.
+
+67
+
+Interest is growing in the role that climate change may have on
+mental health. Various mechanisms may be involved, from in­
+creased anxiety or depression arising from existential concerns for
+the future, to exposure to social adversities arising as a result of cli­
+mate change, including job loss, housing insecurity, displacement,
+food insecurity and conflict. While high-quality direct evidence of
+an impact of climate change on mental health remains missing,
+our review highlights how social adversities that may occur follow­
+ing climate change could exacerbate mental health inequalities.
+
+A PREVENTIVE FRAMEWORK FOR POPULATION
+MENTAL HEALTH
+Preventive approaches are paramount to enable meaningful pro­
+gress in reducing the prevalence and impact of social determinants
+that negatively affect population mental health. Prevention in psy­
+chiatry encompasses the mitigation or removal of risk modifying
+factors and the enhancement of protective factors linked to men­
+tal disorders305. Here, the goal is to lower the incidence, prev­alence
+and recurrence of mental disorders, and the burden placed upon
+individuals, their families and wider society306. Given the huge di­
+rect and indirect costs of mental disorders to individuals and to
+society307, there are strong ethical and economic cases for preven­
+tion in psychiatry308. However, there are also costs to prevention,
+some of them paradoxical, which we consider below.
+Prevention strategies are best grounded in a thorough under­
+standing of the epidemiological characteristics of the relevant con­
+dition, and a working – although not necessarily perfect – model
+of causation309. We recognize that screening, early detection, and
+diagnostic testing are essential aspects of an effective prevention
+strategy for mental ill health310. While other reviews have consid­
+ered these clinical tools in great detail311,312, we restrict our review
+of such tools to those that explicitly aim to intervene on social de­
+terminants of mental ill health.
+
+Frameworks for prevention
+The WHO recognizes three levels of prevention: primary, sec­
+ondary and tertiary (see Table 1). Whilst the latter two prevention
+levels are critical for reducing the burden of mental disorders
+through early intervention (secondary prevention) and ongoing
+management (tertiary prevention), action regarding social deter­
+minants falls mainly within the domain of primary prevention.
+Therefore, although we briefly overview evidence from all three
+levels in the following section, we devote most of our attention to
+primary prevention.
+Primary prevention focuses on preventing the onset of mental
+disorders. This level of prevention includes universal, selective and
+indicated strategies, with interventions classified on the basis of
+the risk of individuals or sub-populations to develop a mental dis­
+order.
+Universal prevention strategies focus on entire populations,
+agnostic to risk status. Classic examples include fluoridation of
+drinking water to prevent dental caries, or folic acid fortification in
+flour to reduce neural tube defects during embryogenesis313. In a
+mental health context, examples may include teaching school chil­
+dren about emotions and mental health, or the introduction of a
+universal basic income, which aim to prevent mental disorders in
+addition to potentially bringing wider benefits to society. However,
+the potential benefits of any population-centred approach need
+to be tempered by the fact that modifiable risk factors are usually
+distributed unequally. Some people are at high risk, whereas most
+have a lower baseline risk of developing a disorder. In other terms,
+most of the burden of mental disorder in the population comes not
+from the small proportion of people at the highest risk, but rather
+from the far larger proportion of people with moderate or slightly
+above-average risk. The use of universal preventive interventions,
+therefore, has unequal costs and benefits in different individuals.
+G. Rose, a British epidemiologist, considered the implications of
+this309. He noted that, when we study disease incidence in a single
+
+Table 1 World Health Organization’s classification of preventive approaches for mental disorders (adapted from Fusar-Poli et al312)
+Public health framework
+
+US Institute of Medicine
+
+Primary prevention aims at preventing the new onset (incidence) of one
+or more mental disorders, or of suicidal ideation.
+Universal prevention targets the general public, or a whole population that has not
+been identified on the basis of increased risk.
+Selective prevention targets individuals or subgroups of the population whose risk
+of developing a mental disorder is significantly higher than average, as evidenced
+by biological, psychological or social risk factors.
+Indicated prevention targets high-risk people who are identified as having minimal
+but detectable signs or symptoms foreshadowing mental disorder, or biological
+markers indicating predisposition for mental disorders, but who do not meet
+diagnostic criteria for disorder at that time.
+Secondary prevention aims to lower the prevalence of established cases
+of the disorder or illness in the population (prevalence) through early
+identification and treatment of diagnosable diseases.
+Tertiary prevention includes interventions that reduce disability, enhance
+rehabilitation and prevent relapses or recurrences of the illness.
+
+68
+
+World Psychiatry 23:1 - February 2024
+
+While those with very high distress values (three standard devia­
+tions above the mean) are at highest relative risk, the majority of
+these outcomes occur in those at medium risk – one or two stan­
+dard deviations above the mean. If the whole population distri­
+bution could be shifted to the left, then more occurrences of sui­
+cidal thoughts and non-suicidal self-injury would be prevented
+than using a strategy focused on the few at highest risk315. The full
+implications of this approach are yet to be explored throughout
+preventive psychiatry, but there is clear evidence that this is likely
+to be a fruitful area for important public mental health concerns,
+including common mental disorders316,317 and suicidality315,318.
+The implications are increasingly discussed310,319, but may only
+be fully appreciated when large-scale prevention studies focusing
+on common risk factors for multiple outcomes include measures
+of mental health routinely.
+Although a strong proponent of universal approaches, Rose
+acknowledged that an effective prevention strategy should also
+encompass selective and indicated approaches320. Selective pre­
+vention strategies target individuals or sub-populations who have
+higher risk than the general population for onset of mental dis­
+order. This risk may be assessed using a biopsychosocial model,
+through the evaluation of biological, psychological or social risk
+factors for mental ill health in individuals or subgroups of the
+population. Intervening in this way, particularly if early in devel­
+opment, may serve to interrupt some of the pathways that lead
+from risk factors to mental disorder. Indicated prevention refers
+
+Relative risk
+
+Prevalence in the population
+
+population, we see determinants – genetic or environmental – of
+the position of individuals within the risk distribution. However,
+this can leave us blind to huge differences in risk and disease in­
+cidence that may exist between populations, even though the in­
+dividual determinants may be similar in both. These differences
+between populations, summarized by the population mean of a
+normally distributed risk factor, can be due to factors that are dis­
+tinct from those that determine individual risk within those popu­
+lations; individual risk can be understood only within that wider
+context. The crux of Rose’s argument is that more cases of a dis­
+order may be prevented by focusing on shifting the population
+mean (or other measure of central tendency) to make the whole
+distribution of the sicker population’s risk profile look more like
+the healthier’s one, rather than by targeting the minority at very
+high risk in the population (see Figure 1). The “prevention para­
+dox” is the potential downside of this strategy; while the preven­
+tion may come with some costs for all – even if only a matter of
+inconvenience – most individuals will receive little to no benefit
+from the intervention, even though the benefits for the population
+as a whole may be large314.
+Much of Rose’s work considered physical health, particularly
+cardiovascular disease, but he believed that the same principles
+would apply to mental disorders. As an example, Polek et al315
+showed the implications of a normally distributed risk factor (e.g.,
+mental distress) for the occurrence of suicidal thoughts and nonsuicidal self-injury in a sample of adolescents and young adults.
+
+1
+
+-3SD
+
+-2SD
+
+-1SD
+
+Proportion of cases in population
+
+Mean
+
++1SD
+
++2SD
+
+Relative risk of disorder
+
++3SD
+Risk factor distribution
+
+Figure 1 Hypothetical relationship between a normally distributed risk factor, relative risk of mental disorder and the proportion of cases in the
+general population. A risk factor for mental disorder is normally distributed in the population with a hypothetical mean and standard deviation,
+SD (bell curve indicated by solid black line). That risk factor is associated with a hypothetical relative risk of mental disorder, indicated by the
+dashed black exponential curve. For convenience, we set the relative risk to be 1 (grey dashed horizontal line) at the mean level of exposure to
+that risk factor. The hypothetical proportion of cases that arise in the population are indicated by the grey bars. Under these assumptions, most
+cases of disorder in the population will occur for those only exposed to moderate levels of the risk factor (from the mean to +2 SD above the
+mean). Fewer cases will be generated by the small proportion of the population beyond +3 SD above the mean, even though they are at substan-­­
+tially greater relative risk. Thus, following G. Rose’s argument309, more cases of disorder in a population may be prevented by intervening at
+lower levels of exposure in the general population than by targeting high-risk groups. This hypothetical argument has been confirmed in psychiatry
+(see, for example, Polek et al315).
+
+World Psychiatry 23:1 - February 2024
+
+69
+
+to interventions designed for high-risk populations who are al­
+ready identified as having symptomatology of mental disorder, but
+whose symptoms are sub-threshold for diagnosis.
+Importantly, different levels of prevention may be additive, such
+that an individual may at once be the target of multiple levels of
+prevention strategies. This is perhaps demonstrated most clearly
+in schools, where so-called “multi-tiered systems of support” offer
+a gradated approach to student mental health, whereby all stu­
+dents receive universal interventions, and a smaller proportion
+are offered selective and/or indicated interventions, depending on
+risk status321. Such approaches can be adapted depending on con­
+text322.
+
+of mental disorders begin early in life; c) preventing the onset of
+these problems earlier provides the best opportunity to interrupt
+intergenerational transmission of cyclical relationships between
+social determinants and mental health problems; d) the incidence
+and prevalence of mental health problems and disorders amongst
+children and young people is increasing, making this an impera­
+tive matter of social justice.
+
+Universal prevention strategies
+Parenting interventions
+
+Parents play a crucial role in the emotional and behavioural de­
+velopment of a child. Consequently, many programs have been de­­­­veloped to enhance positive aspects of the parents’ influence. Pro­
+As we argue throughout this paper, social determinants repre­ active and positive parenting techniques increase parent-child at­
+sent some of the most modifiable intervention targets in a field tachment and build self-esteem and confidence, which reduce be­
+where the development of new treatments for established disor­ havioural problems328,329. The most common parenting programs
+ders has largely stagnated. In contrast to other areas of medicine are group-based, which may be a cost-effective method of reach­
+in which preventive approaches have established strong roots, ap­ ing their goals, and last 8-12 weeks, with 1-2 hour sessions week­
+proaches to prevention in psychiatry are inequitably prioritized, ly328,329.
+with the majority of available resources devoted to secondary (and
+Evidence consistently supports the efficacy of these programs
+tertiary) treatment of existing mental disorders (and their con­ in improving child mental health. For example, a systematic re­
+sequences), rather than preventing the onset of new disorders323. view of 24 intervention trials of short-term group-based parenting
+The dearth of action on primary prevention in mental health has programs for children under 4 years old found that the programs
+been recast as one of the grand challenges in global mental health324, had beneficial effects on overall child mental health and behav­
+and very likely hinders progress in reducing the incidence, preva­ iour, as well as on parent-child interaction329. There is further sys­
+lence and burden of mental disorders that afflict society319.
+tematic review evidence that two of the most common parenting
+interventions – the Triple P program330 and the Incredible Years
+program331 – reduce disruptive behaviour in this age group. The
+PREVENTION STRATEGIES THAT ADDRESS SOCIAL effects of parenting interventions may be more pronounced for ex­
+DETERMINANTS: THE EVIDENCE
+ternalizing than internalizing symptoms329, although there is also
+strong systematic review evidence from RCTs supporting benefi­
+In this section, we use the preventive framework introduced a-­ cial effects for the latter332. A remarkable finding from one review
+bove to review evidence for the efficacy of prevention strategies was that the estimated number needed to prevent one case of ado­
+that target some of the major social determinants of mental health lescent anxiety was only 10, a number which is much smaller than
+outlined earlier. We principally focus on primary prevention strat­ that for many common medical interventions332. With that in mind,
+egies, including universal, selective and indicated approaches. We it is perhaps not surprising that cost-benefit analyses of common
+also briefly review important secondary and tertiary prevention strat­ parenting programs demonstrate cost savings330.
+egies that aim to promote recovery in those with established con­
+A recent trial described a short (four 90 min sessions) perinatal
+ditions. We focus on prevention strategies where we believe evi­ parenting intervention that focused on sharing and understand­
+dence is strongest (summarized in Figure 2), based on systematic ing parenting roles in a co-parenting model333. The intervention
+reviews, randomized controlled trials (RCTs) or quasi-experimen­ aimed to reduce parenting stress to improve child outcomes. When
+tal evidence, where available. Additionally, we highlight areas the child was aged 1 year, parents in the intervention arm rated
+where the evidence base is weaker, equivocal or absent. We also their offspring as having lower negative emotionality and lower
+draw the readers’ attention to reviews and reports of prevention externalizing symptoms, although these effects did not extend to
+strategies that aim to promote mental health and reduce mental age 2 years, 20 months after the program conclusion.
+distress and disorder312,325-327.
+There is also evidence from a review of 48 trials that parenting
+We believe that the strategies that are particularly crucial for interventions lead to benefits for parents as well as children, in­
+effective public mental health promotion and prevention are those cluding reductions in parental depression, anxiety, stress, anger
+which target social determinants in the early life course, beginning and guilt, and increases in confidence and relationship satisfac­
+prenatally and extending into infancy, childhood and adolescence. tion328. Perhaps as a consequence, studies of the Triple P parent­
+There are several reasons to support this: a) 50% of all mental ing program have also shown that participation is associated with
+health conditions begin by age 1819; b) many of the antecedents reductions in child abuse and maltreatment330. From a global
+
+Prioritizing primary prevention
+
+70
+
+World Psychiatry 23:1 - February 2024
+
+Figure 2 Summary of the social determinants of mental health and disorder and of the main primary prevention strategies
+
+World Psychiatry 23:1 - February 2024
+
+71
+
+perspective, it is reassuring to see that parenting programs imple­
+mented in HICs have similar positive outcomes in lower-income
+settings such as sub-Saharan Africa334.
+Several key questions remain about optimizing parenting in­
+terventions, including whether effects persist in the absence of the
+intervention over the long term (observed by one332 but not other
+reviews328,335), the ideal age to intervene (with evidence of benefi­
+cial effects associated with interventions in both childhood331 and
+adolescence332,336), and whether they should be deployed univer­
+sally or to selective populations (bigger effect size of parenting in­
+terventions have been found for high-risk families332). Another set
+of related early-life interventions – home visits during pregnancy
+– have been deployed as more selective prevention strategies, re­
+viewed later.
+
+School-based mental health programs
+Schools are potentially optimal settings for public health prac­
+titioners to provide universal mental health promotion and pre­
+vention. Numerous such programs have been designed for school
+children, and may be adapted to offer nested selective and indi­
+cated interventions.
+Many school-based programs focus on mental health literacy,
+with the aim of educating youth about mental health, reducing
+stigma related to mental disorders, and encouraging help-seeking
+behaviour337. A recent systematic review of RCTs showed that
+these programs increase mental health literacy and reduce stigma,
+although there is a lack of evidence on whether these effects per­
+sist over the long term337. Whether they increase help-seeking be­
+haviour remains unclear338.
+School-based interventions that focus on reducing disruptive
+behaviour have existed for many decades. A 2011 umbrella review
+concluded that these programs are effective in reducing external­
+izing problems339. The Good Behaviour Game, for example, was
+developed in 1969, and is a team-based activity designed to re­
+ward children for pro-social behaviour and discourage disruptive
+behaviour340. RCTs have shown that the Good Behaviour Game is
+effective in reducing conduct problems in children340. Although
+the primary focus is on behavioural regulation, the program also
+supports emotional regulation. A recent Australian trial showed
+that the program also decreased internalizing symptoms341. Re­
+markably, one study followed up students at age 21/22 who had
+participated in the program in school when aged 6 years, and found
+that participants were less likely to report suicidal thoughts and
+attempts compared with controls342.
+There are several school-based programs that specifically fo­
+cus on prevention of depression and anxiety. A 2017 systematic
+review (updated in 2021) summarized evidence from 90 interven­
+tion studies343,344. The majority of interventions were based on 812 sessions of 45-90 min of cognitive behavioural therapy (CBT),
+modified for the classroom344. The review clearly showed that
+these programs were effective in reducing symptoms of depres­
+sion and anxiety, though effect sizes were generally small343,344. Al­
+though such programs are often delivered universally, effect sizes
+
+72
+
+for depression were larger for trials that targeted higher-risk stu­
+dent populations (i.e., selective and indicated approaches)343,344.
+Notably, while effect sizes for preventing depression and anxiety
+were relatively small, they persisted in long-term follow-up343,344.
+Furthermore, the authors of the 2017 review point out that even
+small effects can have big impacts on prevention from a popula­
+tion perspective344, aligning with Rose's argument. Relevantly,
+a 2016 review estimated that universal prevention programs of
+depression and anxiety delivered in schools (mostly CBT-based)
+prevented 50% of cases of a diagnosable internalizing disorder in
+the following 6 to 9 months345.
+Recently, several mindfulness-based programs have been de­
+veloped and trialled for school-aged children346. Mindfulness ap­­­
+proaches encourage people to intensely focus on the present mo­
+ment, in order to calm physiological responses and reduce stress.
+A 2022 systematic review of 66 RCTs found that mindfulness pro­
+grams for children are successful in reducing anxiety/stress (ana­
+lyzed as a combined outcome) and depressive symptoms​346, a­l­­
+though effect sizes tended to be small and were limited to selective
+rather than universal samples. Trials in universal samples found no
+evidence of improvements in mental health, despite small improve­
+ments in behavioural outcomes, executive function and attention.
+Further, there were no positive effects in studies that included fol­
+low-up beyond program conclusion346.
+Another group of school-based mental health programs focus
+specifically on suicide prevention. These programs tend to take
+three forms: a) awareness and education initiatives, which seek
+to inform students about suicidal behaviour to reduce stigma and
+increase likelihood of help-seeking behaviour; b) gatekeeper train­­­
+ing, which seeks to teach students or teachers to identify signs of
+suicidality, and refer students to appropriate services; and c) screen­­­
+ing programs, which seek to identify risk factors for suicide or sui­
+cidal thoughts, with the aim of referring people who screen posi­
+tive for further assessment and/or treatment347,348. Several reviews
+have concluded that these programs are successful in reducing
+suicidal thoughts, including 12 months after program completion
+347,349
+. The most recent review concluded that similar effects are seen
+for suicide attempts, with some evidence that these effects may last
+for up to 20 years348.
+As with many school-based interventions, suicide prevention
+programs are most successful when they are multi-faceted347. One
+excellent example is the Saving and Empowering Young Lives in
+Europe (SEYLE) program, a suicide prevention RCT implemented
+in 168 schools across 10 countries350. The intervention included
+training teachers and school staff to be gatekeepers, delivering
+a mental health and suicide literacy program for students, and
+screening for high-risk students. At 12-month follow-up, partici­
+pants in intervention schools were 50% less likely to have experi­
+enced suicidal thoughts and suicide attempts in the previous two
+weeks compared with students from control schools350.
+Several reviews have highlighted that little evidence exists on
+cost-effectiveness of school-based programs in prevention of men­tal health problems337,344. One review on prevention of depression
+and anxiety in schools estimated that the number needed to pre­
+vent one case per 100 children was 70 students345, while the authors
+
+World Psychiatry 23:1 - February 2024
+
+of the SEYLE trial concluded that the program could prevent one
+suicide attempt for every 167 students who participated in the
+program350. Depending on the resources required for these pro­
+grams, these prevented outcomes could represent important cost
+savings. Nevertheless, rigorous economic evaluations are needed,
+particularly those that take a long-term perspective. An additional
+limitation of research on school-based interventions is that few
+studies have included functional assessment; a recent commen­
+tary argued that measuring function may better reflect the success,
+or lack thereof, of programs whose aim is to allow children to flour­
+ish351.
+Finally, it should be noted that the overwhelming majority of
+studies in this area are from HICs, although available evidence
+suggests that schools are also a suitable setting to deliver mental
+health promotion interventions in LMICs322. On the other hand,
+rates of school enrollment vary dramatically between countries,
+and it cannot be excluded that school-based programs inadver­
+tently exacerbate mental health inequalities for those unable to
+access basic education. Moreover, recent concern has been raised
+that some aspects of school-based mental health interventions
+could increase levels of distress amongst some young people352.
+This requires further investigation so that safety can be fully bal­
+anced alongside demonstration of efficacy.
+
+Interventions that address loneliness
+The evidence base is weak for preventive interventions that ad­
+dress loneliness, in order to prevent onset of mental health prob­­­
+lems, or to reduce severity or improve prognosis of pre-existing
+men­tal disorders. Such interventions might be best situated among
+universal approaches, given that the stigma of loneliness dissuades
+uptake of targeted interventions, but in reality they may need to
+straddle universal, selective and indicated approaches. Built en­­vironment interventions to address loneliness and mental health,
+whilst showing promise in terms of acceptability, have no evi­­
+dence of effectiveness353. Systematic reviews of trials of interven­
+tions addressing loneliness do not include mental health impacts.
+Consequently, we need investment in evaluations that encompass
+both physical and mental health354.
+
+Selective prevention strategies
+Direct economic interventions
+Given the demonstrably strong links between poverty, socio­
+economic disadvantage and poor mental health reviewed earlier,
+selective interventions that improve people’s socioeconomic posi­
+tion could be crucial policy levers to improve population mental
+health. Although economic inequality primarily affects the health
+of the poorest, it is also linked to worse mental health of the whole
+population256,355. This suggests that interventions that reduce in­
+equality by targeting selective or indicated groups could even
+have universal mental health benefits. There is already evidence
+
+World Psychiatry 23:1 - February 2024
+
+that policies driven by progressive welfare economics are associ­
+ated with fewer mental health inequalities according to socio­
+economic circumstances356,357. A recent systematic review of 136
+studies found that increases in individual and household income
+improved mental health and well-being, while decreases had the
+opposite effect49. These effects were strongest when individuals
+were lifted out of poverty.
+This evidence has added to debate on whether guaranteed in­
+comes or cash transfers have beneficial effects on mental health.
+From 1974 to 1979, a guaranteed annual income experiment in
+rural Manitoba, Canada, ensured that families met at least 60% of
+what Statistics Canada considered the cut-off to be designated as a
+low-income family. Evaluations later showed a statistically signifi­
+cant reduction in hospitalizations during the program, primarily
+related to mental health, and this effect persisted for at least 6 years
+after program completion358.
+Much of the research on the potential benefits of cash transfer
+programs have focused on child and adolescent mental health. For
+example, a recent systematic review found causal evidence that
+adolescent mental health (specifically, internalizing problems)
+improved when their families were lifted from poverty359, and a
+review of child benefit programs introduced in Canada since 1945
+showed that they had positive effects on child mental health and
+behaviour360.
+It should be noted, however, that the success of cash transfer
+programs may vary according to economic context, gender, imple­
+mentation of program, and local culture361. For example, the afore­
+mentioned systematic review on changes in income and mental
+health found stronger effects of poverty alleviation programs on
+mental health in LMICs49, and other reviews have found simi­
+lar positive effects for cash transfer programs in these contexts in
+adults362 and children359,361. These effects may be long-lasting. For
+example, a cash transfer program in Kenya showed that, 4 years
+after program implementation, youth whose families participated
+in the program had significantly fewer depressive symptoms363.
+Similar findings may also extend to low-income settings in HICs.
+For example, a natural experiment in the US investigated the role
+of income supplementation on child mental health following the
+opening of a casino on American Indian reserve land364. It demon­
+strated that children who were lifted out of poverty had statistically
+significant reductions in symptoms of conduct and oppositional
+defiant disorders compared with those who remained in poverty,
+falling to levels seen amongst children never exposed to poverty in
+the same region364.
+Some cash transfer programs include mandatory conditions for
+recipients. Oportunidades, one of the first conditional cash trans­
+fer programs, was implemented in Mexico, and supplemented
+participants’ income by 20-30% on the conditions that children
+were enrolled in school, and that family members took part in pre­
+ventive medicine programs and attended health-related presen­
+tations. For families who enrolled when their child was less than
+2 years old, children had fewer behavioural problems when aged
+8-10 years compared with children who were enrolled in the pro­
+gram 18 months later365.
+Critics of conditional cash transfer programs have pointed out
+
+73
+
+that they are highly paternalistic in nature, exacerbate genderbased inequalities, and do not solve structural problems that lead
+to long-term poverty366. Indeed, one systematic review found that
+placing conditions on monetary interventions may have detri­
+mental effects on adolescent mental health in some sub-popula­
+tions, in particular girls, for whom conditional cash transfers may
+add to existing pressures including household duties and caring
+responsibilities359.
+
+also included monthly nurse home visits for the first two years
+of the child’s life, showed that children of mothers who received
+nurse visits had overall lower scores on the Strengths and Difficul­
+ties Questionnaire, indicating fewer emotional and behavioural
+problems373. Interestingly, the same study showed positive out­
+comes for parents across a wide range of domains, including less
+hostility, less parent-child conflict, higher well-being and qual­
+ity of life, and increased self-efficacy. Whether such interventions
+would show the same effect if implemented universally remains
+unclear.
+
+Early-life home visit programs
+As evidence has accumulated supporting the effects of peri­
+natal stress on brain development367, public health practitioners
+have focused more attention on supporting healthy development
+early in life. Home visitation programs for pregnant or post-par­
+tum mothers, their partners, and their children have often been
+delivered to selected populations at risk of experiencing consider­
+able social disadvantage, adversity and negative health outcomes.
+These groups have often included low-income families, and moth­
+ers who are young, unmarried, socially isolated or from ethnora­
+cial minoritized backgrounds368.
+Home visitation programs vary in delivered activities, but the
+general aim is to improve the home environment for the new child.
+These programs often include aspects of social support for new
+parents, education about child development, informal training
+about positive parenting techniques (and avoidance of negative
+parenting behaviours), and facilitation of mother-child interaction.
+This is important because different parenting practices have been
+consistently associated with levels of child aggression, delinquency
+and socioemotional functioning, with authoritarian (e.g., harsh)
+parenting styles leading to poorer child outcomes than authori­
+tative (e.g., affection balanced with discipline) approaches369. A
+systematic review of 34 RCTs and quasi-experimental studies that
+investigated the effect of home visitation programs found that they
+resulted in improvements in the home environment, particularly
+in studies that used robust measures of parenting behaviours368.
+Some notable RCTs in the US have examined perinatal monthly
+home visit interventions by nurses. For example, in a trial conduct­
+ed in Memphis, TN, women received nurse visits during preg­nan­
+cy, immediately post-partum, and several times until the child’s
+second birthday, while the control group received usual peri­na­
+tal care370. At age 6 years, children of mothers who received the
+nurse visits had fewer behavioural problems and were less likely
+to be aggressive. In another trial in rural New York state, women at
+higher risk of mental health difficulties due to their social position
+were randomized to receive nurse home visits until the child’s sec­
+ond birthday or treatment as usual371. At age 15 years, children of
+mothers who received nurse visits drank less alcohol and were less
+likely to be involved in criminal activity compared with children
+in the control arm; this intervention was also highly cost-effective,
+with a return on investment realized by the time the child reached
+age 4 years. This intervention continued to exhibit marked divi­
+dends into adolescence, through reduced welfare and justice sys­
+tem involvement372. A similar intervention study in Australia, that
+
+74
+
+Neighbourhood interventions
+The neighbourhood may offer an effective level at which to pre­
+vent mental disorders and promote mental health. Nonetheless,
+designing, testing and implementing interventions which seek to
+modify social or physical environments in order to improve pub­
+lic health is notoriously difficult. For this reason, most research to
+date remains observational353,374.
+The classic example of an RCT to lift people out of neighbour­
+hood poverty is Moving To Opportunity, conducted in five US
+cities, in which families in high-poverty neighbourhoods were
+randomized to receive housing vouchers to move to low-poverty
+neighbourhoods375. At 3-year follow-up, there was evidence of re­
+duced distress/anxiety symptoms amongst parents in the inter­
+vention arm, and reduced depressive/anxiety symptoms in chil­
+dren, though these results were restricted to boys and younger
+children (8-13 years)375. Nonetheless, later follow-ups have found
+differential effects on adolescent mental health, including higher
+risk of conduct disorder, PTSD and depression in boys, and lower
+risk of conduct disorder in girls in the intervention arm376-378. The
+reasons for this are likely to be multifaceted, but may include sexspecific differences in interactions with new social environments,
+including the social skills required to navigate more affluent en­
+vironments, or the consequences of increased residential and
+school moves on social integration and support378. Such issues
+further highlight the potential unintended harms that may result
+from some forms of intervention that attempt to lift people out of
+poverty.
+Neighbourhood regeneration programs379 have been rarely
+tested. One exception is a cluster randomized trial in Philadel­
+phia380, which reported lower depressive symptoms and improved
+self-worth amongst residents in intervention settings where a green­
+ing initiative focused on improving the physical quality of the built
+environment by planting trees, removing litter, and landscaping
+vacant land in urban settings. A recent review of interventions to
+promote housing affordability and stability found no evidence of
+improved mental health outcomes in selective populations (par­
+ticularly homeless and Veteran groups)381.
+The paucity of evidence for neighbourhood interventions re­
+flects the complexity of delivering such interventions and their pos­
+si­ble unintended consequences, despite evidence that neighbour­
+hood social disadvantage, fragmentation and social capital are sig­
+nificantly associated with mental health.
+
+World Psychiatry 23:1 - February 2024
+
+Public mental health interventions for specific
+populations
+Several minoritized groups are at increased risk of developing
+mental health problems and disorders, so selective interventions
+in these groups may be particularly effective in reducing mental
+health inequalities at the population level. One clear example is
+providing interventions to refugee groups who are vulnerable to
+worse mental health. There is systematic review evidence from
+RCTs that providing psychosocial interventions to refugees is
+effective in reducing PTSD symptoms382. Encouragingly, brief in­
+dividual383 or group-based384,385 psychological and behavioural
+interventions appear to reduce depressive and internalizing symp­
+toms in refugees, including children386 and adolescents384, though
+these may not be sustained in the long-term post-inter­vention385,
+and some evidence is of low quality386. A recent systematic review
+also found evidence that community-based inter­ventions which
+provided refugees with greater bridging and linking social capital
+(i.e., building ties with others in the community, helping them nav­
+igate new structures, systems and institutions) may be most effec­
+tive in reducing mental health symptoms in this population387. None­
+theless, the variable quality and small number of studies includ­
+ed in these reviews requires this promising evidence base to be
+strengthened.
+Selective interventions in ethnoracial minoritized groups have
+also been investigated. In many contexts, the intersectionality with
+socioeconomic disadvantage means that interventions targeted at
+low-income parents, families or neighbourhoods are sometimes
+implicitly selected on a high proportion of people from ethnora­
+cial minoritized backgrounds371. Generally, evidence suggests that
+these interventions are effective in benefiting mental health across
+different ethnic groups, including the aforementioned Incred­
+ible Years parenting intervention in both European388 and North
+American389 settings. While these studies lend some support to
+the effectiveness of culturally-agnostic interventions, there is also
+evidence that culturally-adapted mental health interventions offer
+more benefits in some ethnoracial minoritized groups over nonadapted treatments or treatment-as-usual390,391. Further, given that
+experiences of discrimination and stigma operate at various levels
+as barriers to mental health help-seeking, understanding how
+cultural and structural factors intersect to produce mental health
+inequalities in ethnoracial minoritized groups remains a critical
+prerequisite to developing effective selective interventions that re­
+duce these experiences and promote mental health392.
+There is also emerging evidence that selective interventions for
+sexual and gender minority groups can be effective in improving
+mental health outcomes393. These include policy-level interven­
+tions, family interventions, and provision of coordinated men­
+tal health services, with evidence of beneficial effects on mental
+health, substance use and bullying victimization amongst minori­
+tized youth393. Others have highlighted the importance of building
+up cultural competence amongst health care professionals as a vi­
+tal intervention to reducing mental health inequities for LGBTQ+
+people187. Nonetheless, as for other minoritized groups, barriers
+around mistrust of health care providers represent a further ob­
+
+World Psychiatry 23:1 - February 2024
+
+stacle (and target) for improving timely access to preventive men­
+tal health care and support.
+
+Indicated prevention strategies
+Indicated strategies to prevent the onset of mental disorders typ­
+ically seek to identify high-risk individuals on the basis of emerging
+sub-threshold psychopathology or family history of psychiatric
+illness with an associated decline in functioning. The delivery of
+indicated prevention has principally focused on youth-oriented
+mental health care provision to prevent transition to disorder. This
+ranges from specialist secondary care (e.g., early detection services
+for psychosis) through to disorder-agnostic youth mental services
+that adopt clinical staging models to provide care according to ill­
+ness stage. Most recently, these models are being repositioned as
+broad-spectrum integrated primary care services for youth mental
+health that deliver indicated prevention in a variety of innovative
+ways, and in a variety of contexts, including digitally, in educational
+settings, workplaces, the community, and clinical spaces311. They
+offer various interventions to indicated populations, ranging from
+clinical therapy to peer advocacy and psychosocial interventions
+to promote resilience, improve mental health literacy or improve
+social support. Only some of these interventions aim to explicitly
+tackle social determinants of mental health (social support, lone­
+liness, bullying), usually as part of a multidisciplinary approach.
+Just as the pattern of risk for mental disorders is socially inequi­
+table, so too is the likelihood of receiving clinical care that is deliv­
+ered in a timely, appropriate and proportionate manner according
+to need187,396. This is a global challenge driven by various issues in
+different settings, including stigma, health literacy, cultural norms,
+system capacity and economic development. Because indicated
+prevention strategies predominantly originated from clinical sys­
+tems of care, identification and inclusion of high-risk populations
+is subject to similar barriers and inequities. For example, there
+is evidence that people from socioeconomically disadvantaged,
+migrant and ethnoracial minoritized backgrounds are under-rep­
+resented in services for early detection of psychosis397-399, as well
+as in child and adolescent mental health services400. These biases
+may be compounded by the instruments used to identify highrisk individuals, which are often developed394,401 and tested402 in
+unrepresentative, help-seeking samples. These inequalities mean
+that those already exposed to substantial disadvantage are least
+likely to receive indicated prevention, and less likely to take part in
+research that informs us about what works for whom, making this
+an imperative matter of social justice403.
+Furthermore, as currently configured, indicated prevention strat­
+egies are unlikely to substantially reduce the incidence and prev­
+alence of mental disorders, because they currently lack sufficient
+population coverage to do so. For example, studies in England398
+and Australia399 have shown that only 4-22% of people diagnosed
+with first-episode psychosis in services for early intervention in
+psychosis had prior contact with early detection services before ill­
+ness onset. This calls for broader-based transdiagnostic indicated
+prevention solutions which could be integrated into community
+
+75
+
+and school settings, as recently evidenced and advocated by Mc­
+Gorry et al311, explicitly addressing social determinants of mental
+health.
+
+Secondary and tertiary prevention strategies
+In this section, we present a brief overview of existing social inter­
+ventions that aim to optimize various aspects of recovery in peo­
+ple with established mental disorders.
+
+these effects could be restricted to older adolescents and may be
+affected by risk of bias concerns424. Secondary and tertiary family
+interventions can also lead to reductions in parental stress and
+depression, and improvements in parenting behaviours422,425,
+which may be particularly relevant to interrupting intergenera­
+tional transmission of familial risks for mental health problems424.
+These effects also extend to LMICs, with 65% of interventions being
+delivered by non-specialist workers425,426.
+
+Trauma-informed interventions
+Social prescribing
+Social prescribing, primarily adopted by primary care physi­
+cians, connects individuals with established mental disorders to
+sources of social support within local communities404. Examples
+include volunteering, befriending, and hobby groups405. Despite
+its popularity, the evidence base lags behind practice, with studies
+currently lacking methodological rigour406,407. Although positive
+effects on various mental health outcomes have been observed
+in systematic reviews404,408-410, the quality of evidence is generally
+low408-411, and restricted to uncontrolled samples408,409,411 or selec­
+tive subgroups410. There is also initial evidence that minoritized
+groups are under-represented in social prescribing412; factors such
+as finance, language and cultural barriers may pose issues around
+access and engagement.
+
+Vocational interventions
+Given the cyclical relationship between socioeconomic disad­
+vantage and mental health, secondary and tertiary interventions
+that help people return to work or education should be considered
+an important component of public mental health policies. One
+such example is Individual Placement and Support (IPS), where
+an employment specialist supports an individual with mental
+health problems to seek competitive employment. IPS has been
+consistently demonstrated to be superior over other forms of vo­
+cational interventions to help individuals with severe mental ill­
+nesses obtain and maintain competitive employment413-415. These
+findings hold across geographical locations and across high- and
+low-resource settings413, though success and uptake may de­
+pend on motivation and self-efficacy in job seeking, which may
+introduce additional barriers for those already exposed to greater
+structural and systemic disadvantage416-418. While these interven­
+tions may benefit people with other mental health outcomes, they
+appear most effective for severe mental disorders419.
+
+Family interventions
+It is well known that family interventions can help reduce risk of
+relapse for people with psychosis420,421. They also appear to reduce
+depression and suicidal ideation in young people422,423, though
+
+76
+
+Traumatic events contribute substantially to mental health in­
+equal­ities, as we highlighted earlier. Given this, models of traumainformed care have gained traction in secondary prevention, and
+may be particularly pertinent to recovery for specific groups, in­
+cluding victims of intimate partner violence, ethnoracial minori­
+tized groups, and refugees and asylum seekers with established
+mental disorders. To date, the most commonly adopted and eval­
+uated approaches include eye movement desensitization and re­
+processing (EMDR) and trauma-focused CBT427,428. Despite this, a
+recent systematic review429, which largely focused on interperson­
+al traumas in women, found inconsistent evidence that trauma-in­
+formed interventions improve a range of psychological outcomes,
+including symptoms of PTSD, anxiety and depression. The authors
+attributed this to inadequate study designs, also observed by other
+reviews430,431, and called for broader trauma types and outcomes
+to be rigorously evaluated. For children and young people exposed
+to trauma, systematic reviews show moderate effects for EMDR
+and trauma-focused CBT – but not conventional CBT428 – in the
+treatment of PTSD428,432. Meta-analytic evidence also demon­
+strates moderate effectiveness of trauma interventions in reducing
+symptoms of PTSD, depression and anxiety for displaced persons
+in HICs382 and LMICs433. Greatest effects were found for traumafocused CBT, particularly with extensive cultural adaptations434.
+
+RECOMMENDATIONS FOR ACTION
+In this paper we have highlighted the social gradients in the in­
+cidence and prevalence of psychological distress and mental dis­
+orders within and between populations. This evidence consistently
+shows that those exposed to adverse social determinants of health
+– whether through poverty, discrimination, trauma or exclusion
+– are most likely to experience poor mental health over their life­
+time, as well as downstream physical health, social and economic
+sequalae that can perpetuate cycles of intergenerational inequal­
+ity in health and social outcomes. We have also shown how these
+inequalities arise through a broader set of structural processes and
+policies that disadvantage minoritized and marginalized individu­
+als and communities through experiences of interpersonal, insti­
+tutional and systemic discrimination. These experiences prevent
+equitable access to adequate education, employment, housing,
+social support and health care, which subsequently increase expo­
+sure to stressful life events and risk of poor mental health.
+
+World Psychiatry 23:1 - February 2024
+
+What, then, can and should be done? We argue that primary pre­
+vention should be prioritized to address and remove social ineq­
+uities in order to prevent the onset of mental disorder and lower
+the burden of psychiatric morbidity in the population. There are at
+least three compelling reasons for this case. First, equality is central
+to human rights435, and so efforts to reduce social inequities that affect
+population mental health are a matter of social justice. Second,
+since many psychiatric disorders exhibit such social gradients, uni­
+versal, selective or indicated primary prevention strategies would
+not only promote more equitable mental health, but also achieve
+substantial gains in improving the mental health of whole popula­
+tions. Finally, while recognizing the vitality of secondary and ter­
+tiary prevention in treatment, recovery and relapse prevention for
+people with existing mental disorders, primary prevention needs
+to be integrated into equitable and accessible whole-population
+care systems. Here, parity of investment in eff­ective primary pre­
+vention would represent a win-win-win for individuals, popu­
+lations and health care systems, both in LMIC contexts, where sec­
+ondary and tertiary mental health care services are often extremely
+limited, and in HIC contexts, where need for care has outstripped
+capacity41.
+In this concluding section, we identify seven recommendations
+for action (see Table 2), which provide a roadmap for mental health
+professionals, policy makers and researchers to improve popula­
+tion mental health and reduce inequities in mental health prob­
+lems by prioritizing intervention on social determinants.
+
+1. Make social justice central to all public mental health
+interventions
+Social justice is concerned with the fair (equitable) distribution
+of wealth, power, opportunities and privileges within society. No
+society is perfectly just. To a greater or lesser extent, different soci­
+eties will have differing levels of fairness in access to the economic,
+social and political means that allow individuals or groups to de­
+termine and realize their preferred goals and outcomes. The equi­
+table (fair, just) distribution of resources is closely related, but not
+always identical to the equal (balanced, proportionate) distribu­
+tion of resources. For example, on average, older adults (of working
+age) tend to have higher incomes than younger adults, holding all
+other variables constant, as a result of accumulated knowledge
+and experience; income is thus surely unequally distributed by
+age, but we may choose not to consider this inequitable.
+Accordingly, not all differences in mental health are, per se, in­
+equitable. Men are more prone to develop schizophrenia than
+women198, potentially due to biological differences436, but this
+difference is likely not to be a matter of social justice. By contrast,
+while the elevated prevalence of depression in women may also
+be partly biologically determined437, there is strong evidence that
+it may also result from greater exposure to interpersonal violence,
+childhood trauma or other gendered social or psychological factors
+200,437
+, making interventions to prevent these inequitable experi­
+ences a remedial matter of social justice.
+We consider that most social differences in the onset and main­
+
+World Psychiatry 23:1 - February 2024
+
+Table 2 Overview of recommendations for action to intervene on social
+determinants to improve population mental health and reduce inequities in mental health problems
+1. Make social justice central to all public mental health interventions.
+Mental health problems are inequitably distributed between and within
+populations, principally arising from systemic structural inequalities.
+Making social justice core to all public mental health interventions and
+policies would reduce these inequities.
+2. Invest in interventions that pay off in multiple domains. Few social
+determinants solely affect mental health. Investing in interventions that
+target key social determinants will improve physical, mental and social
+outcomes for individuals and communities. Intervention programs
+should routinely measure mental health alongside these other outcomes.
+3. Invest in interventions that target critical windows of the life
+course to interrupt intergenerational transmission of mental health
+inequalities. Providing good-quality and accessible parental and familial
+support early in life can interrupt the intergenerational transmission of
+mental health inequalities within families or communities.
+4. Prioritize interventions that focus on poverty alleviation. Any
+comprehensive public health approach to reduce the burden of poor
+mental health must include efforts to reduce poverty. Poverty is
+inextricably linked to most social determinants of mental health, and
+could be considered a root cause.
+5. Strengthen causal inference in research on social determinants
+of mental health and primary prevention. Most research on social
+determinants of mental health is observational, often subject to selection
+and confounding bias. Stronger causal inference methods are needed, as
+well as larger, interdisciplinary observational and experimental studies
+in representative and adequately powered samples to accelerate progress
+of knowledge and develop effective primary interventions.
+6. Establish inclusive longitudinal population mental health monitoring.
+Many countries struggle to accurately estimate psychiatric morbidity
+in their populations, which inhibits both clinical and public mental
+health provision. Samples are often unrepresentative. Reliable, inclusive
+and precise longitudinal monitoring of population mental health is the
+essential basis for effective prevention.
+7. Ensure parity between primary, secondary and tertiary prevention in
+mental health. Investing sufficiently in primary prevention to stop the
+onset of mental disorders prevents suffering, improves quality of life
+and societal outcomes, and reduces demand for secondary and tertiary
+prevention.
+
+tenance of mental health problems arise from inequitable expo­
+sure to structural disadvantage, thus requiring the principles of so­
+cial justice to be embedded at the heart of all public mental health
+policy efforts to prevent mental disorders. It has been argued that
+“the job of justice in its most pressing role demands a permanent
+vigilance and attention to social and economic determinants that
+compound and reinforce insufficiencies in a number of dimen­
+sions of well-being”5, p.78. Logically, then, this requires public men­
+tal health, and public policy more broadly, to ensure that all pre­
+vention strategies explicitly redress social, economic, political and
+environmental insufficiencies that both increase the risk of men­
+tal disorders and inhibit people’s recovery from them. Preven­
+tion strategies and policies that embed social justice theory from
+their conception are most likely to be effective in reducing social
+inequities in mental disorders, and in shifting the entire popula­
+tion distribution of risk. This approach requires careful theoretical
+and empirical consideration of various issues, including what suf­
+
+77
+
+ficient conditions would look like, and which social determinants
+should be prioritized from the perspective of social justice. These
+issues will vary over time and between different contexts. For ex­
+ample, while poverty alleviation is a global goal likely to improve
+mental health universally359, it may be a more imperative matter
+of social justice in LMICs, where a much higher proportion of the
+population live in poverty.
+Finally, the need for social justice applies not only to the strate­
+gies and policies to address social determinants of health, but also
+to the research that supports them. Our review has focused on the
+disproportionate body of evidence from HICs in the Global North.
+While we have highlighted evidence from LMICs where we have
+identified it, and while many determinants are likely to be similar,
+others may be different2. Social justice requires both accelerated
+investment into further high-quality research on the most effec­
+tive prevention strategies for social determinants in LMICs, and
+strategies to counteract the inequitable reproduction of knowl­
+edge concentrated on the Global North that reviews unavoidably
+perpetuate.
+
+vice offers a range of support to young people between the ages
+of 14 and 24 years, including engagement and retention in work
+or education, recreational involvement, peer and psychological
+support to foster resilience, as well as other well-being activities to
+promote good mental and physical health. Evaluation of such pro­
+grams is now required to carefully quantify and measure the range
+of direct and indirect outcomes that they could achieve.
+In light of these considerations, we recommend that mental
+health be measured as a standard outcome in the evaluation of any
+policy, programme or intervention targeting social determinants.
+Although this requires additional data collection in the context of
+evaluations that may have quite separate aims, including mental
+health alongside other outcomes is becoming increasingly feasible
+with innovations such as computerized adaptive testing442, passive
+sensing technology, and administrative record linkage443. Fur­
+thermore, the value of such information would greatly enhance
+our understanding of which approaches are most effective for ad­
+dressing social determinants, and which could facilitate real prog­
+ress in improving population health in parallel with other social
+outcomes (e.g., crime, education, employment, welfare).
+
+2. Invest in interventions that pay off in multiple domains
+Most, if not all, of the social determinants discussed in this pa­
+per are associated with adverse outcomes that extend beyond the
+realm of mental health. As an example, experience of childhood
+adversity – a risk factor strongly associated with a range of negative
+mental health outcomes – is also associated with a host of poor
+physical health103, social438, and educational/occupational439 out­
+comes. In a second example, whole communities are often ex­
+posed to highly intersectional, cyclical patterns of social disadvan­
+tage2,138,374, meaning that successive generations of families may
+face limited choices in navigating social determinants of health,
+including socioeconomic disadvantage, social exclusion, discrim­
+ination, trauma, and hostile environments, which simultaneously
+contribute to poor physical health, mental health, and social out­
+comes41,45. However, despite substantial evidence supporting such
+multi-finality, progress in addressing social determinants and their
+associated consequences has been slow, due in part to the perva­
+sive siloed thinking amongst researchers, practitioners and policy
+makers.
+Greater cross-sector collaboration and more inclusive outcome
+measures may help advance prevention efforts, particularly where
+these include approaches aimed at whole populations. At present,
+many promising interventions that target social determinants are
+not assessed in terms of mental health effects, which represents
+a lost opportunity to learn about their potential individual-, com­
+munity-, and society-level impacts440. For example, there are a
+wide range of innovative approaches being implemented within
+the education, social care and criminal justice sectors that may
+be beneficial for mental health but are not currently recognized
+as such due to an absence of formalized measurement of mental
+health outcomes. One exemplar approach is that of the Uptown
+Hub in New York441, which provides a community-based service
+for youth at risk of involvement with the judicial system. The ser­
+
+78
+
+3. Invest in interventions that target critical windows of
+the life course to interrupt intergenerational transmission
+of mental health inequalities
+Although the majority of mental disorders manifest during ad­
+olescence19, they are often rooted much earlier in development.
+A life course perspective can help us understand how exposure
+to various social determinants – that operate from before birth
+throughout life – affects one’s chances of experiencing poor (or
+good) mental health444, or how it may perpetuate these outcomes
+through intergenerational transmission within families or com­
+munities445. By taking a life course approach, we can potentially
+develop effective interventions that interrupt the intergenerational
+transmission of accumulated adversities during critical windows
+of vulnerability446.
+Given the importance of the prenatal period in shaping men­
+tal, physical and cognitive trajectories, providing good-quality and
+accessible parental and familial support early in life is essential
+to affect this process367. Earlier, we presented evidence of posi­
+tive outcomes following early-life home visitation programs for
+pregnant and post-partum mothers, with benefits extending into
+childhood and adolescence, and huge cost savings371,373. These in­
+terventions are particularly effective in selective groups. Ensuring
+that young families have sufficient financial support to alleviate
+stress and meet their needs, including adequate food and housing
+security, also warrants targeting direct economic interventions
+at selective groups during critical periods of child development.
+Stable, secure relationships, particularly in the early years of life,
+appear fundamental to buffer against life stressors, meaning that
+family-based interventions hold enormous potential for mental
+health prevention and breaking intergeneration cycles of disad­
+vantage.
+Interventions that support stable, secure and cohesive commu­
+
+World Psychiatry 23:1 - February 2024
+
+nities in the wider social environment may also help buffer chil­
+dren from the impact of social adversity on mental health281. For
+young people, educational settings are likely to be particularly
+relevant environments in which to implement interventions that
+promote life-long mental health. For example, schools can nurture
+socioemotional, academic and cognitive skills, which can bolster
+against future disadvantages (e.g., unemployment). This could
+lead to improved educational attainment and increased socio­
+economic status to disrupt intergenerational cycles of exposure to
+some social adversities that increase risk of mental health prob­
+lems. Further, the onset of many mental health problems occurs
+during the transition from adolescence to adulthood, a point at
+which the stakes are high for achieving socio-developmental mile­
+stones. Preventing onset in this period could have a profound im­
+pact on future social and economic trajectories447.
+We have also seen how some neighbourhood environments
+can act as reservoirs for structural racism and discrimination that
+increases the likelihood of exposure to individual-level stressors448.
+Systemic underinvestment, disenfranchisement and lack of op­
+portunities in such neighbourhoods restrict upward social mobil­
+ity, and so these experiences – including deleterious mental health
+outcomes – become highly intractable, intergenerational and sys­
+temic forms of disadvantage and oppression. Effective public men­
+tal health interventions must create opportunities to break these
+cycles of exposure within our communities, with evidence that this
+may be particularly important early in life449.
+
+4. Prioritize interventions that focus on poverty alleviation
+Any comprehensive public health approach to reducing the bur­den of poor mental health must include a focus on poverty allevia­
+tion. Poverty is inextricably linked to most social determinants of
+mental health, and could be considered a root cause. It is incum­
+bent on all stakeholders in the public health sphere to advocate for
+poverty alleviation in order to mitigate its deleterious, multi-final
+effects. In addition to improving population mental health, reduc­
+ing poverty would make major contributions towards improving
+population physical health, reducing societal inequalities, and re­
+ducing barriers to social justice, thus connecting with other recom­­­
+mendations we outline here.
+Poverty has particularly pernicious effects early in life, with con­sequences that stretch across the life course. Children who grow
+up in poverty tend to live dramatically different lives compared
+with those who do not. This begins with their immediate environ­
+ment, as children in poverty are more likely to be living in crowded
+and/or poor-quality housing, and to be exposed to food insecurity
+and pollution450. Poverty also has strong effects on their parents,
+as the stress of living in poverty affects parental well-being, and in­
+troduces conflicts that negatively influence parenting behaviours
+and the strength of the parent-child relationship450,451. Worse,
+poverty is strongly and consistently linked with child maltreat­
+ment and neglect451. Children living in poverty are more likely to
+be exposed to violence, either in their homes or in the communi­
+ties where they live450.
+
+World Psychiatry 23:1 - February 2024
+
+The adversity faced by children in poverty leaves them less pre­
+pared for school, as they rate lower on numerous aspects of read­
+iness at school entry age, including social and behavioural skills,
+language development, and cognitive abilities452,453. This results in
+a socio-developmental cascade with long-lasting impacts, as chil­
+dren who grow up in low-income families are less likely to achieve
+academically through all levels of schooling, and are more likely
+to leave school early, or with lower qualifications452,454. Although
+they are more likely to enter the labour market early, they have
+lower incomes throughout adulthood454. Beyond educational and
+economic outcomes, living in poverty also influences the social
+lives of those experiencing it. Low income also limits individu­
+als’ capacity to engage in social, leisure and civic activities, leav­
+ing them less able to mitigate stressful experiences via larger social
+networks and increased social support and capital455.
+Given the numerous pathways through which poverty influ­
+ences social determinants of mental health, only some of which
+are mentioned here, efforts to alleviate poverty should result in
+mental health benefits. Any public health campaign to improve
+population mental health that does not address poverty will be
+unlikely to meet its goal.
+
+5. Strengthen causal inference in research on social
+determinants of mental health and primary prevention
+We have sought to identify the strongest evidence regarding
+those social factors that contribute most substantially to popula­
+tion-level mental health and disorder, and single out which pub­
+lic health interventions are most likely to prevent adverse mental
+health. While high-quality RCT and/or longitudinal evidence is
+available in some domains, there is still much to learn about the
+causal pathways between social determinants and mental health.
+One common and emergent theme in our review is the extent
+to which these associations arise from non-causal mechanisms
+such as genetic selection or unobserved confounding. Effective pre­
+vention strategies that target social determinants will only improve
+population mental health if those determinants induce a change
+in the outcome under study (i.e., they have a causal effect on the
+outcome). Proponents of biological determinism argue that near­
+ly all socially-constructed “exposures” result from the selection
+of people with greater genetic vulnerabilities to mental disorders
+into more adverse social environments456. Thus, under this par­
+adigm, social adversities are – like mental ill health – seen as just
+another consequence of genetic influences. However, while ge­
+netic selection may contribute to social patterns of disease occur­
+rence457, neither genetic nor environmental factors alone will
+be sufficient or necessary in the aetiology of mental disorders.
+More research is required to understand the myriad of causal sets
+that lead to psychiatric disorder, and their relative impacts at the
+population level. Here, we propose that modern causal inference
+methods458 should become de rigueur when using observational
+data to investigate the social determinants of mental health. Fur­
+ther, these methods are only as strong as the underlying measures,
+samples and assumptions upon which they are predicated, so ac­
+
+79
+
+celerating the use of longitudinal, well-characterized and epide­
+miological representative samples – and synthesizing expertise
+and data from across academia, psychiatry and industry – should
+be a priority to make substantial progress in identifying the social
+causes on which to intervene.
+Our review also raises the need to avoid social reductionism.
+Many social factors – operating from proximal to distal ranges – are
+likely to contribute to cyclical disadvantage, structural discrimina­
+tion and mental health. We may worry less about which specific
+cause (e.g., which type of abuse or neglect, which domain of depri­
+vation or inequality) is the determinant of risk, but rather focus on
+identifying the causal structure through which risk manifests itself,
+and across which holistic interventions are required. Adopting a
+causal architecture framework459 and grounding our research in
+theoretical models of causation would accelerate understanding
+of how, where and when to intervene effectively.
+Finally, many systematic reviews of interventions in this paper
+were caveated by observations around low quality, small samples
+and heterogeneous methodologies, while very few RCTs of com­
+plex social interventions have been attempted. Arguably, the fund­
+ing landscape around these issues needs transformation. Many
+small, low-quality observational studies hamper the synthesis of
+reliable evidence on what works for whom460. Larger, ambitious,
+interdisciplinary and multisectoral collaborations that attempt
+to tackle a big idea through the triangulation of high-quality evi­
+dence, including experimental paradigms – although more dif­
+ficult, costly and risky – could help transform our understanding
+of primary prevention strategies that improve population health
+across multiple domains.
+
+6. Establish inclusive longitudinal population mental
+health monitoring
+Psychiatry has a long-held fascination with the determinants of
+mental health across disorders and dimensions that still rely upon
+phenomenological interpretation. This is true for both clinical psy­
+chiatry and psychiatric epidemiology. But the cornerstone of both
+approaches is the need to count. Accurately monitoring the inci­
+dence and prevalence of mental disorders, as well as the distribu­
+tion of underlying symptomatology, in the population over time,
+serves at least two crucial purposes. First, it establishes the basic
+need for clinical treatment in a population, upon which appropri­
+ate resourcing can be set for secondary and tertiary prevention.
+Second, it allows empirical quantification of the potential gains
+in population mental health that could be achieved through the
+effective deployment of universal, selective and indicated primary
+prevention strategies.
+Many countries struggle with basic monitoring of the burden of
+psychiatric morbidities in their populations461, which inhibits both
+clinical and public mental health provision. In LMIC settings, the
+reasons for this may be self-evident, since limited resources may
+mean political prioritization of other vital issues. Recent reviews
+have highlighted the evidence gap in incidence and prevalence es­
+timates of psychiatric disorders between HIC and LMIC settings462.
+
+80
+
+In HIC settings, the lack of routine data on psychiatric morbidity in
+the population is sometimes surprising. In England, for example,
+while the National Health System collects routine mental health
+service contact data for planning purposes, it is difficult to obtain
+reliable estimates of incidence and prevalence from help-seeking
+samples that often lack validated assessment data about psycho­
+pathology. Even in countries with well-established disease reg­
+istries, such as Denmark, Sweden or Finland, incidence is based
+on contact with secondary mental health care services, and may
+therefore be less useful for some psychiatric conditions, including
+depression and anxiety. Prevalence estimates from survey data,
+while more population-based, are often drawn from smaller sam­
+ples, which limits inferences that can be made about psychiatric
+morbidity in different subgroups. Finally, all methods of popula­
+tion mental health monitoring will suffer to a greater or lesser ex­
+tent from unrepresentative sampling, whether due to biases in case
+detection or help-seeking.
+In order to respond effectively across primary, secondary and
+tertiary levels of prevention, modern paradigms for reliable, in­
+clusive and precise longitudinal monitoring of population mental
+health at scale are needed. In the context of social determinants,
+it is particularly vital that these include representative and wellpowered samples from socially disadvantaged and minoritized
+backgrounds. In many contexts this could be achieved by better
+routine recording of mental health data and the use of harmo­
+nized data management platforms that harness technological ad­
+vances in data security and linkage with clinical and population
+health data, of which some examples already exist463.
+
+7. Ensure parity between primary, secondary and tertiary
+prevention in mental health
+The need for primary prevention in mental health should be ex­
+amined closely by policy makers worldwide. The advantages of this
+prevention are evident in terms of improving quality of life, social
+functioning and workforce participation, and reducing suicides.
+Such approaches have been outlined in this paper, and encompass
+creating environments where people (particularly members of
+marginalized groups) know where to access early support after an
+adverse life event or when facing chronic difficulties, have oppor­
+tunities for social connectedness, and are supported to function
+optimally in their work, family and social roles. As an overarching
+principle, it is also important to address the reduced uptake of in­
+terventions among socially disadvantaged groups464. Beyond this,
+the ultimate societal ambition is to achieve primordial prevention,
+i.e. to prevent the emergence of risk factors for mental disorders
+and suicidality. Responsibility for this lies outside the remit of pub­
+lic health, and relies on societal systems that engender the socio­
+economic and cultural conditions that promote mental health and
+well-being in a population.
+There are also strong reasons why investment in primary pre­
+vention of mental ill health should have parity with that in sec­
+ondary and tertiary prevention. The social determinants we have
+outlined above generally contribute to the onset, severity and
+
+World Psychiatry 23:1 - February 2024
+
+prognosis of mental disorders. Therefore, any efforts to arrest the
+progression of mental disorders (implemented as secondary and
+tertiary prevention) will falter where the conditions needed for
+primary prevention do not exist.
+
+10.
+11.
+12.
+13.
+
+CONCLUSIONS
+In this review, we have highlighted the major social determi­
+nants that generate and sustain intergenerational inequalities in
+risk and maintenance of mental health problems and disorders.
+Although stronger causal evidence is required for some determi­
+nants, we have shown that a variety of primary prevention strate­
+gies to alleviate social inequalities, which often have their origins
+in early life, can be effective in reducing the population burden
+of potentially life-long mental health problems that will typically
+emerge in adolescence.
+Various forms of discrimination and minoritization, including
+structural racism, are likely to exacerbate intergenerational social
+inequalities in mental health. We have outlined seven recommen­
+dations aligned around social justice that policy makers, practi­
+tioners and clinicians are invited to adopt to advance efforts to in­
+tervene on modifiable social determinants that place populations
+in peril of poor mental health.

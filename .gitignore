@@ -1,0 +1,6 @@
+.DS_Store
+./secrets
+Pipfile.lock
+./data
+./docker-volumes
+./outputs

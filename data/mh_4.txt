@@ -1,0 +1,1581 @@
+FORUM – BUILDING NEW SYSTEMS OF YOUTH MENTAL HEALTH CARE: A GLOBAL FRAMEWORK
+
+Designing and scaling up integrated youth mental health care
+Patrick D. McGorry, Cristina Mei, Andrew Chanen, Craig Hodges, Mario Alvarez-Jimenez, Eóin Killackey
+Orygen, National Centre of Excellence in Youth Mental Health; Centre for Youth Mental Health, University of Melbourne, Parkville, VIC, Australia
+
+Mental ill-health represents the main threat to the health, survival and future potential of young people around the world. There are indications
+that this is a rising tide of vulnerability and need for care, a trend that has been augmented by the COVID-19 pandemic. It represents a global
+public health crisis, which not only demands a deep and sophisticated understanding of possible targets for prevention, but also urgent reform and investment in the provision of developmentally appropriate clinical care. Despite having the greatest level of need, and potential to
+benefit, adolescents and emerging adults have the worst access to timely and quality mental health care. How is this global crisis to be addressed? Since the start of the century, a range of co-designed youth mental health strategies and innovations have emerged. These range from
+digital platforms, through to new models of primary care to new services for potentially severe mental illness, which must be locally adapted
+according to the availability of resources, workforce, cultural factors and health financing patterns. The fulcrum of this progress is the advent
+of broad-spectrum, integrated primary youth mental health care services. They represent a blueprint and beach-head for an overdue global
+system reform. While resources will vary across settings, the mental health needs of young people are largely universal, and underpin a set of
+fundamental principles and design features. These include establishing an accessible, “soft entry” youth primary care platform with digital support, where young people are valued and essential partners in the design, operation, management and evaluation of the service. Global progress
+achieved to date in implementing integrated youth mental health care has highlighted that these services are being accessed by young people
+with genuine and substantial mental health needs, that they are benefiting from them, and that both these young people and their families are
+highly satisfied with the services they receive. However, we are still at base camp and these primary care platforms need to be scaled up across
+the globe, complemented by prevention, digital platforms and, crucially, more specialized care for complex and persistent conditions, aligned
+to this transitional age range (from approximately 12 to 25 years). The rising tide of mental ill-health in young people globally demands that
+this focus be elevated to a top priority in global health.
+Key words: Youth mental health, integrated mental health care, primary care platforms, global mental health, early intervention, prevention,
+digital platforms
+(World Psychiatry 2022;21:61–76)
+
+People aged 10-24 years make up a
+quarter of the world’s population1. Mental ill-health represents the number one
+threat to the health, well-being and productivity of these people, with 50% of mental disorders first emerging before 15 years
+of age and 75% by 252. Mental disorders
+are extremely common in young people,
+with more than 50% impacted by the age
+of 253-5.
+This landscape appears to be changing
+for the worse. Young people have experienced disproportionately worse mental health outcomes since the start of the
+COVID-19 pandemic6, with 74% reporting
+that their mental health has worsened during this period7. Well before the pandemic,
+substantial evidence indicated that young
+people were facing a rising tide of mental
+ill-health, including anxiety, depressive
+symptoms, psychological distress and suicide8-12.
+Mental ill-health accounts for a staggering 45% of the overall burden of disease
+in those aged 10-24 years13 and, through
+suicide, is the second most common cause
+of death14. The consequences of this are
+enormous, affecting young people, their
+
+World Psychiatry 21:1 - February 2022
+
+families and community, as well as the
+economy at a local, national and global
+level.
+Adolescence and the transition to adult­
+hood is a dynamic and developmentally
+sensitive period. Mental ill-health during this life stage disrupts a range of milestones, including identity and relationship
+formation, educational and vocational
+attainment, financial independence, and
+achieving autonomy.
+Key demographic changes have transformed this threat into what has been
+termed a “perfect storm”15. Although childhood mortality has fallen dramatically over
+the past century, the birth rate is dropping
+and the human lifespan is lengthening.
+This increases greatly the dependence of
+society on the health and productivity of
+young people. We simply cannot afford the
+loss of productivity wrought by preventable, untreated or poorly treated mental
+ill-health in young people. More than ever,
+we need to prevent or reduce premature
+death and disability in young people to
+enable them to shoulder the burden of the
+dependent older population.
+Furthermore, because mental ill-health
+
+in young people is a potent yet largely ignored risk factor for age-related physical
+illnesses later in life16, effective treatment
+of mental ill-health in youth will help to
+reduce the total burden of disease in older
+people. Responding effectively to this “perfect storm” will deliver enormous benefits
+not only to young people but to people
+across the lifespan and the whole of society.
+
+THE DEVELOPMENTAL
+CHALLENGE
+The journey from childhood to mature
+adulthood is now more complex and protracted than ever before, as a result of the
+changing social construction of the transition, the extension of the lifespan, the
+later age of marriage and childbirth, and
+a raft of other destabilizing social, technological and economic changes in society,
+including globalization, rising inequality
+and climate change17,18. All this has introduced new features into the landscape of
+the developmental process, which have
+been captured under the rubric “emerging
+adulthood”19.
+
+61
+
+The voices of young people confirm
+how different it is to be a young person
+navigating the transition to mature adulthood now than it was even 20 years ago,
+and provide deep insights into how society
+and health care systems should respond20.
+Young people’s journey to maturity is accompanied by increased levels of instability and risk20, which helps to explain why
+we are facing this public health crisis.
+The journey involves several key phases, beginning even prior to birth, with early
+childhood a particularly crucial stage during which key risk and protective factors
+influence life chances and trajectories of
+opportunity. However, the period from puberty to mature adulthood is also of enormous importance, with dramatic external
+changes in biological maturity, mirrored
+by less visible changes in brain structure
+and function, in psychological development and in social and vocational progress17.
+The challenge of evolving a sense of
+self, of individuating from one’s family of
+origin and establishing a life and family of
+one’s own is daunting, and stress, frustration, risk and loss are ambient within the
+ecosystem of growth. The philosopher J.
+Campbell characterized the “Hero’s Journey” as a monomyth with deep relevance
+to the human condition21, and this is a
+metaphor which is useful in normalizing
+the level of challenge and threat that we
+all face during the struggle for maturity. It
+creates the space for a “positive psychology” perspective, that is a strength-based
+stance to distress and struggle during the
+transition to adulthood. It also allows us to
+accept and see value in a soft border, a flexible boundary between mental health and
+mental ill-health during the struggle, and
+to validate a role not only for the “scaffolding” of the family and the social network
+surrounding the young person, but also for
+mental health professionals and treatment
+of mental “injury” and illness.
+This concept navigates the space between the concern about labelling common experiences as abnormal and recognizing the crucial need for help and support, including expert medical and professional help under certain conditions.
+Finally, while it confronts and accepts the
+extent of the threats and challenges and
+
+62
+
+the possibility of defeat, it holds out the
+hope of ultimate success even in the darkest times. These are all valuable elements
+for a positive, modern day approach to the
+mental health care of young people.
+
+THE ECONOMIC IMPERATIVE
+From a socioeconomic perspective, e­­
+merg­ing adulthood is a crucial period for
+“mental wealth”. Mental wealth is defined
+as an individual’s cognitive and emotional
+re­sources that provide the foundation for
+educational and vocational success, high
+quality of life and significant contribution
+to society22,23. The development of mental
+wealth during emerging adulthood has
+impacts across the life course and, if disrupted, may perpetuate a cycle of poverty,
+homelessness or crime24,25. Mental illhealth in youth, therefore, influences the
+social cohesion and productivity of the
+whole community.
+Society invests heavily in nurturing
+young people from birth to the threshold of
+productive life. If they become disabled or
+die during this transition, or even if they fail
+to reach their potential and underachieve,
+there is a serious and widespread erosion
+of productivity. The World Economic Forum first recognized this in 2011, when it
+discovered that mental illness makes the
+largest contribution to loss of gross domestic product among all non-communicable
+diseases, accounting for 35% of the global
+economic burden, followed by cardiovascular disease (33%), cancer (18%) and diabetes (4%)26.
+The World Economic Forum estimated
+that by 2030 mental ill-health alone would
+account for a loss of US$16 trillion in global
+economic output. This impact is specifically because of its timing of onset in young
+people and consequently its extended impact across the decades of productive adult
+life. Most young people do not receive
+evidence-based care in a timely or quality
+way, hence much of the burden of mental
+illness, while avertable, is not averted, resulting in chronic, persistent and disabling
+illness across the productive decades of
+adult life, causing enormous suffering and
+weakening economies and societies.
+In terms of economic participation, the
+
+employment landscape is rapidly evolving and young people are facing one of the
+most disruptive workforce changes, due to
+economic developments in automation,
+globalization and collaboration27. Seventy
+percent of young people are currently entering the labour market in roles that will
+likely be obsolete or radically transformed
+over the next decade27. The young workforce has been casualized, and is highly insecure. Inequality is rising steadily across
+the world and even increased during the
+COVID-19 pandemic28.
+The future job market will place a high
+premium on skilled labor27, meaning that
+educational participation and success will
+be critical. Forty-eight percent of people
+who develop a severe form of mental illness fail to complete high school29 and the
+erosion of educational attainment surges
+further within higher education. Compared to their peers, young people with
+mental illness are nearly twice as likely not
+to be in education, employment or training (NEET)30, reducing both the workforce
+and tax base. Together with an ageing population, a declining youth workforce and
+tax base will likely increase the burden on
+the working population, raise expenditure
+on long-term health care31, and reduce
+economic growth.
+While the economic impacts of mental ill-health are clear and overwhelming,
+adequate investment in mental health, including for young people, has been grossly
+neglected worldwide, especially in nonWEIRD (Western, Educated, Industrialized, Rich and Democratic) countries32,33.
+This state of affairs reflects a combination
+of factors, including morbidity and mortality from communicable diseases, widespread poverty as well as lack of political
+will and stability, and limited infrastructure. The influence of the COVID-19 pandemic on this mindset will be interesting
+to analyze.
+The economics of mental health extend
+beyond the need for funding. Inaction
+or insufficient investment comes with a
+range of avertable and long-lasting costs,
+including lost productivity, loss of earnings
+and welfare dependency, that impact all
+of society34-36. Early diagnosis and treatment is one proven strategy to mitigate
+the social and economic impact of mental
+
+World Psychiatry 21:1 - February 2022
+
+disorders which can be scaled up37. The
+costs of inaction fall heavily on governments and economies, highlighting that
+policy-makers cannot afford to underfund
+youth mental health. Return on investment analysis enables decision-makers to
+compare investments in the youth mental
+health system37 with those in other areas of
+the health system and the economy.
+
+CURRENT STATUS OF MENTAL
+HEALTH CARE FOR YOUNG
+PEOPLE
+To understand why such an obvious
+public health opportunity has been overlooked until recently, we need to examine
+the history and evolution of mental health
+care. It is only relatively recently that adult
+mental health care evolved from the alienist era of stand-alone psychiatric institutions to join the mainstream of general
+health care. This is a process by no means
+complete across the globe. Even where this
+has occurred, it has often been poorly designed and funded, and has continued to
+focus almost exclusively on the extremely
+acute or the prevalent cases, that is middleaged people with chronic, persistent and
+disabling illnesses.
+Young adults, where the bulk of incident cases emerge, were not placed at a
+premium, as are incident cases in cancer
+and other major non-communicable disease fields. Rather, they and their families
+found that they had to “prove chronicity”
+to “deserve” and justify access to a model
+of care characterized by a blend of the “soft
+bigotry of low expectations”, the “clinicians’
+illusion”38 and a culture of neglect and low
+morale. Early intervention has been a very
+hard sell in psychiatry39-41.
+If we now turn to child psychiatry, its
+origins are quite different. The sub-specialty originally arose from the child guidance movement, and initially focused on
+younger children. While in recent decades
+its focus has reached up to include adolescents and it is now labelled “child and
+adolescent psychiatry”, it has adhered to a
+paediatric model in which the boundary
+with adult health care is set at 18 years on
+legal, rather than health and developmental grounds.
+
+World Psychiatry 21:1 - February 2022
+
+The epidemiology of mental illness and
+the developmental needs of young people
+demand a radically different approach in
+psychiatry42,43. Mental illness is the mirror
+image of physical illness, with the greatest
+need for care located during the period
+of maximum physical health, at least in
+modern globalized societies. Furthermore, while adult psychiatry has struggled for parity within health systems, child
+and adolescent psychiatry has faced an
+even greater challenge to establish itself,
+and remains seriously underdeveloped
+and underfunded. Even in the prosperous European Union, child and adolescent mental health services are sparse or
+invisible, except in a very small number of
+countries44.
+The result of the weak and divergent evolution of these two traditions within psychiatry is that adolescents and young adults,
+despite having the greatest level of need,
+have the worst access to timely, quality specialized mental health care. The same applies to primary mental health care which,
+just like specialized care, is poorly designed
+and culturally ill-equipped to engage and
+respond to mental ill-health in young people, who typically do not seek or access
+help from traditional primary care providers45. Young people are well able to explain
+why current health and mental health services simply do not appeal to or work for
+them20.
+In summary, the health system has been
+designed to meet the needs of people with
+physical illness, which means a dominant
+focus on young children and older adults.
+Mental health care has been “shoehorned”
+into this system with little foresight, logic or
+equity. The paediatric model of care simply
+does not work for mental health, as recent
+research has shown46,47. Not only the majority of young people fail to gain access at
+all or do so only after long delays but, even
+for those who do, an appropriate transition
+from child and adolescent mental health
+services to adult care is rarely achieved48.
+Access and quality for the 19-25 age group
+is also very poor.
+The different origins and cultures of
+these care systems, funding neglect and
+the fact that the transition is demanded at
+the worst possible point in time are jointly
+responsible for young people’s low rates
+
+of service access and engagement. Young
+people and their families are forced to navigate a new and often quite different system before they are ready and when they
+are least able to do so. Barriers to accessing
+appropriate care, or reluctance to engage
+with developmentally inappropriate services, are strong contributors to a majority
+of young people not accessing or receiving
+mental health care when needed.
+The success of the early psychosis model and its “proof of concept” for early intervention49 has encouraged the wider application of early diagnosis and specialized
+treatment for the full range of emerging
+disorders in young people50-52. The early
+psychosis model delivers timely, comprehensive evidence-based intervention from
+the earliest stages of psychotic illnesses
+with the necessary “scaffolding” assembled and supported so that young people
+maximize their chances of recovery. Consistent evidence supports its cost-effectiveness53,54, and the embedding of specialist
+education and employment services, such
+as Individual Placement and Support55, offers long-term economic benefits37.
+The early psychosis model has demonstrated, as with other non-communicable diseases, that early detection and
+pre-emptive stage-linked treatment will
+improve prognosis and reduce disability
+and disengagement. From initial service
+development in the early 1990s, there are
+now early psychosis intervention services
+established in many countries across the
+world52,56-61.
+While the principles of early intervention, co-design, and holistic biopsychosocial care could be translated from early
+psychosis to the full spectrum of mental illhealth in young people, it was clear to us,
+as we began this task in 2001, that the scale
+of unmet need and the epidemiology of
+mental illness demanded a more complex
+and tiered or staged approach. In any given
+region or catchment area, the incidence of
+psychosis is dwarfed by the total incidence
+of mental disorders in young people. This
+includes anxiety, mood disorders, eating disorders, personality disorders, and
+substance use disorders, and blends of
+these dimensions. Specialist services alone
+would inevitably fail to address the scale of
+the problem.
+
+63
+
+Early intervention demands rapid and
+smooth access to care and this all pointed
+to the essential value of a high volume primary care model43. It has been recognized
+for some time by the World Health Organization that the fulcrum of mental health
+care across the globe needed to shift to
+and focus on primary care62. There are so
+many advantages in pursuing this as the
+entry portal: reduced stigma, greater bandwidth and capacity, and genuine feasibility
+across most health care contexts, including low- and middle-resource settings, in
+terms of cost and workforce. However, the
+problem we immediately faced in highresource settings, such as Australia, was
+that general practice and standard primary
+care was not seen by young people as a setting to seek help for mental ill-health and
+related distress. Nor was this setting youth
+friendly or sufficiently skilled or resourced
+to respond20.
+
+BUILDING A SYSTEM OF YOUTH
+MENTAL HEALTH CARE FOR
+THE 21ST CENTURY
+In response to the limitations and failures of the traditional mental health system20, a broad-spectrum youth mental
+health approach has emerged since the
+turn of the century and is gaining traction in many high-resource settings63-65.
+New models of integrated youth primary
+mental health care have spread across the
+globe65. The focus is now the age group
+12-25 years, ending the harmful transition
+point at 18 years.
+This focus requires developmentally
+and culturally appropriate design features
+that acknowledge the complex and evolving biopsychosocial issues, recognizing
+the developmental crises, fluid symptom
+patterns and comorbidity seen in this age
+group42,43. This means that services must
+be co-designed, accessible, with “soft entry” (i.e., no or very low barriers to entry),
+community-based, non-judgmental and
+non-stigmatizing, where young people
+feel comfortable and have a sense of trust,
+and their families and friends are included66.
+It also means that the center of gravity
+must be located in the community, with an
+
+64
+
+enhanced primary care model, that a clinical staging approach67 should be adopted,
+and that secondary or more specialized
+mental health care will have to restructure
+and align to enable more intensive and
+sustained, longer-term care.
+An international network of academics, health professionals, educators, young
+people, families and other leadership – the
+International Association for Youth Mental
+Health (www.iaymh.org) – was established
+in 2010 to support this process of global reform. In 2019, the World Economic Forum
+started a formal partnership with Orygen
+to work with stakeholders worldwide to
+develop a Global Framework for Youth
+Mental Health68. This process involved literature reviews of the scientific evidence,
+global surveys, face-to-face workshops
+and extensive online and face-to-face consultations with young people and other
+key stakeholders from many different
+countries and settings. A number of principles were agreed upon and a framework
+for different levels of health resources was
+proposed.
+The key principles underpinning the
+implementation of youth mental health
+care include: a) prevention and early intervention; b) youth participation, respect,
+empowerment and co-design; c) community engagement, education and consultation; d) “soft entry” without stigma
+or financial barriers; e) choice regarding
+options for access and for treatment and
+care; f) family engagement and support; g)
+scientific evidence as a key guide. The way
+models of care can be deployed in different
+resource setting is captured in Table 1.
+It has proven relatively easy to get a
+global consensus around the principles to
+guide youth mental health reform. Translating these principles into practice is a
+more challenging step, but there has been
+encouraging progress in recent years in
+many parts of the world. These advances
+can be described within a comprehensive
+framework including the following key elements: a) community awareness; b) prevention programs; c) volunteers, youth and
+peer workers; d) digital mental health platforms; e) educational settings and workplaces; f) integrated primary youth mental
+health care; g) specialist youth community
+mental health care; h) residential care.
+
+COMMUNITY AWARENESS
+The first step in reducing the burden of
+mental ill-health in young people is to ed­
+ucate the public in every society about the
+nature and pattern of mental ill-health and
+how it can be prevented, recognized, and
+responded to safely and effectively as soon
+as it emerges. Community awareness, anti-­
+stigma and mental health promotion pro­
+grams have been successfully deliv­­­ered in
+many countries in recent years, though most
+have been generic or adult focused69,70.
+There are many worldwide examples of
+youth focused awareness campaigns, which
+have been a mix of mental health promotion and education on the warning signs
+of emerging mental ill-health. Mental
+Health First Aid71 has produced a version
+for adolescents72 and this has recently
+been evaluated73,74. There are sustained
+benefits for participants, but benefits for
+young people have been difficult to demonstrate and the focus on under 18s is
+a significant limitation. “headspace Day”
+in Australia is another example (https://
+headspace.org.au/about-us/our-campaigns/). ReachOut, which was one of the
+first to use the power of the Internet to
+reach young people, is one of the best examples. More recently, Batyr has complemented an online approach with face-toface strategies in educational settings. Jack.
+org in Canada is youth-led and delivers
+nationwide programs and campaigns in
+youth mental health awareness and promotion. In the UK, YoungMinds is creating
+a youth-led movement to improve mental
+health awareness and the support available to children and young people. These
+programs are described with some more
+details in the following sections.
+
+ReachOut
+Established in Australia in 1998, Reach­
+Out is a web-based mental health promotion, early intervention and prevention
+service for young people aged 12-2575.
+Co-design and youth participation have
+been central to its development and delivery76.
+ReachOut aims to improve young people’s mental health literacy, resilience,
+
+World Psychiatry 21:1 - February 2022
+
+Table 1 Delivering youth-specific mental health care across resource settings
+COMMUNITY
+
+PRIMARY CARE
+
+SECONDARY CARE
+
+TERTIARY CARE
+
+HIGH-RESOURCE
+SETTINGS
+
+Community education,
+­screening and early
+detection programs
+Prevention programs (e.g.,
+anti-suicide, anti-bullying)
+School, university and
+workplace awareness and
+early detection programs
+Digital mental health
+platforms
+
+Integrated youth (12-25 years)
+health and social care
+platforms as “one-stop
+shops”
+School and university mental
+health services
+Digital interventions and
+telehealth integrated with
+primary care
+
+Multidisciplinary youth
+mental health systems
+providing face-to-face
+and online care closely
+linked to primary care and
+community platforms
+Complementary integrated
+digital platforms
+
+A suite of specialized,
+­co-designed youth inpatient
+and residential services
+linked to acuity and stage
+of illness
+Home-based acute care
+and assertive community
+treatment
+
+MEDIUM-RESOURCE
+SETTINGS
+
+Community education,
+­prevention, and
+­school-based programs
+Digital mental health
+platforms
+
+Integrated youth health and
+social care platforms as
+“one-stop shops”
+School and university mental
+health services
+Digital interventions and
+telehealth integrated with
+primary care
+
+Multidisciplinary community
+mental health teams
+­(face-to-face or online)
+Complementary integrated
+digital platforms
+
+Inpatient services distinct
+from adult facilities and
+­home-based acute care if
+this is not feasible
+
+LOW-RESOURCE
+­SETTINGS
+
+Community education,
+­prevention, and
+­school-based programs
+Digital mental health
+platforms
+
+Volunteer, peer or lay worker
+programs (Friendship Bench
+concept)
+Digital interventions and
+telehealth platforms
+
+Primary care health
+­professionals, including
+general practitioners and
+volunteers, trained in youthfriendly practice and mental
+health skills, providing care
+within community primary
+care settings with face-toface, telehealth and digital
+options
+
+Home-based acute care
+
+social connectedness, and help-seeking
+behaviors through self-help information,
+peer support forums and referral tools75,77.
+It also offers support and resources to parents and schools. The service is accessed
+by more than 2 million people in Australia
+annually78.
+Nearly three-quarters of young people
+accessing ReachOut are experiencing high
+or very high levels of psychological distress75. A recent evaluation found that the
+service is accessible and relevant to young
+people, increases help-seeking behaviors,
+and significantly reduces depression, anxiety, stress and risk of suicide78,79.
+
+batyr
+Launched in 2011, batyr is a preventive
+mental health organization in Australia
+that aims to reduce stigma and promote
+help-seeking. The batyr model draws upon
+a body of evidence highlighting the association between disclosure, stigma and
+well-being80.
+
+World Psychiatry 21:1 - February 2022
+
+batyr delivers educational workshops
+on mental health in schools (batyr@
+school), universities (batyr@uni) and
+workplaces (batyr@work). Presenters are
+trained through the Being Herd program,
+a free two-day workshop that aims to empower young people (18-30 years) to share
+their lived experience of mental ill-health.
+The Being Herd program has trained
+over 700 young people to date and has
+been associated with improved well-being
+in trainees as well as reduced self-stigma
+and stigma towards others80. The batyr@
+school program has reached over 200,000
+young people across 352 secondary schools
+in Australia.
+An unpublished randomized controlled
+trial found that batyr@school reduced stigma and increased attitudes and intentions
+to seek professional mental health care81.
+These findings were maintained three
+months after the program81. Both secondary and university students report that the
+batyr programs are highly engaging (82%
+and 85%, respectively) and increase the
+likelihood of seeking mental health sup-
+
+port (70% and 78%, respectively).
+
+Jack.org
+Recognizing an absence of programs
+to train youth mental health advocates in
+Canada, Jack.org was established in 2010
+as a youth-led mental health promotion
+and prevention initiative targeting young
+people aged 15-24.
+The organization aims to increase mental health literacy, reduce stigma, and
+improve help-seeking behaviors through
+three core programs: Jack Talks (peerto-peer mental health presentations),
+Chapters (community-based, youth-led
+working groups), and Summits (youth-led
+conferences). Online resources are also
+available to educate young people on how
+to support their peers.
+In 2019, Jack.org reached over 170,000
+young people, and 446 Jack Talks were presented by trained and certified speakers.
+Eighty-seven percent of Jack Talks attendees report that the presentation helped
+
+65
+
+them think more positively about mental
+health.
+
+YoungMinds
+YoungMinds is a UK charity focused
+on ensuring that all young people receive
+the mental health support that they need
+when they need it. It offers online support,
+workshops and face-to-face training to
+young people, parents, schools and professionals.
+In 2019/2020, nearly 2.5 million UK users visited the YoungMinds website and
+11,959 parents and carers contacted its
+helpline, with 77% of parents reporting
+that they modified their approach to support their child following advice from the
+helpline82. An evaluation found that the
+helpline is beneficial to 88% of those who
+use it83. In 2019/2020, YoungMinds provided in-house training to 70 schools and
+organizations, with 97% of trainees rating
+the course highly82. Training is delivered to
+over 10,000 professionals each year.
+YoungMinds also offers a flagship threeyear activist program for young people
+aged 14 to 25 with a lived experience of
+mental ill-health, who campaign to raise
+awareness of youth mental health. Ninetyseven percent of activists reported better
+knowledge of their mental health and 83%
+felt more confident to speak about mental
+health issues82.
+
+PREVENTION PROGRAMS
+Prevention is better than cure, and many
+of the risk and protective factors for mental
+ill-health are well characterized84. However, there is evidence for a rise in incidence
+and prevalence of mental ill-health in
+young people and of suicide rates, especially in young women12,85. A role is suggested
+of social media and new technologies, climate change and a range of socio-economic forces in undermining the mental health
+and well-being of young people18,86.
+Specific programs targeting some of
+these risk factors, for example, anti-bullying programs87, chatsafe to reduce risks of
+suicide via an online strategy88, and resilience programs in schools89,90, have some
+
+66
+
+value91. However, other risk factors are not
+especially malleable and are more widely
+social and economic in nature and scope
+(e.g., climate change and social media).
+Prevention is a concept that extends
+across a spectrum and includes all stages
+of care. Fusar-Poli et al92 recently reprised
+in this journal the US Institute of Medicine
+model of the spectrum of prevention in
+mental health93, highlighting the distinction between universal, selective and indicated prevention and confirming that
+indicated prevention has been the most
+promising avenue for progress in recent
+years and has further potential94.
+As with other major non-communicable disease areas such as cancer, all aspects
+of prevention and preventively oriented
+treatment are valuable. However, what can
+be delivered in the foreseeable future in
+terms of universal prevention95,96 remains
+uncertain. Preventive health care can operate across the full spectrum, and unnecessary false dichotomies between classic
+primary prevention and treatment merely
+undermine consensus and momentum92.
+
+“SOFT ENTRY”: INNOVATIONS
+WITH VOLUNTEERS, YOUTH
+AND PEER WORKERS
+The extreme shortage of mental health
+professionals in low-resource settings, and
+the relative shortage due to high need and
+inadequate funding in middle- and highresource settings, has driven valuable innovation.
+The most famous example of this is the
+Friendship Bench97, devised and implemented in Zimbabwe. This concept has
+been enhanced as a “Friendship Bridge”,
+a flexible way of engaging marginalized
+young people from a variety of cultural
+backgrounds. Similarly, in some high-resource settings, youth mental health models have drawn upon students and other
+young volunteers to facilitate engagement
+and make it more informal and less of
+a barrier (e.g., https://www.ease.nl and
+https://headspace.dk).
+The advent of paid peer workers in
+youth mental health has similar goals and
+benefits98,99. With appropriate training,
+volunteers and peer workers can not only
+
+help to absorb substantial need for care
+at the front end of services, but also make
+the experience of entering care less challenging and more welcoming, especially
+for first time users, offer compassionate
+support, and deliver simple therapeutic
+interventions.
+This is a component of youth mental
+health care which can be developed in all
+communities, and is in fact not a substitute
+for scarce workforces, but adds substantial
+value irrespective of the level of health financing and resources.
+
+DIGITAL MENTAL HEALTH
+PLATFORMS
+Young people are digital natives and the
+digital world is a fundamental element in
+their lives. While the establishment of integrated youth mental health services has
+improved young people’s access to mental health care (see below), the volume of
+demand and workforce challenges have
+highlighted the need to develop further
+platforms that can adequately address the
+scale and diversity of need. The delivery of
+high quality mental health care through
+digital technology is considered key to this
+endeavour, emphasized by the COVID-19
+pandemic100.
+The integration of digital technologies
+within youth models of care has several
+advantages, including improved service
+efficiency and access to care100,101, potentially reducing the treatment gap in all
+resource settings. While the use of digital
+technologies in low- and medium-resource settings is acceptable, feasible and
+potentially effective102, particular considerations are needed regarding factors such
+as language, culture, level of education,
+access to technology, digital literacy, and
+infrastructure103.
+There has been a rapid growth in digital
+mental health research104 and, while there
+have been challenges in the implementation and uptake of new digital technologies105,106, their integration within clinical
+services has the potential to enhance engagement107.
+For anxiety and depression in young
+people, a range of digital mental health
+interventions are available108. These in-
+
+World Psychiatry 21:1 - February 2022
+
+volve text-messages (e.g., ReachOut, Rise
+Up), computer games (e.g., SPARX), online programs (e.g., MOST, MoodGYM),
+video games (e.g., Maya), online courses
+and chat groups (e.g., Master Your Mood),
+and mobile apps (e.g., Mayo Clinic Anxiety
+Coach). Interventions that involve supervision or regular contact with a therapist are
+more likely to be effective than unsupervised educational programs. Engagement
+and retention are issues requiring attention108.
+Promising platforms that combine faceto-face mental health care with digital interventions are described in the following
+sections.
+
+Moderated Online Social Therapy
+(MOST)
+Developed in Australia by a multidisciplinary team of clinical psychologists, designers, young adult novelists, comic artists
+and software engineers, Moderated Online
+Social Therapy (MOST) is a seamless digital solution adopting a user-centred design
+model. It is safe, effective and valued by clinicians, young people and families.
+The intervention offers young people
+continuous access to evidence-based ther­
+apy and peer and clinical support from
+any Internet-enabled device. All included
+therapy has been adapted and enhanced
+based on a decade of youth feedback and
+usage data, to ensure that the young person’s perspective is captured and the range
+of interventions feels uniquely relevant to
+their daily life. This therapy is embedded
+within a supportive online community of
+other young people working on their mental health, aiming to shift the treatment
+experience from one of isolation to one of
+shared mission.
+MOST combines guided therapy journeys, targeted coping strategies, and mental health tracking with a social network of
+peers, providing an enriching therapeutic
+environment where young people can
+safely work towards their goals, take positive interpersonal risks, and broaden and
+rehearse coping skills for long-term wellbeing. Therapists work alongside faceto-face clinicians to offer wrap-around
+support to young people and provide ad­
+
+World Psychiatry 21:1 - February 2022
+
+vanced intervention tailoring. Specialist
+vocational consultants further support
+young people with work and study.
+MOST seamlessly blends human and
+digital support to facilitate rapid detection
+and response to any indicators of risk or
+relapse between scheduled clinician contacts. It is an evolving model, and through
+successive iterations it has been adapted
+for a range of populations: first episode
+psychosis109-111, ultra-high risk for psychosis112, depression113, social anxiety114,
+mental ill-health115, suicidal risk116, and
+relatives117,118.
+A recent randomized controlled trial110
+in young people with psychosis demonstrated that Horyzons (MOST version for
+youth psychosis) was associated with a
+5.5 times increase in the likelihood to find
+employment or enrol in education, as well
+as half the rates of visits to emergency services and hospital admissions due to psychosis, compared with treatment as usual, over 18 months following discharge­
+from specialized youth psychosis servic­
+es.
+
+Synergy
+Also in Australia, Synergy is a digital
+platform that aims to enhance the health,
+social and physical outcomes of young
+people through the delivery of personalized and measurement-based care119. The
+platform is embedded within youth mental health services and can be configured
+to meet local needs.
+Co-designed with end-users120,121, the
+platform facilitates a number of key processes, including multidimensional assessment, allocation of clinical stage, feedback
+of assessment results, shared decisionmaking, and monitoring of change over
+time119. A clinical trial of Synergy is currently underway122.
+
+The “digital clinic”
+In the US, the “digital clinic” offers a hybrid model of mental health care, augmenting and extending services at the Beth Israel
+Deaconess Medical Center in Boston with
+a smartphone app107. The clinic has a core
+
+focus on therapeutic alliance, measurement-based care and shared decisionmaking107.
+Components of the clinic have been
+specifically designed to address key barriers among patients and clinicians that reduce uptake and engagement with digital
+mental health care107. These components
+include the Digital Opportunities for Outcomes in Recovery Services (DOORS)123
+and the Digital Navigator124,125 programs,
+which provide digital literacy training to
+patients with serious mental illness and
+clinicians, respectively.
+The mindLAMP (Learn, Assess, Manage, Prevent) app, a digital health platform
+used by the clinic and designed in consultation with end-users, is customized to
+each patient and has the potential to advance youth mental health care126. Core
+functions of the app include education,
+assessment via surveys and sensors, digi­
+tal phenotyping, self-management tools,
+data sharing with patients, and clinician sup­­­
+port.
+The mindLAMP app can be adapted for
+implementation in all resource settings126
+and is currently being used by researchers and clinicians in over 20 sites globally.
+Preliminary findings of mindLAMP have
+highlighted the feasibility and potential
+utility of digital phenotyping to augment
+clinical care, although individuals under
+25 years were found to complete fewer ac­­
+tivities on the app than older individuals127.
+
+SCHOOLS AND EDUCATIONAL
+SETTINGS AND WORKPLACES
+Educational settings offer the opportunity to promote mental health and wellbeing, to educate students and teachers
+about mental ill-health and how to recognize and respond to it, and to offer a primary care level of initial response128-130.
+This logic extends beyond school settings
+to university and other tertiary educational
+settings, where greater recognition of the
+opportunities for proactive youth mental
+health care is emerging in many countries131-133.
+These settings are best regarded as community-based populations of most, but
+
+67
+
+not all, young people in which a bespoke
+primary care level system of care can be
+formulated and linked to other resources,
+including specialist care and digital mental
+health platforms.
+
+INTEGRATED PRIMARY YOUTH
+MENTAL HEALTH CARE
+Integrated health care134 is a widely
+endorsed approach to optimizing health
+care, in view of its capacity to meet multiple health and social needs from a single
+platform of care. Its adaptation to young
+people has been at the vanguard of reform
+in youth mental health care over the past
+two decades in high-resource settings. As
+a version of primary mental health care62,
+it should be at the heart of global reform,
+as a gateway to and component of staged
+care65, and ultimately in all resource settings62,68.
+Although there were earlier examples
+of this approach135, the trigger for global
+spread can be traced back to 2004, when
+the Australian government agreed to fund
+a new program of enhanced primary care,
+named headspace. This program was designed by Orygen and partners, including
+national professional organizations representing general practice and psychology136. Other countries soon followed, notably Ireland and Canada50,137-139.
+This wave of innovation in youth mental
+health care is now spreading globally, with
+at least 12 other countries adopting an integrated youth primary care model that is
+adapted to, and often limited by, the local
+cultural, health finance patterns and workforce context. The success of the headspace
+model, in particular, has seen its expansion
+into Denmark, Israel, the Netherlands, and
+Iceland. Similar programs under different
+branding have also been established in Ireland, Canada, Singapore, and the US. New
+Zealand and France had independently
+developed a similar model of care a little
+earlier.
+Common features of these models include the following. First, there is a physical, developmental and cultural separation of youth mental health platforms
+from those for both younger pre-pubertal
+children and those for older adults, with
+
+68
+
+an overdue shifting of the upper boundary
+of youth mental health care from 18 to 25
+years.
+Second, the value of youth participation
+and co-design is a universal success factor
+and has not only changed the culture, but
+also increased trust, and greatly minimized
+the stigma associated with help-seeking.
+This has been enhanced by the creation
+of trusted, stigma-free brands, something
+which has not been previously achieved in
+mental health care.
+Third, the “one-stop shop” aspect of integrated care, from a single location with
+high visibility in the heart of the local community, enables better multidisciplinary
+care to occur, and helps to future-proof
+the service against the risk of defunding, to
+which more diffuse wrap-around models,
+based on fragmented funding streams, are
+more vulnerable. This approach also mobilizes local community support, including from local political representatives, and
+draws in collaborative support from other
+services and agencies.
+Fourth, a flexible or “light touch” approach to diagnosis, especially in the early
+fluid stages of mental ill-health, and a
+needs- and strengths-based stance, which
+suits primary care, has been a common
+feature across many settings and is congruent with the staging model. Finally, a
+critical success factor, which improves outcomes, is ensuring model fidelity through
+accreditation, continuous monitoring and
+quality improvement, and trademark licensing strategies. This limits erosion of
+the evidence-based aspects of care, often
+justified under the guise of local adaptation.
+Common challenges that have emerged
+are related to patterns of commissioning,
+workforce, professional work practices,
+and the lack of secure financial channels to
+support the model of care. A devolved pattern of commissioning undermines the capacity to safeguard model fidelity. Many of
+the examples so far struggle to attract and
+retain the full range of professionals and
+rely more heavily than is ideal on youth
+volunteers and peer workers, invaluable
+as these are in any youth mental health approach.
+Even when the model has a good balance between youth volunteers/peer work­
+
+ers and mental health professionals at
+the primary care level, the success of the
+“soft entry” approach in enabling young
+people with all levels of need to gain access means that a cohort of young people
+with more complex and enduring mental
+health conditions are welcomed to enter
+the service. However, the model currently
+lacks the capacity, the skillsets and the
+tenure to fully meet the needs of this subset of young people and improve their outcomes. We have used the term “missing
+middle” to denote this cohort, since, due
+to the underfunding and neglect within
+specialist mental health care, even in highresource settings, they fail to gain access
+to the next tier of care unless they reach
+a threshold of acute and severe illness or
+chronicity140.
+Nevertheless, affording primary care access at an early stage does at least highlight
+the existence of this crucial group of young
+people from whom spring the ranks of the
+future severely mentally ill, and creates the
+potential for earlier preventive treatment.
+A hidden waiting list of people with a need
+for care is brought out of the shadows and
+ultimately must be responded to.
+Examples of programs of integrated
+primary youth mental health care are described in more detail in the following sections.
+
+New Zealand: Youth One Stop Shops
+and Piki
+New Zealand pioneered the establishment of “Youth One Stop Shops” in 1994.
+These provide young people (aged 10-25)
+with a range of accessible, youth-friendly health, social and other services in a
+“wrap-around” manner.
+An evaluation of 14 services in 2009
+revealed that occasions of service ranged
+from 2,000 to 15,000 per area, with a mean
+of 11,430141. While objective data regarding improvements in access and health
+were unavailable, young people (94%) and
+stakeholders (89%) reported that the service was effective in improving health and
+well-being141.
+Following successful pilot of Piki, a
+youth mental health service for young people aged 18 to 25, the New Zealand govern-
+
+World Psychiatry 21:1 - February 2022
+
+ment recently committed to a rollout of
+youth-specific primary mental health and
+addiction services for young people aged
+12 to 24 years. Services in 13 locations have
+been announced to date. These services
+will be offered in a range of places, including in Youth One Stop Shops and community centres.
+
+France: Maisons des Adolescents
+The “Maisons des Adolescents” (MDAs),
+which began in 1999 in Le Havre, France,
+are integrated health care services for
+young people with physical, psychological or social problems. While the target age
+range is 11 to 21 years, sites can extend this
+to 25 years135. Operating under a common
+brand across 104 locations and with a national office in Rennes, each centre provides care to between 700 and 1,000 young
+people each year, and the average number
+of visits is between two and three.
+Young people report that the service
+contributes to their well-being, while professionals are satisfied that the service responds to individual needs142. Services are
+varied in the content they offer, which includes a “health and prevention space” for
+listening and assessment, mobile teams for
+hospital in-reach and also home and community outreach visits, arts and cultural
+programs, vocational support, specialist
+consultations and network meetings.
+Steps have been taken recently to improve regulation and standardization of
+the model to optimize the care provided,
+prioritize needs and adapt the approach to
+new societal issues. As with other models,
+there is evidence of tension between a light
+touch “listening” stance and more therapeutic interventions.
+
+Australia: headspace
+headspace was funded and designed
+in 2005 by the Australian government in
+response to an extensive advocacy campaign for reform and investment in a national youth mental health program, which
+was motivated by low levels of awareness,
+access and quality of mental health services for young Australians. The campaign
+
+World Psychiatry 21:1 - February 2022
+
+gained bipartisan political support, and
+government funding was secured to support the design and implementation of the
+program initially within only ten Australian communities from 200666. This has progressively been scaled up to 136 centres,
+through a series of government funding
+rounds, and aims to reach 164 communities by the end of 2023143.
+Over 130,000 young Australians access a
+range of services via headspace every year,
+and over half of young people attending
+headspace present with high or very high
+levels of psychological distress144. By late
+2020, headspace had supported 626,000
+young people with over 3.6 million occasions of service145.
+The headspace model provides a youthfriendly “one-stop shop” service for young
+people to access a range of health and social programs, including mental health,
+physical and sexual health, vocational and
+educational support, and drug and alcohol education and interventions43,66. A national online support service (eheadspace)
+is also available over extended hours,
+where young people can chat with a mental health professional online or by phone.
+headspace also delivers mental health
+programs in schools nationally, in partnership with beyondblue (www.beyondblue.
+org.au), which enhance mental health
+literacy and skills among teachers and offer suicide postvention support145. Online
+work and study support is available to
+complement face-to-face vocational (Individual Placement Support) interventions.
+headspace operates on an enhanced
+primary care model, providing a multidisciplinary team structure with close links
+to local community supports (e.g., schools
+and specialist mental health care). It is a
+form of franchise with a national brand
+which requires adherence to a measurable
+template of care. Until 2016, the headspace
+national office commissioned a single lead
+agency within a wider local consortium
+at each site to deliver the service. Now 31
+devolved regional primary health care
+networks perform this function on behalf
+of the Australian government, while the
+national office assesses adherence to the
+model and controls the license and trademark.
+headspace has undergone two sepa-
+
+rate independent evaluations146,147, which
+showed major improvements in access for
+young people, including for marginalized
+groups, notably Indigenous and lesbian,
+gay, bisexual, trans and intersex (LGBTI)
+young people. More than 60% of young
+people experience short-term improvements148, and a follow-up study of those
+who engage has shown sustained benefits with high levels of satisfaction among
+young people and families149. A third evaluation is in progress.
+The current headspace funding model
+is modest and supports only brief episodes
+of care, yet open access is provided to all
+young people, including the “missing middle”, the large cohort of young people who
+need more intensive, sustained and complex interventions but fail to access them.
+In Victoria, specialist services are now being aligned with the 12-25 headspace age
+range and will be substantially boosted150.
+Early psychosis programs linked with head­
+space exist in a number of regions of Australia, also span the adolescent-young adult
+age range, and can be expanded transdiagnostically to fill this gap.
+The rising level of unmet need and the
+widely known and trusted brand and entry
+portal are now resulting in increasing waitlists151. Workforce shortage, and the relative financial weakness of the model and
+of the specialist back-up system of care, are
+issues that must now be addressed. Fortunately, political and community support
+for headspace has led to a boost in investment in the 2021 federal budget.
+headspace, as a disruptive and popular reform, and still a work in progress,
+has had its critics, which to a degree have
+been helpful in eliminating flaws and improving the model of care39,152-154. Finally,
+the COVID-19 pandemic created obvious
+challenges, generating an increased need
+for care with reduced accessibility7. The
+latter was buffered by the federal government’s support for telehealth and mobile
+outreach.
+
+Ireland: Jigsaw
+In 2006, in the context of a national reform, concern about youth suicide, and
+influence by headspace in Australia, the
+
+69
+
+One Foundation created headstrong as the
+national youth mental health foundation
+of Ireland. Jigsaw became the publicly facing brand for the service and later the single brand for the whole organization139,155.
+Prior to its development, there was very
+limited mental health access available to
+young people in Ireland, particularly for
+those with mild to moderate mental health
+needs, with state funded child and adolescent mental health services seriously
+under-resourced and only able to provide
+care to a small minority of young people
+with more severe mental illness, and not
+even up to the age of 18.
+Jigsaw’s approach incorporates free
+one-to-one clinical supports and brief
+clinical interventions that are accessible to
+young people when and where required.
+Community and school based programs
+are additional features.
+The program has grown from five pilot
+sites in 2010155 to 14 services in 2020 (including one digital service), with an additional service opening in 2021. Services
+have provided access and care to over
+44,000 young people since 2007. The program is highly accessible and significantly
+reduces psychological distress (62% aged
+17-25 show a reliable and clinically significant improvement), with high levels of
+satisfaction among young people and their
+parents156-158.
+For a number of years, Jigsaw was only
+funded by philanthropic sources, but even­
+tually the national government came on
+board, and in 2015 the program was included in the national Health Service Executive annual service plan and received
+significant mainstream funding. This funding has grown year-on-year to support the
+expansion of services, and the Health Service Executive now funds the majority of
+costs associated with service delivery.
+The challenge, as in Australia, now involves filling the gap between Jigsaw, as
+the entry point to youth mental health care
+with only brief and limited capacity, and
+the specialist mental health services for
+young people, which needs major reform
+and investment to engage with the primary care reform. A stronger role for general practitioners is hampered by the lack
+of universal health care and government
+funding for primary care in Ireland.
+
+70
+
+Canada: ACCESS Open Minds,
+Foundry, Youth Wellness Hubs
+Ontario, Aire ouverte
+Youth mental health reform in Canada
+followed a common pattern, with catalytic
+leadership from philanthropy. The Graham Boeckh Foundation allocated substantial funding, in partnership with the
+Canadian Institutes for Health Research,
+to create ACCESS Open Minds, a panCanadian network transforming mental
+health care for young people in 16 diverse
+communities (seven provinces and one
+territory), with an emphasis on high-risk
+populations (e.g., Indigenous communities)137,159.
+The ACCESS Open Minds model is ad­­
+apt­ed to local circumstances, reflecting the
+geographic, political and cultural diversity
+in Canada. Key elements of service transformation within each site include: systematic service planning; early case identification; rapid access; integrated youth
+space; appropriate care; active youth and
+family engagement; training of clinical
+staff; and building research and evaluation
+capacity137.
+A total of 7,539 young people between
+May 2016 and August 2020 have received
+services with rapid access, high levels of
+satisfaction and small to medium effect
+size improvements in distress, symptoms,
+and social and vocational functioning160.
+A wide range of clinical and social services are offered. In contrast to other models, the majority of young people are experiencing moderate to severe conditions160,
+and it is this subgroup that improves more
+with the interventions that are provided. A
+key feature has been the success achieved
+with Indigenous communities, LGBTI
+and ethnic minorities, in which trust and
+ease of access has been demonstrated160.
+Evaluation of ACCESS Open Minds is underway161.
+The widespread advocacy and support
+from the Graham Boeckh Foundation has
+led to several provincial integrated youth
+services initiatives in Canada. These include Foundry in British Columbia, Youth
+Wellness Hubs in Ontario, and Aire ouverte in Quebec.
+Established in 2015, Foundry is a net­
+work of service centers across British Co­
+
+lum­bia, offering low-barrier (i.e., self-referral,
+walk-in and free) access to mental health,
+substance use, general and sexual health
+care, and social services. A team of care and
+service providers work with each young
+person, and services are appropriately targeted to the young person’s level of need
+using a stepped care approach.
+Each Foundry centre is operated by a
+lead agency that brings together local partners, service providers, young people and
+caregivers. During the first two and a half
+years, 4,783 young people accessed care
+through six service locations. Eighty-one
+percent of young people who accessed
+the service had high or very high levels of
+distress162. The model has improved outcomes and ensured greatly improved access to marginalized subgroups, including
+Indigenous, LGBTI and others, and is continuing to expand across the province.
+Youth Wellness Hubs Ontario was initiated following the development of three
+integrated youth mental health services
+launched in Toronto as part of YouthCan
+IMPACT, a federally-funded randomized
+controlled trial of the integrated youth
+mental health service model compared to
+treatment as usual in hospital-based outpatient adolescent psychiatry services163.
+In 2017, the Government of Ontario ex­
+panded the integrated youth services
+model to six additional communities. Initial service delivery emphasized integration of existing mental health, substance
+use, general health and social services,
+provided in-kind, with modest funding
+enhancement from government and philanthropy. These services unified under
+the Youth Wellness Hubs Ontario umbrella
+to form a network of ten integrated youth
+services which was included in the Ontario
+government’s strategic mental health plan
+and secured permanent funding164. Work
+is ongoing to expand the model and demonstrate its feasibility, appropriateness and
+outcomes in Ontario’s diverse communities.
+In the province of Quebec, a network of
+integrated youth services (“Aire ouverte”)
+has also been established for young people aged 12-25. Similar to the above, these
+services aim to provide low-barrier and
+easy access to a range of health and social
+services. There are currently three centres,
+
+World Psychiatry 21:1 - February 2022
+
+with others due to open throughout the
+province.
+
+Denmark: headspace
+headspace Denmark was established
+in 2013 as an initiative of Det Sociale Netværk, a non-governmental organization.
+While based on and branded similarly to
+the Australian model, the Denmark model
+has been adapted to meet local needs.
+headspace Denmark is a free support
+and counselling service predominately
+delivered by trained volunteers, including
+young people, who work in pairs. The service does not yet offer clinical treatment to
+young people. Instead, it provides a young
+person with “someone to talk to”. Approximately one in five young people accessing
+headspace Denmark are referred to other
+services for treatment or specialized care.
+At present, there are 28 centers in Denmark in 26 municipalities (in addition
+to a nationwide anonymous video and
+text-based chat service). The government
+is now engaged and contributing funds.
+Through continued state co-financing, it is
+anticipated that headspace Denmark will
+expand to 32 centers in 2022, which will
+establish it as a nationwide face-to-face
+service with 50% coverage, and expand its
+position as the largest preventive and mental health-promoting civil society project
+for vulnerable young people in Denmark.
+Formal evaluation of headspace Denmark
+is currently underway.
+Introducing clinical expertise and, as
+elsewhere, building a bridge with specialist clinical services for young people, will
+be crucial challenges.
+
+Iceland: Bergid headspace
+Bergid headspace was established in
+Iceland through the advocacy of S. Bergsdottir. Since 2019, this low-threshold support and counselling service operates in
+Reykjavík, with outreach counselling available in other regions of Iceland in addition
+to online. By the end of 2020, a total of 390
+young adults had accessed its services.
+A range of data, including self-report
+questionaires, are collected. The average
+
+World Psychiatry 21:1 - February 2022
+
+number of sessions attended is four, but
+young adults often return for subsequent
+episodes of care. The average age of those
+who sought services is 19 years, and 90%
+of the individuals are from the capital area
+around Reykjavik.
+
+Israel: headspace
+headspace Israel was established in 2014
+in response to low help-seeking rates and
+a lack of public health services for young
+people with emerging mental ill-health.
+Once again philanthropy, this time from
+Australian sources, was instrumental in
+the service being established. Commencing in Bat Yam, a second site in Jerusalem
+has been added.
+headspace Israel is a youth-friendly,
+multidisciplinary enhanced primary care
+model (“one-stop shop”), with close links
+to locally available specialist services,
+schools and other community organizations.
+In its first year of operation, headspace
+Israel successfully increased the level of accessibility and familiarity of mental health
+services available to young people, with
+652 youth accessing the service in Bat Yam.
+
+Netherlands: @ease
+@ease, which began in January 2018 in
+Maastricht and Amsterdam, is a walk-in
+support and counselling service for young
+people delivered mainly by trained volunteers (including psychology students and
+young people).
+Since @ease was established, it has
+expanded to Rotterdam, Gröningen and
+Heerlen. It has been complemented by an
+online chat service and by psychiatric and
+other professional support, and over 1,000
+young people have accessed care to date.
+
+United States: allcove
+In the US, the allcove program, developed through the Stanford Psychiatry
+Center for Youth Mental Health and Wellbeing, has opened its first two centers in
+2021. Created through a collaboration with
+
+Santa Clara County, the first two allcove
+sites are in San José and Palo Alto.
+Inspired and supported by headspace
+Australia and Foundry, this US integrated
+youth mental health model for young
+people aged 12-25 years will include early
+mental health care, primary medical care,
+substance use services, peer and family support, and supported education and
+employment services.
+The State of California has committed
+seed funding for a further five centers in
+San Mateo, Sacramento, Los Angeles (two
+centres) and Orange counties. Potential
+expansion across five other states is also in
+progress.
+
+Singapore: Community Health
+Assessment Team (CHAT)
+Established in 2009, and building on
+the Singapore Early Psychosis Intervention Programme, CHAT is a national youth
+mental health check and outreach program
+under the Institute of Mental Health165.
+CHAT focuses on young people aged
+16-30, and provides free, personalized care
+in a non-stigmatizing environment. The
+service comprises allied health professionals, doctors, administrative support, youth
+mental health advocates, CHAT ambassadors (a volunteer-based youth peer group),
+an outreach function, webCHAT (an online screening service), and on-site brief
+support to young people with poor access
+to specialist services166.
+Over its first decade of operation, 3,343
+young people (54% of all referrals) received
+a complete mental health assessment at
+CHAT. Forty-seven percent experienced a
+25% or higher reduction in distress, while
+20% showed a 6-25% reduction166.
+
+United Kingdom
+While no systematic health care youth
+mental health reforms have emerged so far
+across the UK, the same issues have influenced service provision through a system
+of variable Youth Access centres at local
+levels.
+In several parts of the UK, notably Norfolk and Birmingham, specialist mental
+
+71
+
+health services have restructured to accommodate a youth mental health perspective with some success167-169. Further
+reform is under consideration by the national government.
+
+Hong Kong
+The success of early psychosis reforms
+in Hong Kong170-172 has prompted the academic and clinical leadership to explore
+youth mental health reform more broadly,
+and a series of surveys have been conducted to prepare for this.
+The recent social unrest and the extreme
+pressures mounting upon the young people have underlined the crucial need for
+better mental health support and access.
+
+SPECIALIST COMMUNITY
+MENTAL HEALTH CARE
+In high-resource settings, youth-specific specialized community mental health
+care is an essential back-up system for
+the integrated primary care platforms for
+young people. A key barrier that has to be
+overcome is the paediatric model of child
+and adolescent mental health services,
+with its low level of resourcing and a transition point to adult mental health services
+anchored at age 18, as discussed above.
+A recent breakthrough in Victoria, Australia150 will align the specialist mental
+health services with the headspace network’s age range (12-25 years) and enable
+a common clinical governance system to
+operate both tiers of care in a seamless
+manner. This alignment and vertical integration will facilitate the operation of a
+clinical staging approach to treatment, and
+should enhance the effectiveness of care
+and outcomes.
+
+RESIDENTIAL CARE
+In high-resource settings, a suite of
+residential options for young people is
+needed and possible, ranging from acute
+inpatient care, with the alternative of intensive home-based care or “hospital in
+the home”, through subacute or recovery
+
+72
+
+oriented therapeutic programs and longerterm residential care in the community.
+It remains a work in progress to fund
+and design these facilities in partnership
+with young people and families. Such settings need to be streamed separately from
+young children and older adults, and must
+be designed and operated with gender,
+cultural and developmental maturity issues at the forefront.
+
+disguised as genuine critique.
+A key success factor to date has been
+consumer demand and support. Determined global leadership from a range of
+clinical and academic pioneers has also
+been a key feature. Economic arguments
+are now adding strongly to the momentum, since mental health care, largely due
+to its timing in the life cycle, is the one remaining area of health care where major
+return on investment is achievable.
+
+PARADIGM TENSIONS
+CONCLUSIONS
+Any change which seeks a paradigm
+shift will encounter major challenges
+and resistances, and these have indeed
+emerged as the youth mental health reform
+has unfolded. Some of these challenges are
+conceptual and political; others are practical. Psychiatry has struggled to overcome
+an intrinsic pessimism and lack of self-belief, which has been perpetuated by stigma,
+discrimination and low status within health
+care and medical research.
+Underfunding and the sense that mental health care is at best a zero-sum game
+or, at worst, a shrinking pie, leads different
+areas of psychiatry to compete with one
+another and undermines progress in any
+one field39,41,173. It is difficult to secure unity of purpose and mobilize a team effort
+within mental health to achieve beachheads and objectives of any kind. Doubt
+is introduced even when solid or highly
+promising scientific evidence has been
+assembled, for reasons and in ways that
+we do not see happening in other areas of
+health care40. Scepticism is a vital force in
+an empirical and pragmatic field like medicine, but it can be counter-productive and
+harmful if excessive or motivated by insecurity, vested interest or a self-defeating
+mindset.
+A new paradigm of youth mental health
+care can be seen as a threat to the status
+quo, or alternatively as a way of strengthening both child and adult psychiatry. There
+are indications that child and adolescent
+psychiatry at least is starting to embrace
+the opportunity. Yet the recent reforms in
+this area have not flourished through logic
+and scientific evidence alone, essential as
+these safeguards and guides assuredly are.
+Nor have they been hampered by doubt
+
+Youth mental health care has the potential to be a transformational new paradigm,
+one which could inspire societies to value
+and develop much greater faith in mental
+health care. The energy and optimism that
+can be generated, if combined with a positive experience of care, better outcomes
+and return on investment, are powerful
+forces for change. We have argued here
+for youth mental health care to assume its
+place as a critical transitional zone within
+a lifespan approach to mental health care.
+This ultimately involves the creation of a
+new professional field, not merely new mod­
+els of care.
+The main feature of the emerging models of youth mental health care is shifting
+and embedding the focus upon the transitional developmental stage from puberty
+to independent adulthood, which extends
+approximately from 12 to 25 years, though
+the boundaries are flexible and variable.
+The engagement of young people and
+families in the conception, design and
+operation of the models, and the strong
+community and political support they
+have mobilized, are essential components
+of their success. The reform has typically
+been led by clinicians, academics and philanthropists. Politicians, however, waiting
+for solutions to the pessimism and stagnation in mental health care, have often
+been eager to support these optimistic approaches to early intervention and youth
+mental health.
+Features that reduce barriers to entry
+and promote a normalizing and welcoming entry portal, such as the use of volunteers and peer workers, a de-emphasis on
+formal diagnosis and a focus on encourag-
+
+World Psychiatry 21:1 - February 2022
+
+ing help-seeking for mild and potentially
+transient problems, can create tensions
+with professionals from more specialized
+settings. The under-resourcing of youth
+mental health care and the understandably defensive mindsets contribute to this
+tension. In fact, if we can assemble the
+necessary resources to build a flexible and
+proactive system of staged youth mental
+health care powered by new workforces,
+including a new sub-specialty of “youth
+psychiatry”174, then this tension can be dispersed and seen for what it is – a false dichotomy, one of many in the mental health
+field.
+These new infrastructures of youth mental health care are enabling the early stages
+and boundaries of potentially serious mental illness in young people to be understood
+and mapped across the transdiagnostic
+landscape for the first time. They allow novel therapies to be explored and trialled, and
+their safety, acceptability and effectiveness
+to be explored and examined in a transdiagnostic setting175.
+Critics have alleged that this strategy
+produces harm through labelling and overmedicalization of teenage angst and overtreatment. In fact, with a needs-based approach, in which diagnosis is de-emphasized and treatment sequenced according
+to clinical staging, with its intensity guided
+by risk-benefit balance considerations, the
+opposite is true, and the hard data from all
+these programs strongly support the need
+for care that the help-seeking young people manifest.
+The high degree of unmet mental health
+needs in young people worldwide demands
+that youth mental health care be elevated
+to an absolutely top priority in health care.
+Global reform and adequate investment in
+youth mental health will not only substantially improve the health and lives of young
+people, but will pay for itself and promote
+mental wealth for all of society.

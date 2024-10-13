@@ -1,0 +1,1822 @@
+Cochrane
+Library
+Cochrane Database of Systematic Reviews
+
+Counselling for mental health and psychosocial problems in
+primary care (Review)
+Bower P, Knowles S, Coventry PA, Rowland N
+
+Bower P, Knowles S, Coventry PA, Rowland N.
+Counselling for mental health and psychosocial problems in primary care.
+Cochrane Database of Systematic Reviews 2011, Issue 9. Art. No.: CD001025.
+DOI: 10.1002/14651858.CD001025.pub3.
+
+www.cochranelibrary.com
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+TABLE OF CONTENTS
+HEADER.........................................................................................................................................................................................................
+ABSTRACT.....................................................................................................................................................................................................
+PLAIN LANGUAGE SUMMARY.......................................................................................................................................................................
+BACKGROUND..............................................................................................................................................................................................
+OBJECTIVES..................................................................................................................................................................................................
+METHODS.....................................................................................................................................................................................................
+RESULTS........................................................................................................................................................................................................
+Figure 1..................................................................................................................................................................................................
+Figure 2..................................................................................................................................................................................................
+Figure 3..................................................................................................................................................................................................
+DISCUSSION..................................................................................................................................................................................................
+AUTHORS' CONCLUSIONS...........................................................................................................................................................................
+ACKNOWLEDGEMENTS................................................................................................................................................................................
+REFERENCES................................................................................................................................................................................................
+CHARACTERISTICS OF STUDIES..................................................................................................................................................................
+DATA AND ANALYSES....................................................................................................................................................................................
+Analysis 1.1. Comparison 1 Counselling compared with usual GP care (short term), Outcome 1 Mental health............................
+Analysis 1.2. Comparison 1 Counselling compared with usual GP care (short term), Outcome 2 Social function..........................
+Analysis 2.1. Comparison 2 Counselling compared with usual GP care (long term), Outcome 1 Mental health.............................
+Analysis 2.2. Comparison 2 Counselling compared with usual GP care (long term), Outcome 2 Social function...........................
+Analysis 3.1. Comparison 3 Counselling compared with usual GP care (very long term), Outcome 1 Mental health......................
+Analysis 3.2. Comparison 3 Counselling compared with usual GP care (very long term), Outcome 2 Social function....................
+Analysis 4.1. Comparison 4 Counselling compared with GP antidepressant treatment (short term), Outcome 1 Mental health.....
+Analysis 5.1. Comparison 5 Counselling compared with GP antidepressant treatment (long term), Outcome 1 Mental health......
+Analysis 6.1. Comparison 6 Counselling compared with CBT (short term, depressed patients), Outcome 1 Mental health...........
+Analysis 7.1. Comparison 7 Counselling compared with CBT (long term, depressed patients), Outcome 1 Mental health............
+Analysis 8.1. Comparison 8 Counselling compared with CBT (short term, anxious patients), Outcome 1 Mental health...............
+Analysis 9.1. Comparison 9 Counselling compared with CBT (long term, anxious patients), Outcome 1 Mental health................
+Analysis 10.1. Comparison 10 Counselling compared with CBT (very long term, anxious patients), Outcome 1 Mental health......
+ADDITIONAL TABLES....................................................................................................................................................................................
+APPENDICES.................................................................................................................................................................................................
+WHAT'S NEW.................................................................................................................................................................................................
+HISTORY........................................................................................................................................................................................................
+CONTRIBUTIONS OF AUTHORS...................................................................................................................................................................
+DECLARATIONS OF INTEREST.....................................................................................................................................................................
+SOURCES OF SUPPORT...............................................................................................................................................................................
+DIFFERENCES BETWEEN PROTOCOL AND REVIEW....................................................................................................................................
+NOTES...........................................................................................................................................................................................................
+INDEX TERMS...............................................................................................................................................................................................
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+[Intervention Review]
+
+Counselling for mental health and psychosocial problems in primary
+care
+Peter Bower1, Sarah Knowles1, Peter A Coventry1, Nancy Rowland2
+1Health Sciences Research Group, Manchester Academic Health Science Centre, University of Manchester, Manchester, UK. 2British
+
+Association for Counselling and Psychotherapy, Lutterworth, UK
+
+Contact address: Peter Bower, Health Sciences Research Group, Manchester Academic Health Science Centre, University of Manchester,
+Williamson Building, Oxford Road, Manchester, M13 9PL, UK. peter.bower@manchester.ac.uk.
+Editorial group: Cochrane Common Mental Disorders Group
+Publication status and date: New search for studies and content updated (no change to conclusions), published in Issue 9, 2011.
+Citation: Bower P, Knowles S, Coventry PA, Rowland N. Counselling for mental health and psychosocial problems in primary care.
+Cochrane Database of Systematic Reviews 2011, Issue 9. Art. No.: CD001025. DOI: 10.1002/14651858.CD001025.pub3.
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+ABSTRACT
+Background
+The prevalence of mental health and psychosocial problems in primary care is high. Counselling is a potential treatment for these patients,
+but there is a lack of consensus over the effectiveness of this treatment in primary care.
+Objectives
+To assess the effectiveness and cost effectiveness of counselling for patients with mental health and psychosocial problems in primary care.
+Search methods
+To update the review, the following electronic databases were searched: the Cochrane Collaboration Depression, Anxiety and Neurosis
+(CCDAN) trials registers (to December 2010), MEDLINE, EMBASE, PsycINFO and the Cochrane Central Register of Controlled Trials (to May
+2011).
+Selection criteria
+Randomised controlled trials of counselling for mental health and psychosocial problems in primary care.
+Data collection and analysis
+Data were extracted using a standardised data extraction sheet by two reviewers. Trials were rated for quality by two reviewers using
+Cochrane risk of bias criteria, to assess the extent to which their design and conduct were likely to have prevented systematic error.
+Continuous measures of outcome were combined using standardised mean differences. An overall effect size was calculated for each
+outcome with 95% confidence intervals (CI). Continuous data from different measuring instruments were transformed into a standard
+effect size by dividing mean values by standard deviations. Sensitivity analyses were undertaken to test the robustness of the results.
+Economic analyses were summarised in narrative form. There was no assessment of adverse events.
+Main results
+Nine trials were included in the review, involving 1384 randomised participants. Studies varied in risk of bias, although two studies were
+identified as being at high risk of selection bias because of problems with concealment of allocation. All studies were from primary care
+in the United Kingdom and thus comparability was high. The analysis found significantly greater clinical effectiveness in the counselling
+group compared with usual care in terms of mental health outcomes in the short-term (standardised mean difference -0.28, 95% CI -0.43 to
+-0.13, n = 772, 6 trials) but not in the long-term (standardised mean difference -0.09, 95% CI -0.27 to 0.10, n = 475, 4 trials), nor on measures
+of social function (standardised mean difference -0.09, 95% CI -0.29 to 0.11, n = 386, 3 trials). Levels of satisfaction with counselling were
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+1
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+high. There was some evidence that the overall costs of counselling and usual care were similar. There were limited comparisons between
+counselling and other psychological therapies, medication, or other psychosocial interventions.
+Authors' conclusions
+Counselling is associated with significantly greater clinical effectiveness in short-term mental health outcomes compared to usual care,
+but provides no additional advantages in the long-term. Participants were satisfied with counselling. Although some types of health care
+utilisation may be reduced, counselling does not seem to reduce overall healthcare costs. The generalisability of these findings to settings
+outside the United Kingdom is unclear.
+
+PLAIN LANGUAGE SUMMARY
+Counselling for mental health and psychosocial problems in primary care
+Many patients in primary care suffer from mental health and psychosocial problems. These problems often involve feelings of sadness,
+nerves or stress. Many of these problems may be due to personal and social problems or reactions to life events such as physical illness
+or unemployment.
+‘Counselling’ is a recognised psychological therapy that is often provided to such patients. In the United Kingdom, counsellors have often
+been employed to deliver psychological therapy to patients in primary care settings. Providing counselling alongside other treatments
+such as cognitive behaviour therapy means that patients have greater choice, and that alternatives can be found for patients who either
+do not benefit from standard treatments or who do not find them acceptable.
+However, recent clinical guidelines in the United Kingdom have highlighted the lack of evidence for counselling compared to other
+treatments such as cognitive behaviour therapy, and have not been able to clearly recommend the use of counselling in primary care.
+In this review we found nine studies involving counselling in primary care for 1384 participants. There were some problems with the
+methods in some studies. The evidence suggested that counselling is better than usual general practitioner care in improving mental health
+outcomes in the short term, although the advantages are modest. People who receive counselling in primary care from a trained counsellor
+are more likely to feel better immediately after treatment and be more satisfied than those who receive care from their general practitioner.
+However, in the long term, counselling does not seem to be any better than GP care. Although some types of healthcare utilisation may be
+reduced, counselling does not seem to reduce overall healthcare costs. There is very limited evidence comparing counselling with other
+psychological therapies (2 studies with 272 participants) or with antidepressant medication (1 study with 83 participants).
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+2
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+BACKGROUND
+Description of the condition
+The prevalence of mental health and psychosocial problems in
+primary care is high (Goldberg 1992, Singleton 2001). These
+problems include diagnosed mental health problems such as
+depression and anxiety, through to less well defined psychosocial
+difficulties or ‘problems in living’ which may be associated with
+depression and anxiety symptoms, but may be linked to financial,
+domestic or interpersonal pressures.
+In the United Kingdom, surveys indicate that around 2.6% of adult
+patients in the community would meet diagnostic criteria for a
+‘depressive episode’ but the broader category of ‘mixed depression
+and anxiety’ would apply to 11.4% (Singleton 2001). When all
+‘common mental health disorders’ are included (NICE 2011),
+surveys indicate that one in six adults may meet diagnostic criteria
+(McManus 2009). ‘Common mental health disorders’ include a
+range of conditions, such as depression, anxiety, panic, PTSD
+and antenatal and postnatal mental health (NICE 2011). Many of
+these disorders are associated with significant impact on health
+related quality of life (Murray 1996), social function and economic
+outcomes within and outside health care (NICE 2010).
+
+Description of the intervention
+The World Health Organisation has outlined reasons why treatment
+for mental health and psychosocial problems should be based in
+primary care, including the overall burden, the link between mental
+and physical health, and the potential for primary care services to
+offer accessible, effective and efficient management (WHO 2008).
+Despite this potential, there are concerns that service provision
+by general practitioners (GPs) and the primary care team for
+patients with mental health and psychosocial problems is variable,
+sometimes unresponsive to the needs of patients, and not
+always achieving the best outcomes for patients (Katon 2000;
+Mitchell 2009; Ustun 1995). This may reflect a lack of focus
+on the development of primary care mental health services or
+limitations in the training of and resources available to primary care
+practitioners (Thompson 2000; WHO 2001; WHO 2008).
+There are many different ways of delivering services for mental
+health and psychosocial problems (Bower 2005; Cape 2010; Gask
+1997). One model involves mental health specialists working
+directly in primary care to provide psychological therapies. In
+the United Kingdom, developing evidence of clinical effectiveness
+(Churchill 2002) and economic benefits (Layard 2006) and patient
+preferences for psychological therapies over medication (Priest
+1996) has led to this model receiving significant support in health
+policy. This in turn has led to the introduction of the Improving
+Access to Psychological Therapies (IAPT) initiative (Clark 2009),
+which provided funding to develop psychological therapy services
+along a stepped care model (NICE 2010). Stepped care provides
+a range of treatments of different intensity and cost, designed to
+maximise access to care and ensure treatment is commensurate
+with severity and capacity for benefit (Bower 2005a). This can
+include ‘low intensity’ interventions such as guided self help
+(Gellatly 2007), computerised interventions (Kaltenthaler 2006),
+exercise, and group psychological therapies. More severely ill
+patients or those who fail to benefit from these treatments may
+
+Cochrane Database of Systematic Reviews
+
+receive medication and conventional ‘high intensity’ psychological
+therapies (NICE 2010; NICE 2011).
+Evidence for the effectiveness of psychological therapy is generally
+focused on cognitive behaviour models, which dominate current
+guidelines for the delivery of IAPT and stepped care (NICE 2010).
+Nevertheless, a variety of mental health specialists work in
+primary care settings to deliver psychological therapy, and this
+includes counsellors. The first reports of counsellors working
+in primary care in the United Kingdom were published in the
+1970s (Anderson 1979; Cohen 1979; Harray 1975). In England and
+Wales, at one point between one third and one half of general
+practices reported on-site counselling services (Mellor-Clark 2001;
+Sibbald 1993). Counsellors come from different professional
+backgrounds and use a variety of treatments on a wide range
+of clients (Bolger 1989). Counselling in primary care is often
+associated with brief treatments (6 to 12 sessions) provided
+for a wide range of psychosocial problems, and can involve
+a range of different theoretical approaches, including ‘personcentred’ and ‘psychodynamic and psychoanalytic’ therapies, as
+well as ‘integrative’ (involving a mixture of therapeutic strategies,
+including cognitive behaviour therapy), ‘systemic’, and ‘supportive’
+therapies (Stiles 2006; Stiles 2008).
+
+How the intervention might work
+There is an extensive body of literature on the effectiveness of
+psychological therapies in a range of mental health disorders
+(Chambless 1998; Roth 1996; Weston 2004) although there is less
+consensus over the relative effectiveness of different psychological
+therapies and the exact mechanisms by which these interventions
+achieve their effects (Holmes 2002; Luborsky 1975). Non-directive,
+experiential or person-centred approaches share a number of
+assumptions about curative mechanisms, including a focus on
+enhancing subjective experience during treatment, and the crucial
+role of the therapeutic relationship as a platform for change
+(Greenberg 1994). Psychodynamic and psychoanalytic counselling
+may focus on a range of issues and conflicts, including needs,
+drives, relationships and attachments, while cognitive behaviour
+counselling considers maladaptive beliefs and behaviours and
+may use more structured and directive methods to encourage
+change (Churchill 2002; NICE 2010; Roth 1996; Simpson 2000). It
+has been suggested that providing such treatments in primary care
+will enhance their effectiveness because the primary care setting
+enhances access and minimises stigma (WHO 2008).
+
+Why it is important to do this review
+Concerns remain as to whether counselling in primary care
+represents a cost-effective use of resources, both compared
+to usual general practitioner care, and compared to other
+psychological therapies such as cognitive-behaviour therapy. Initial
+uncontrolled studies (e.g. Anderson 1979; Baker 1998; Booth
+1997; Coe 1996; Harray 1975; Keithley 1995; Waydenfeld 1980)
+reporting reductions in consultation and prescription rates and
+high levels of patient and professional satisfaction were important
+in the early development of counselling in primary care. However,
+the methodological limitations of these early studies meant
+that concerns about the efficacy of counselling in primary care
+began to be expressed (Roth 1996). The place of counselling in
+stepped care models of treatment delivery is currently unclear.
+Providing counselling alongside other treatments such as cognitive
+behaviour therapy means that patients potentially have greater
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+3
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+choice, and that alternatives can be found for patients who either
+do not benefit from cognitive behaviour therapy or who do not
+find that therapy acceptable. Making services ‘patient-centred’ is
+an increasing focus of health policy (Gilbody 2010), and there
+is evidence that a significant proportion of patients will choose
+psychological therapies such as counselling if provided a choice
+(King 2000).
+
+alternative mental health services. The review included patients
+with a defined diagnosis of a mental health problem (such as
+depression or anxiety), those who were defined on the basis of
+symptom severity (such as a score on a depression scale) and
+those who were referred on the basis of clinician judgment that
+the patient had a problem that would benefit from counselling in
+primary care. This might include acute or chronic presentations.
+
+In the United Kingdom, the recent clinical guidelines for
+depression published by the National Institute for Health and
+Clinical Excellence suggested that professionals should ‘consider
+counselling for people with persistent subthreshold depressive
+symptoms or mild to moderate depression’ but should ‘discuss with
+the person the uncertainty of the effectiveness of counselling...in
+treating depression’ (NICE 2010). Such uncertainty is unhelpful for
+patients, professionals and commissioners, highlighting the need
+for regular and comprehensive summaries of current evidence.
+
+Types of setting
+
+OBJECTIVES
+1. To assess the clinical effectiveness of counselling for patients
+with mental health and psychosocial problems in primary
+care, compared with usual care, other psychological and
+psychosocial interventions, and medication
+2. To assess current evidence for the resource use, costs and costeffectiveness of counselling for patients with mental health and
+psychosocial problems in primary care, compared with usual
+care, other psychological and psychosocial interventions, and
+medication
+
+METHODS
+Criteria for considering studies for this review
+Types of studies
+All randomised controlled trials (RCTs) were considered for
+inclusion in the review, including cluster trials, but excluding quasiRCTs without randomisation. Many trials of counselling in primary
+care are ‘pragmatic’ RCTs, which seek to determine the relative
+'value' of treatments as they would be provided in routine care
+settings, and seek to increase external validity without significantly
+compromising internal validity (Roland 1998). In primary care, this
+means that interventions are not highly standardised, so as to
+reflect the clinical variation that exists in routine care contexts.
+The control group ('usual general practitioner care') is the mix
+of interventions that patients would usually receive, and may
+include interventions similar to counselling (such as referral to
+NHS psychological therapy services). Although lack of control over
+these aspects of the trial can make interpretation of findings
+complicated, the external validity of study findings is increased and
+such studies provide a relevant comparison group for estimates of
+cost-effectiveness.
+Types of participants
+Males and females of all ages, consulting a primary care practitioner
+with mental health or psychosocial problems considered suitable
+for counselling were eligible for the review.
+Traditionally, counsellors have worked with people with situational
+or life-adjustment problems rather than mental health problems
+per se, although referrals will vary depending upon counsellor
+expertise, doctor and patient choice and the availability of
+
+Counselling has to be provided in primary care settings in order
+to be included in the review. Primary healthcare was defined
+by the Alma Ata declaration as ‘essential healthcare based on
+practical, scientifically sound and socially acceptable methods
+and technology made universally accessible to individuals and
+families in the community through their full participation and
+at a cost that the community and country can afford to
+maintain at every stage of their development in the spirit of
+self-reliance and self-determination’ (www.who.int/hpr/NPH/docs/
+declaration_almaata.pdf).
+Descriptions of the core content of primary care vary (Fry 1994;
+Starfield 1992), but key aspects include (a) first contact care,
+with direct patient access; (b) care characterised by patientcenteredness, family orientation, and continuity; (c) a role in the
+co-ordination of care; and (d) a gatekeeping function in relation to
+access to specialist care.
+Counselling interventions in which the counselling was offered in
+the patient's own home were included in the review, if the referral
+was from a primary care practitioner.
+Types of interventions
+Experimental conditions
+As noted above, counselling is a generic term that can be
+used to describe a range of mental health and psychosocial
+interventions provided in primary care. The precise boundaries
+of counselling interventions for the present review are described
+below. For the purposes of the review, counselling was not an
+integral component of other mental health care activities (e.g.
+nursing, medical care) but constitutes a distinct and separate
+treatment intervention, offered as a series of sessions, following
+an assessment which generates a therapeutic plan. The definition
+of counselling used was derived from the British Association
+of Counselling and Psychotherapy (BACP 1992): "Counselling is
+the skilled and principled use of relationships which develop
+self-knowledge, emotional acceptance and growth, and personal
+resources. The overall aim is to live more fully and satisfyingly.
+Counselling may be concerned with addressing and resolving
+specific problems, making decisions, coping with crises, working
+through feelings and inner conflict, or improving relationships with
+others. The counsellor's role is to facilitate the client's work in ways
+that respect the client's values, personal resources and capacity for
+self determination".
+Counselling may be described using a number of specific terms
+and may involve a number of different therapeutic techniques,
+including non-directive, person-centred and process-experiential
+methods, as well as cognitive behavioural and psychodynamic
+approaches (DOH 2001; Elliott 2003).
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+4
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Counselling may be offered by a variety of professionals
+(e.g. counsellors, community nurses, social workers, clinical
+psychologists, and primary care professionals). In this review,
+there were no specific inclusion or exclusion criteria related to
+professional background. However, formal counselling training was
+considered essential, to standardise expertise and practice. Only
+practitioners with a formal counselling qualification equivalent to
+BACP accreditation levels (http://www.bacp.co.uk/accreditation/)
+were included in the review.
+Comparators
+Any relevant comparator was included in the review, categorised as
+follows:
+(a) usual GP care, which may include ‘no treatment’ or ‘waiting
+list’ comparators where it is assumed that patients will have access
+to usual GP or primary care services;
+(b) medication, which may involve any appropriate medication for
+use with mental health or psychosocial problems, but most likely
+to include antidepressants or anxiolytic medications;
+(c) other psychological therapies, including cognitive behaviour
+therapy, interpersonal therapy, psychoanalytic or psychodynamic
+therapy, problem solving therapy, provided in individual, group or
+self help and computerised formats; and
+(d)
+other psychosocial interventions, including exercise,
+alternative therapies (such as acupuncture or yoga) and
+organisational interventions such as collaborative care.
+Types of outcome measures
+Three main types of outcome measure were eligible for inclusion in
+the review:
+1. mental health symptoms such as depression and anxiety
+(primary outcome). Examples of relevant scales include the Beck
+Depression Inventory (Beck 1988) and the Symptom Checklist
+(Derogatis 1983).
+2. social functioning. Examples of relevant scales include the
+Social Adjustment Scale (Cooper 1982)
+3. patient satisfaction. There is less consensus concerning the
+appropriate measures of patient satisfaction, which means that
+scales may not be standardised or fully validated.
+Both self-report and interviewer-rated measures were eligible
+for the review, and measures could use continuous scales or
+dichotomous categories. Adverse outcomes and treatment drop
+outs were not used as outcome measures.
+Health care utilisation and cost data included (a) referrals within
+health and social care settings; (b) referrals to external agencies; (c)
+medication prescribed; (d) consultations in primary care settings;
+(e) costs of lost production (i.e. time lost from work due to illness);
+and (f) patient costs (such as travel and child care costs associated
+with attending treatment).
+
+Search methods for identification of studies
+CCDAN's Specialised Register (CCDANCTR)
+
+Cochrane Database of Systematic Reviews
+
+Bristol, UK, a references register and a studies based register.
+The CCDANCTR-References Register contains over 27,000 reports
+of trials in depression, anxiety and neurosis. Approximately 65%
+of these references have been tagged to individual, coded trials.
+The coded trials are held in the CCDANCTR-Studies Register and
+records are linked between the two registers through the use
+of unique Study ID tags. Coding of trials is based on the EUPsi coding manual. Reports of trials for inclusion in the Group's
+registers are collated from routine (weekly), generic searches
+of MEDLINE, EMBASE and PsycINFO; quarterly searches of the
+Cochrane Central Register of Controlled Trials (CENTRAL) and
+review specific searches of additional databases. Reports of trials
+are also sourced from international trials registers c/o the World
+Health Organisation’s trials portal (ICTRP), drug companies, the
+hand-searching of key journals, conference proceedings and other
+(non-Cochrane) systematic reviews and meta-analyses. Details of
+CCDAN's generic search strategies can be found on the Group‘s
+website.
+Due to the broad nature of the counselling interventions and
+the psychological and psychosocial conditions included in the
+review, additional searches were performed on MEDLINE, EMBASE,
+PsycINFO and CENTRAL.
+Electronic searches
+The CCDANCTR-Studies and References Registers were searched
+(all years) using the following terms:
+(counsel* or (supportive and *therap*) or humanistic or "client
+cent*" or non-directive or "non directive" or nondirective or
+experiential or process-experiential or focus-orient* or "focus
+orient*" or "insight orient*" or insight-orient* or "client orient*" or
+client-orient* or "person cent*" or person-cent* or "person orient*"
+or person-orient* or nonprescriptive or "non prescriptive" or nonprescriptive or rogerian or (("non specific" or non-specific) and
+*therap*))
+AND
+(“general practice” or GP or “primary care” or “primary health” or
+“family practice” or “family health*” or “private practice” or ((family
+or community or district or practice*) and (doctor or physician or
+practitioner* or nurse)) or “health cent*” or clinic or ambula* or
+community or home or rural or ante-natal or antenatal)
+Additional, update searches of MEDLINE, EMBASE, PsycINFO and
+CENTRAL (2005 to May 2011) can be found in Appendix 1. A
+summary of the original search strategies (to 2005) is found in
+Appendix 2.
+Searching other resources
+A published Cochrane review dealing with mental health workers
+in primary care (Harkness 2009) and the United Kingdom National
+Institute for Health and Clinical Excellence Depression guidelines
+(NICE 2010) were also used as sources. All the included and
+excluded studies listed in the first review were checked for
+additional records, together with the included and excluded studies
+dealing with counselling in the clinical guidelines. An additional
+cited reference search was conducted on the Web of Science using
+all reports of included studies cited in the earlier version of this
+review (Dec 2010).
+
+The Cochrane Depression, Anxiety and Neurosis Group (CCDAN)
+maintain two clinical trials registers at their editorial base in
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+5
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Data collection and analysis
+Selection of studies
+One reviewer (PB) screened the abstracts of all publications
+obtained by the updated searches, and a second reviewer (PC
+or SK) provided an independent judgment of eligibility from the
+abstract or the full paper as required. Disagreement about whether
+a study should be included was resolved by discussion between the
+reviewers. Where required, trial authors were contacted for further
+information.
+Data extraction and management
+Data were entered on specially designed data extraction forms
+by two reviewers independently (PB, PC and SK). The data on
+the forms were collated onto a third form; disagreements were
+discussed by the reviewers. The collated data were then entered
+into the RevMan software. Missing information was obtained from
+trial authors wherever possible. Trials excluded from the review
+were listed in the 'excluded studies' section together with their
+reason for exclusion.
+Assessment of risk of bias in included studies
+Methodological quality was assessed according to The Cochrane
+Collaboration’s Risk of Bias tool (Higgins 2008). Assessments were
+conducted by two reviewers (PB and either PC or SK) working
+independently. Disagreements were dealt with by discussion. Risk
+of bias data is presented graphically and described in the following
+section: Risk of bias in included studies.
+The following six domains were considered:
+1. Sequence generation: was the allocation sequence adequately
+generated?
+2. Allocation concealment: was allocation adequately concealed?
+3. Blinding of participants, personnel and outcome assessors for
+each main outcome or class of outcomes: was knowledge of the
+allocated treatment adequately prevented during the study? We
+assessed blinding of outcome assessors separately for patient
+reported measures, observer measures, and measures of health
+care utilisation.
+4. Incomplete outcome data for each main outcome or class
+of outcomes: were incomplete outcome data adequately
+addressed?
+5. Selective outcome reporting: are reports of the study free of
+suggestion of selective outcome reporting?
+6. Other sources of bias: was the study apparently free of other
+problems that could put it at a high risk of bias?
+
+Cochrane Database of Systematic Reviews
+
+mean difference by dividing the difference in mean values between
+treatment and control group by the pooled standard deviation.
+Short-term (one to six months), long-term (7-12 months) and very
+long-term data (> 12 months) were analysed separately.
+Clinical effectiveness data were analysed using RevMan software.
+Generally trials reported multiple outcomes, so the analysis
+either used the identified primary outcome measure within
+each trial, or the reviewers selected the optimal (i.e. most
+widely used and validated) measure of anxiety and depression
+symptoms, which make up the bulk of symptoms in patients
+in primary care (Goldberg 1987; Goldberg 1992). An overall
+estimate of treatment effect was calculated for each outcome
+with 95% confidence intervals (negative estimates represent results
+favouring counselling).
+Unit of analysis issues
+As counselling is an individual level intervention aimed at
+psychological and behavioural change, non standard designs (such
+as cluster randomised and cross-over trials) are not generally
+applicable, but would be included if identified. If results of
+cluster trials were reported without correction for clustering,
+they were adjusted to an effective sample size as outlined in
+the Handbook. Studies including multiple treatment groups were
+analysed including each pair-wise comparison separately, but
+with shared intervention groups divided out approximately evenly
+among the comparisons.
+Dealing with missing data
+Few trials imputed values for missing data and thus the data used
+in the review were the scores of participants who successfully
+completed follow-up. Where data were missing, contact with
+authors would be used initially, followed by imputation of data
+where reasonable estimates could be derived from other studies
+in the review, or from the wider literature. The effects of any data
+imputation would be assessed through sensitivity analysis.
+Assessment of heterogeneity
+Heterogeneity was assessed to examine whether the variation in
+treatment effect between trials was greater than that expected by
+sampling variation alone (Sutton 1998). The assessment included
+the chi2 test for heterogeneity (with its degrees of freedom and Pvalue) and the I2 statistic measuring the extent of inconsistency
+among results. I2 results were interpreted in line with the current
+guidelines in the Cochrane Handbook (Higgins 2008) but there was
+no expectation of high levels of heterogeneity and no pre-specified
+threshold was set in terms of levels of heterogeneity that would
+preclude meta-analysis. Data were analysed by PB.
+
+A judgement was made for each domain based on the following
+three categories:
+
+Assessment of reporting biases
+
+• low risk of bias
+• unclear risk of bias
+• high risk of bias
+
+Where sufficient trials were available (ten or more), publication bias
+was assessed via funnel plots (Sutton 2000). However, it should be
+noted that asymmetric funnel plots are not necessarily caused by
+publication bias, so any conclusions drawn were interpreted with
+caution.
+
+Measures of treatment effect
+Most outcomes used were measured on continuous scales, but
+different studies used different outcome measures. In order to
+provide an overall measure of treatment effect, all data (even from
+identical outcome measures) were translated to a standardised
+
+Data synthesis
+The primary analysis used a fixed-effect model, but the data were
+also analysed using random-effects models as a sensitivity analysis.
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+6
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+Economic analysis
+
+Sensitivity analysis
+
+Each economic analysis was described narratively using a
+structured format which detailed analysis type (e.g. descriptive,
+cost minimisation, cost effectiveness, cost utility), utilisation data,
+outcome data, duration of follow up, and the main results. In this
+section, analyses by the study authors are described in the text as
+originally reported. The first author has completed an economic
+analysis using individual patient data from some of the included
+studies. However, this was an exploratory analysis. The published
+results of that individual patient data analysis were reported along
+with the individual study results.
+
+Sensitivity analyses were undertaken to test the robustness of the
+results. We explored the following:
+
+Subgroup analysis and investigation of heterogeneity
+No subgroup analyses were planned.
+
+• the impact of adopting a fixed effect by comparing it with a
+random effects meta-analysis;
+• the impact of excluding trials with different types of populations
+and comparisons, identified post hoc through data extraction;
+and
+• the impact of excluding trials judged at ‘high risk of bias’.
+
+RESULTS
+Description of studies
+Results of the search
+After removal of duplicates, 1719 references were identified by the
+searches. Assessment led to the checking of 87 full texts, and one
+new study was included in the review (see flow diagram in Figure 1).
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+7
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+Figure 1. Study flow diagram for 2011 update of searches
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+8
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+Figure 1. (Continued)
+
+Included studies
+
+Types of participants
+
+Nine trials were included in the review (Barrowclough 2001; Boot
+1994; Chilvers 2001; Friedli 1997; Harvey 1998; Hemmings 1997;
+King 2000; Schroer 2009; Simpson 2000) which were described in 16
+separate publications.
+
+Criteria for inclusion in terms of disorders were as follows: a
+diagnosis of anxiety (Barrowclough 2001), ‘recent stress, crisis,
+relationship or family problems, anxiety, depression, bereavement,
+sexual difficulties, employment and financial problems’ (Boot
+1994), meeting Research Diagnostic Criteria for major depression
+(Chilvers 2001), ‘patients with emotional difficulties’ (Friedli 1997),
+‘emotional or relationship problems’ (Harvey 1998), ‘anxiety
+disorders (including phobic anxiety and obsessive compulsive
+disorder); depressive disorders, with the exception of very severe
+depression; undifferentiated somatoform disorder, psychosexual
+problems, relationship and family problems, bereavement and
+substance misuse problems’ (Hemmings 1997), depression or
+mixed depression and anxiety (King 2000), depression (Schroer
+2009) and chronic depression (Simpson 2000). Two trials restricted
+entry to participants meeting a certain level of severity on the
+Beck Depression Inventory (King 2000; Simpson 2000), one to
+participants meeting a certain level of severity on the Patient Health
+Questionnaire (Schroer 2009) and one to participants outside
+the normal range on the Beck Anxiety Inventory (Barrowclough
+2001). Most trials were limited to adult participants, but one trial
+was further restricted to anxious older adults aged 55 or over
+(Barrowclough 2001).
+
+The ‘Characteristics of included studies’ table details the
+characteristics of the trials, including methodological quality, the
+characteristics of participants, the characteristics of interventions
+and outcome measures.
+Types of practitioner
+A range of practitioners offered a range of counselling
+interventions. In eight of the trials, all the professionals had the
+necessary qualifications and experience to be accredited by the
+BACP (Barrowclough 2001; Boot 1994; Friedli 1997; Harvey 1998;
+Hemmings 1997; King 2000; Schroer 2009; Simpson 2000). In
+one trial, it was not clear whether all the included counsellors
+met the criteria for BACP accreditation (Chilvers 2001), although
+correspondence with the authors indicated that a significant
+proportion did, and all were highly experienced. This trial also
+included a comparison group other than usual care (see below),
+and this trial was initially excluded from the analysis of counselling
+versus 'usual care' and the effect of its inclusion examined in
+sensitivity analysis.
+Types of intervention
+The interventions offered were broadly compatible with the
+BACP definition of counselling. All trials described therapeutic
+interventions with individual clients involving face to face contact
+between patient and counsellor. Although there were differences
+in the therapeutic models used (e.g. non-directive counselling,
+psychodynamic counselling, cognitive-behavioural counselling),
+the interventions were considered homogenous for the purposes
+of analysis. Planned treatment duration in the studies were as
+follows: 8 to 12 sessions (Barrowclough 2001), 6 sessions (Boot
+1994), approximately 6 sessions (Chilvers 2001), 6 to 12 sessions
+(Friedli 1997), up to 6 sessions (Harvey 1998), 6 sessions (Hemmings
+1997), 6 to 12 sessions (King 2000), 12 or 24 sessions (Schroer
+2009) and 6 to 12 sessions (Simpson 2000). Most treatments were
+delivered weekly and the session length was usually around one
+hour.
+
+In one trial (Simpson 2000), poor recruitment meant that
+participants were screened in surgery waiting rooms rather than
+referred by the GP. It is possible that these participants would
+differ from those in the other trials, possibly having lower levels
+of distress (although this was one of the trials that used a severity
+criterion) and lower motivation for treatment. In addition, this
+trial specifically recruited participants with chronic problems,
+defined as problems of six months or more. Some of the other
+trials included a mix of acute and chronic problems, although
+two specifically excluded chronic patients (Boot 1994, Friedli
+1997) As no data were available on the exact mix of acute and
+chronic patients in each trial, it was impossible to determine if
+the participants in the Simpson trial were qualitatively different.
+Nevertheless, the effect of the exclusion of this trial was examined
+in sensitivity analysis.
+Types of comparison group
+The comparison group in one trial was GP antidepressant
+treatment, as opposed to usual care (Chilvers 2001). GPs were given
+guidelines concerning appropriate antidepressant treatment.
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+9
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+There were no data available concerning the magnitude of the
+differences between GP management of participants in this group
+and 'usual care' in the other trials, although correspondence
+with the authors suggested that the former involved higher rates
+of antidepressant use than usual care, and also involved the
+expectation of antidepressants on the part of both participants
+and GPs. As stated above, this trial was initially excluded from
+the analysis of counselling versus 'usual care' and the effect of its
+inclusion examined in sensitivity analysis.
+Two trials reported comparisons of counselling with cognitivebehavioural therapy (Barrowclough 2001; King 2000). One trial
+compared counselling with acupuncture as well as with usual care
+(Schroer 2009).
+
+Cochrane Database of Systematic Reviews
+
+Excluded studies
+The ‘Characteristics of excluded studies’ table lists those trials that
+met some but not all of the selection criteria for the review, together
+with the criteria on which they were excluded.
+An author of one study (Schroer 2008) was contacted to discuss data
+from that study, and an ongoing follow up study. The ongoing study
+is listed in the ‘Characteristics of ongoing studies’ table.
+
+Risk of bias in included studies
+A graphical representation of the risk of bias in included studies is
+presented in Figure 2 and Figure 3. All studies were at risk of bias,
+especially in terms of performance, detection and attrition bias.
+
+Figure 2. Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages
+across all included studies.
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+10
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+Figure 3. Risk of bias summary: review authors' judgements about each risk of bias item for each included study.
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+11
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+Figure 3. (Continued)
+
+Allocation
+Generation of random sequence
+In three studies (Barrowclough 2001; Boot 1994; Simpson 2000)
+there was an adequate description of random sequence generation
+and the studies were rated as ‘low risk of bias’. In six studies
+(Chilvers 2001; Friedli 1997; Harvey 1998; Hemmings 1997; King
+2000; Schroer 2009) there was no explicit mention of how the
+sequence was generated and the studies were rated as ‘unclear risk
+of bias’.
+Allocation
+In six studies (Barrowclough 2001; Chilvers 2001; Harvey 1998;
+King 2000; Schroer 2009; Simpson 2000) there was an adequate
+description of allocation concealment (such as use of ‘sealed,
+opaque, numbered envelopes' or central randomisation by
+telephone) and the studies were rated as ‘low risk of bias’. One
+study reported ‘sealed opaque envelopes’ only and was rated
+‘unclear risk of bias’ (Friedli 1997). In two studies, problems with
+the allocation were identified by the authors in terms of clinician
+allocation behaviour and both studies were rated as ‘high risk of
+bias’ (Boot 1994; Hemmings 1997).
+Blinding
+In all studies there was no blinding of participants and personnel,
+and outcome was judged to have likely been influenced by lack
+of blinding. All studies were therefore rated as ‘high risk of
+bias’ (Barrowclough 2001; Boot 1994; Chilvers 2001; Friedli 1997;
+Harvey 1998; Hemmings 1997; King 2000; Schroer 2009; Simpson
+2000).
+In blinding of outcome assessment, all studies used patient
+reported measures, and given the lack of blinding of patients, these
+self-reports were judged as ‘high risk of bias’ (Barrowclough 2001;
+Boot 1994; Chilvers 2001; Friedli 1997; Harvey 1998; Hemmings
+1997; King 2000; Schroer 2009; Simpson 2000).
+Two studies used observer measures (Barrowclough 2001; Chilvers
+2001) and reported that the assessors for these measures were
+blinded, although only one made an attempt to check the adequacy
+of the blinding (Chilvers 2001). Both were rated as ‘low risk of bias’
+and all other studies received no rating.
+
+1998; Hemmings 1997; King 2000; Simpson 2000). One study
+reported using patient report only and was judged as ‘high risk of
+bias’ (Friedli 1997). One study did not report the source of data and
+was judged as ‘unclear risk of bias’ (Schroer 2009).
+Incomplete outcome data
+All studies reported follow up rates, which varied between studies,
+and across different follow up points: 56% at six weeks (Boot 1994),
+75% at four months (Harvey 1998), 82% and 53% at four and eight
+months (Hemmings 1997), 81% and 86% at three and nine months
+(Friedli 1997), 91% and 84% at 4 and 12 months and 85% and
+78% at 4 and 12 months (King 2000), 89%, 79% and 60% at 6, 12
+and 36 months (Simpson 2000), 83% and 63% at 8 weeks and 12
+months (Chilvers 2001), 71%, 71% and 73% at 3, 6 and 12 months
+(Barrowclough 2001) and 75%, 63% and 45% at 3, 6 and 9 months
+(Schroer 2009). However, no studies reported reasons for missing
+data by group, and therefore all were judged as ‘unclear risk of bias’.
+Selective reporting
+Eight studies did not have a protocol available and insufficient
+information was available to judge selective reporting, and studies
+were judged as ‘unclear risk of bias’ (Barrowclough 2001; Boot
+1994; Chilvers 2001; Friedli 1997; Harvey 1998; Hemmings 1997;
+King 2000; Simpson 2000). One study was reported in a protocol
+paper only, but no outcomes were reported at all as the study was
+not designed to test effectiveness, and this study was also judged
+as ‘unclear risk of bias’.
+Other potential sources of bias
+We found no clear evidence of other sources of bias in the nine
+studies.
+In the previous version of the review, the CCDAN Quality
+Rating Scale (QRS) was used to assess study quality. Although
+study quality according to the QRS varied on many items,
+given the importance of quality of the randomisation, it was
+considered crucial that the randomisation procedure may have
+been compromised in two trials (Boot 1994; Hemmings 1997).
+Therefore the effects of the inclusion and exclusion of these trials
+were examined in sensitivity analysis. Those sensitivity analyses
+have been retained in the updated review, on the basis that these
+trials have been identified as ‘high risk of bias’ in terms of allocation
+using the ‘risk of bias’ tool.
+
+Eight studies reported measures of health care utilisation. Six
+studies reported either data extraction from medical records, or
+a combination of medical records and patient self report, and
+were judged as ‘low risk of bias’ (Boot 1994; Chilvers 2001; Harvey
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+12
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Effects of interventions
+Counselling compared with usual GP care
+Six studies reported data comparing counselling with usual GP care
+(Boot 1994; Friedli 1997; Harvey 1998; Hemmings 1997; King 2000;
+Simpson 2000).
+Mental health outcomes
+There were six trials reporting short-term outcomes and utilising
+'usual care' as a comparison (Boot 1994; Friedli 1997; Harvey
+1998; Hemmings 1997; King 2000; Simpson 2000). Participants
+receiving counselling had significantly better mental health scores
+than participants receiving 'usual care' (overall standardised mean
+difference (SMD) -0.28, 95% CI -0.43 to -0.13, n = 772, heterogeneity
+chi2 = 9.46, df = 5, p = 0.09, I2 =47%) (Analysis 1.1).
+There were four trials reporting long-term outcomes and utilising
+'usual care' as a comparison (Friedli 1997; Hemmings 1997;
+King 2000; Simpson 2000). Participants receiving counselling did
+not differ in mental health outcomes compared to participants
+receiving 'usual care' (overall SMD -0.09, 95% CI -0.27 to 0.10, n =
+475, heterogeneity chi2 = 3.93, df = 3, p = 0.27, I2 =24%) (Analysis 2.1).
+There was one trial reporting very long term outcomes (Simpson
+2000). This trial included chronic participants only. Participants
+receiving counselling did not differ in terms of mental health than
+patients receiving 'usual care' (overall SMD -0.03, 95% CI -0.41 to
+0.34, n = 109, heterogeneity not applicable) (Analysis 3.1).
+Sensitivity analyses
+The sensitivity analyses are all outlined in Table 1. The shortterm results were similar when the two trials with inadequate
+allocation procedures were excluded (overall SMD -0.27, 95% CI
+-0.45 to -0.09, n = 510, heterogeneity chi2 = 6.31, df = 3, p = 0.10,
+I2 =52%) (sensitivity analysis 1.1.1, Table 1). The effect size was
+slightly reduced when the study using GP antidepressant treatment
+was included as ‘usual GP care’ (overall SMD -0.24, 95% CI -0.38
+to -0.10, n = 855, heterogeneity chi2 = 11.29, df = 6, p = 0.08,
+I2 =47%) (sensitivity analysis 1.1.2, Table 1). The superiority of
+counselling rose in magnitude when the one study examining
+chronic participants only was excluded (overall SMD -0.36, 95% CI
+-0.53 to -0.19, n = 611, heterogeneity chi2 = 5.45, df = 4, p = 0.24, I2
+=27%) (sensitivity analysis 1.1.3, Table 1) and when the inadequate
+allocation and chronic participant trials were all excluded (overall
+SMD -0.41, 95% CI -0.62 to -0.19, n = 349, heterogeneity chi2 = 1.87, df
+= 2, p = 0.39, I2 =0.0%) (sensitivity analysis 1.1.4, Table 1). When the
+trial with chronic participants was considered alone, counselling
+was no more effective than usual care (overall SMD 0.00, 95% CI
+-0.31 to 0.31, n = 161, heterogeneity not applicable) (sensitivity
+analysis 1.1.5, Table 1).
+The long-term results were similar when the trial with inadequate
+allocation was excluded (overall SMD -0.10, 95% CI -0.31 to 0.10, n =
+375, heterogeneity chi2 = 3.78, df = 2, p = 0.15, I2 =47%) (sensitivity
+analysis 2.1.1, Table 1), when the study using GP antidepressant
+treatment was included as ‘usual GP care’ (overall SMD -0.05, 95%
+CI -0.23 to 0.12, n = 540, heterogeneity chi2 = 4.84, df = 4, p =
+0.30, I2 =17%) (sensitivity analysis 2.1.2, Table 1), and when the
+study examining chronic patients only was excluded (overall SMD
+-0.11, 95% CI -0.34 to 0.11, n = 332, heterogeneity chi2 = 3.79,
+
+Cochrane Database of Systematic Reviews
+
+df = 2, p = 0.15, I2 =47%) (sensitivity analysis 2.1.3, Table 1) and
+when the inadequate allocation and chronic participant trials were
+both excluded (overall SMD -0.15, 95% CI -0.40 to 0.11, n = 232,
+heterogeneity chi2 = 3.49, df = 1, p = 0.06, I2 =71%) (sensitivity
+analysis 2.1.4, Table 1). When the trial with chronic participants
+was considered alone, counselling was no more effective than usual
+care (overall SMD -0.03, 95% CI -0.36 to 0.30, n = 143, heterogeneity
+not applicable) (sensitivity analysis 2.1.5, Table 1).
+The results of the random-effects models were similar to the fixedeffects analyses in terms of the magnitude of the treatment effect
+and statistical significance.
+There were insufficient trials to assess publication bias via funnel
+plots (Sutton 2000).
+Social function outcomes
+Three trials reported social function outcomes (Friedli 1997; King
+2000; Simpson 2000). Participants receiving counselling did not
+differ in overall social function compared to participants receiving
+'usual care' at either short-term (overall SMD -0.09, 95% CI -0.29 to
+0.11, n = 386, heterogeneity chi squared = 0.58, df = 2, p = 0.75, I2
+=0.0%) (Analysis 1.2), long-term (overall SMD -0.12, 95% CI -0.33 to
+0.08, n = 369, heterogeneity chi2 = 5.49, df = 2, p = 0.06, I2 =64%)
+(Analysis 2.2) or very long term (overall SMD -0.18, 95% CI -0.56 to
+0.20, n = 109, heterogeneity not applicable) (Analysis 3.2).
+Satisfaction outcomes
+Six trials included measures of participant satisfaction (Boot
+1994; Chilvers 2001; Friedli 1997; Hemmings 1997; King 2000;
+Schroer 2009), although one only compared satisfaction between
+randomised and preference participants (Chilvers 2001) and one
+did not report the data collected in the pilot project (Schroer
+2009). Two trials reported generally high levels of satisfaction with
+counselling treatments but did not compare satisfaction with 'usual
+care' directly. The first (Hemmings 1997) used the Counselling
+Satisfaction Questionnaire (Corney 1984) to assess levels of
+satisfaction for counselled participants. A total of 132 participants
+received counselling and 96 completed questionnaires. The
+majority (82%) felt that counselling had been helpful; that they had
+been understood (80%); been given enough time (83%) and that the
+counsellor had been easy to talk to (75%). The second trial (Boot
+1994) found that 67 out of 124 participants in the counselling group
+and 32 out of 68 participants in the 'usual care' group completed
+questionnaires at six weeks post intervention, soliciting their views
+of treatment. Significantly more participants in the counselled
+group reported that they were satisfied with their treatment and
+had enough time to talk. Two trials (Friedli 1997; King 2000) used a
+multi-item questionnaire to compare participant satisfaction with
+counselling and 'usual care' directly, and both found higher levels
+of satisfaction in the counselling group at short and long-term
+follow-up.
+Counselling compared with medication
+One study reported a comparison of counselling with GP
+antidepressant treatment (Chilvers 2001).
+Mental health outcomes
+In the single trial comparing counselling with GP antidepressant
+treatment, there were no significant differences in outcome in
+either the short (SMD 0.04, 95% CI -0.39 to 0.47, n = 83,
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+13
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+heterogeneity not applicable) (Analysis 4.1) or long-term (SMD 0.17,
+95% CI -0.32 to 0.66, n = 65, heterogeneity not applicable) (Analysis
+5.1).
+Counselling compared with other psychological therapies
+Two trials reported a comparison of counselling with other
+psychological therapies, both using cognitive behaviour therapy
+(Barrowclough 2001; King 2000)
+Mental health outcomes
+One trial compared counselling with cognitive behaviour therapy
+in depressed participants (King 2000). There were no significant
+differences in outcome either in the short (SMD -0.02 95% CI -0.28
+to 0.24, n = 229, heterogeneity not applicable) (Analysis 6.1) or longterm (SMD 0.13, 95% CI -0.14 to 0.41, n = 209, heterogeneity not
+applicable) (Analysis 7.1).
+One trial compared counselling with cognitive-behaviour therapy
+in anxious older participants (Barrowclough 2001). There were no
+significant differences in outcome in the short term (SMD 0.53 95%
+CI -0.09 to 1.14, n = 43, heterogeneity not applicable) (Analysis 8.1),
+long term (SMD 0.47 95% CI -0.18 to 1.12, n = 39, heterogeneity not
+applicable) (Analysis 9.1) or very long term (SMD 0.49, 95% CI -0.16
+to 1.14, n = 39, heterogeneity not applicable) (Analysis 10.1).
+Counselling compared with other psychosocial interventions
+One trial compared counselling and acupuncture but no outcome
+data were reported (Schroer 2009).
+Tests for heterogeneity
+None of the tests for heterogeneity were significant at the p <
+0.05 level. The test for heterogeneity approached significance for
+two of the main comparisons: the analysis of short-term mental
+health outcomes in studies comparing counselling and 'usual
+care' (p=0.09, I2 47.2%, moderate heterogeneity, Analysis 1.1)
+and analysis of long term social function in studies comparing
+counselling and 'usual care' (p = 0.06, I2=63.6%, substantial
+heterogeneity, Analysis 2.2).
+The test for heterogeneity approached significance in some of the
+sensitivity analyses: for the short-term effects on mental health
+after the exclusion of the studies at high risk of bias (p = 0.10,
+I2=52.4%, moderate heterogeneity, sensitivity analysis 1.1.1, Table
+1); for the sensitivity analysis of short-term mental health outcomes
+in studies comparing counselling and 'usual care' including the
+GP antidepressant trial (p=0.08, I2 46.8%, moderate heterogeneity,
+sensitivity analysis 1.1.2, Table 1); and in the analysis of longterm effects on mental health excluding the trials with inadequate
+allocation and chronic patients (p = 0.06, I2=71.4%, substantial
+heterogeneity, sensitivity analysis 2.1.4, Table 1).
+The low power of tests of heterogeneity (Sutton 1998) suggests
+some caution in the interpretation of the aggregated results,
+although it should be noted that the variation concerns the size of
+the treatment effect rather than its direction.
+
+Cochrane Database of Systematic Reviews
+
+outcome measures; duration of follow up; and results (including
+sensitivity analyses).
+Boot 1994
+Analysis type: Health service utilisation only
+Utilisation data: Psychotropic drugs, antidepressants, anxiolytics,
+referrals to outside agencies for psychiatric or psychological help,
+GP consultation rates.
+Outcome data: Not applicable.
+Duration of follow up: Six weeks.
+Results: The counselled group were prescribed significantly fewer
+psychotropic drugs during the six week trial period than the usual
+care group (counselled patients, n = 17/107 (16%); usual care,
+n = 19/60 (32%); chi2 = 4.8; df = 1, P = 0.029). The counselled
+group were prescribed less antidepressants (counselled patients,
+n = 10/107 (9%); usual care n = 14/60 (23%); chi2 = 5; df = 1; P =
+0.02). No difference was found between groups in the prescription
+of anxiolytic drugs (counselled patients, n = 6 (9%); usual care n =
+3 (8%); Fisher's exact test, P = 0.28). The usual care group received
+more referrals to outside agencies for psychiatric or psychological
+help (counselled group n = 4/107 (4%); GP advice group n = 38/60
+(63%); chi2 = 69.4; df = 1; P = 0.000). No difference was found
+between groups in GP consultation rates (counselled group 54/107
+(51%); usual care 39/60 (65%); chi2 = 2.7, df = 1; P = 0.1).
+Hemmings 1997
+Analysis type: Health service utilisation only
+Utilisation data: psychotropic drugs, referrals to outside agencies
+for psychiatric or psychological help
+Outcome data: Not applicable
+Duration of follow up: Four months
+Results: 34/116 (25%) of the counselled group received
+psychotropic medication, compared with 17 (33%) of the usual
+care group. Half the counselled group either stopped or reduced
+their medication at four month follow up. In the usual care group,
+18/52 (34%) patients had one consultation, 17 (33%) were referred
+to external agencies, and six (35%) of whom had been referred to
+psychiatric services.
+Harvey 1998
+Analysis type: Cost minimisation
+Utilisation data: medication, primary care and counsellor staff
+time, and referral to other health care services (cost years 1992 to
+1994).
+Outcome data: As there were no differences in outcomes, cost data
+were not linked to outcomes
+
+Economic outcomes
+
+Duration of follow up: Four months
+
+Each economic analysis is described according to the following
+criteria: analysis type (e.g. utilisation data only, costing, cost
+effectiveness, cost utility); the type of utilisation data collected;
+
+Results: Excluding referral data, costs in the counselled group were
+£67.09 and in the usual care group £57.87. When all referrals
+were included, costs were £71.21 to £81.23 in the counselled
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+14
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+group and £89.67 to £109.51 in the usual care group. Sensitivity
+analysis examined different methods of estimating referral costs
+(e.g. inclusion and exclusion of private referrals). When only mental
+health referrals were included, costs were £68.15 to £74.43 in the
+counselled group and £67.32 to £83.91 in the usual care group. No
+tests of statistical significance.
+Friedli 1997
+Analysis type: Cost minimisation
+Utilisation data: primary care and counsellor staff time, referral to
+other health care services, days lost from work, travel and childcare.
+Medication costs were included in the estimates of GP consultation
+costs (cost years 1995 to 1996).
+Outcome data: As there were no differences in outcomes, cost data
+were not linked to outcomes.
+Duration of follow up: Three months and nine months.
+Results: At three months, patients in the usual care group tended
+to increase their visits, whereas the counselled group decreased
+their visits to the doctor (P = 0.053). At nine months, there
+were no differences between groups. No differences were found
+between the groups in the prescription of antidepressants at
+three months (counselled group 10, usual care group 12). At nine
+months, there were no significant differences in total direct costs
+(counselled group were £308.63, usual care group £474.30). At
+nine months, there were no significant differences in total indirect
+costs (counselled group £808.70, usual care group £468.50). At
+nine months, there were no significant differences in total overall
+costs (counselled group £1191.27, usual care group £963.33).
+Sensitivity analysis examined the effects of variation in GP and
+counsellor unit costs. Using the patient self-reported number of
+counselling sessions made no difference to the results. Use of
+revised counsellor unit costs increased the direct costs of the
+intervention group by £15.61 per patient, but GP cost sensitivity
+analyses not reported.
+King 2000
+Analysis type: Cost effectiveness and cost minimisation.
+Utilisation data: primary care and counsellor staff time, medication
+costs, referral to other health care services, days lost from work,
+travel and childcare (cost years 1997 to 1998).
+Outcome data: BDI.
+Duration of follow up: Four and twelve months.
+Results: At four months, total direct costs for the counselled group
+were £257.5 (standard deviation (SD) 356.7), for the cognitivebehaviour therapy group £215.5 (SD 108.6) and for the usual
+care group £244.0 (SD 597.5). At four months, indirect costs were
+£444.4 (SD 1127.2), £286.1 (SD 701.3) and £383.7 (SD £1194.3)
+respectively. At four months, there were no significant differences in
+total overall costs (counselled group £701.9 (SD 1228.4); cognitivebehaviour therapy group £501.6 (SD 715.3), usual care group £627.7
+(SD 1359.8)). At 12 months, total direct costs for the counselled
+group were £501.4 (SD 614.8), for the cognitive-behaviour therapy
+group £448.9 (SD 471.6) and for the usual care group £472.9
+(SD 779.3). At 12 months, indirect costs were £897.2 (SD 2336.1),
+
+Cochrane Database of Systematic Reviews
+
+£1060.5 (SD 1471.1) and £1217.6 (SD 2013.0) respectively. At 12
+months, there were no significant differences in total overall
+costs (counselled group £1398.6 (SD 2474.1); cognitive-behaviour
+therapy group £1060.5 (SD 1471.1), usual care group £1217.6 (SD
+2013.0)). Sensitivity analysis examined the effects of variation in
+costs of psychological therapy, inclusion of non-attendances at
+appointments, use of a national wage rate in the calculation of
+indirect costs, and restriction of the analysis to patients with
+complete data. It was reported that none of the sensitivity analyses
+influenced the main conclusions of the study.
+Simpson 2000
+Analysis type: Cost minimisation.
+Utilisation data: primary care and counsellor staff time, medication
+costs, referral to other healthcare services, social care and criminal
+justice services (cost years 1997 to 1998).
+Outcome data: As there were no differences in outcomes, cost data
+were not linked to outcomes.
+Duration of follow up: Six and twelve months.
+Results: At six months, total service costs in the counselled group
+were £633 (SD 1152) and in the usual care group £513 (SD 867),
+mean difference £121, 95% CI -428 to 198. In the period between 6
+and 12 months, costs in the counselled group were £384 (SD 520)
+and in the usual care group £469 (SD 836), mean difference £86, 95%
+CI -149 to 352.
+Chilvers 2001
+Analysis type: Cost effectiveness, using net mean benefit statistics
+and cost effectiveness acceptability curves.
+Utilisation data: depression-related health services resources,
+including all GP consultations, drugs, use of GP-arranged
+counselling, and hospital psychiatric outpatient and inpatient visits
+(cost years 1995 to 1996).
+Outcome data: psychiatrists blind rating of global outcome (as a
+dichotomy), based on Research Diagnostic Criteria, BDI and data in
+the GP notes. Duration of follow up: 12 months.
+At 12 months, there were no significant differences in total
+depression related health services costs (counselled group £301.63
+standard error (SE) 37.72, antidepressant group £343.64, SE 61.87).
+The probability that antidepressants were more cost effective was
+0.75 when one good outcome was valued at £500, and 0.9 when
+one good outcome was valued over £2000. Sensitivity analysis
+examined the effects of imputing values for randomised patients
+with missing outcome data. Assuming good outcomes for patients
+with missing data lowered the probability that medication was
+cost –effective, whereas assuming poor outcomes in patients with
+missing data reduced the cost-effectiveness of medication when
+willingness to pay for improved outcomes was lower, but increased
+the probability when willingness to pay for improved outcomes was
+higher.
+Bower 2003a
+Analysis type: Cost effectiveness, based on individual patient data
+meta-analysis (Friedli 1997; Harvey 1998; King 2000; and Simpson
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+15
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+2000) using net mean benefit statistics and cost effectiveness
+acceptability curves .
+Utilisation data: GP consultations, psychotropic medication,
+referrals (inpatient psychiatry, outpatient psychiatry, practicebased psychological therapy, community and voluntary
+psychological therapy providers) (cost years 1999 to 2000).
+Outcome data: BDI.
+Duration of follow up: short term and long term (variable in the
+included trials, but adjusted to represent 6 month and 12 month
+periods).
+In the short term, the mean difference in total direct costs between
+counselled patients and those in 'usual care' was £92, 95% CI
+57 to 126. In the long term, the mean difference in total direct
+costs between counselled patients and those in 'usual care' was
+£110, 95% CI 38 to 182. The incremental cost-effectiveness ratio
+for counselling compared to 'usual care' in the short-term was
+£50 per one point improvement on the BDI. The probability that
+counselling was cost effective in the long term was over 50% when
+a reduction of one point on the BDI was valued at £196, and was
+69% when a reduction of one point on the BDI was valued at
+£2000. Sensitivity analysis examined duration of GP consultations
+and costs of psychological therapy. Differences in total costs were
+sensitive to the estimate of consultation length in usual GP care and
+estimates of the costs of counselling.
+Schroer 2009
+Analysis type: Not reported
+Utilisation data: Primary and secondary healthcare services,
+private sector health services, additional complementary
+therapies, all contacts with acupuncture practitioners, counsellors,
+medications (prescribed and over-the-counter), herbs and
+remedies.
+Outcome data: BDI.
+Duration of follow up: short term and long term.
+Data not reported
+
+DISCUSSION
+Summary of main results
+The updated review added only one study (Schroer 2009), which
+was a pilot study prior to a fuller trial (listed in the ‘Characteristics
+of ongoing studies’ table). Although outcome data were collected
+as part of this pilot, they were not included in the published paper,
+and correspondence with one of the authors suggested that the
+study was not designed as an assessment of effectiveness and thus
+the outcomes from the pilot should not be included in the metaanalysis. There were therefore no major changes to the overall
+conclusions of the review.
+In summary, there is evidence that counselling is more effective
+than usual care in terms of mental health outcomes in the short
+term (standardised mean difference (SMD) -0.28, 95% CI -0.43 to
+-0.13, n = 772, 6 trials). However, these advantages do not endure
+in the longer term (SMD -0.09, 95% CI -0.27 to 0.10, n = 475, 4
+trials). Counselling may not differ in effectiveness from medication
+
+Cochrane Database of Systematic Reviews
+
+and cognitive-behavioural therapy, although the precision of these
+estimates (especially differences in outcomes between cognitivebehavioural therapy and counselling in older patients with anxiety)
+are necessarily limited. Counselling may be associated with some
+reductions in aspects of health service utilisation in the United
+Kingdom, but overall costs did not seem to be reduced, and may
+be increased, based on the individual patient data analysis across
+several of the included studies, conducted outside the Cochrane
+review (Bower 2003a). Participants were generally satisfied with
+counselling in primary care, but any benefits of counselling did not
+seem to extend to measures of social function.
+Issues of relevance to the interpretation of the review are
+considered below.
+Types of participants
+Clinical diagnosis was not a factor in selecting and recruiting
+participants in a number of trials included in this review. It has been
+argued that studies lacking confirmation of caseness or diagnosis
+are limited, since outcomes cannot be divorced from the natural
+history of a condition (Hughes 1998). Lack of diagnostic assessment
+has meant that some studies included in the review have been
+excluded by clinical guidelines, because not all participants have
+a confirmed diagnosis (NICE 2010). While it is possible that
+interventions targeted to a specific diagnostic group may be more
+likely to demonstrate positive outcomes (Roth 1996), such trials
+may not accurately reflect how psychological therapies such as
+counselling are delivered in routine primary care, where GPs may
+be more likely to consider the frequency and severity of symptoms
+or problems than diagnosis (King 1998).
+In terms of severity at baseline, the most frequently used measure
+in the included studies was the Beck Depression Inventory, and
+the baseline scores in trials using that measure were around
+20 (Friedli 1997.Simpson 2000), 26 (King 2000) and 27 (Chilvers
+2001). An examination of baseline scores found in studies of
+cognitive behaviour therapy for diagnosed major depression found
+in the United Kingdom NICE depression guidelines (NICE 2010)
+and other sources found baseline scores that were not dissimilar:
+24 (Blackburn 1981), 27 (Elkin 1989), 29 (Scott 1997). However, it
+was more difficult to compare other studies included in the review
+which used different outcomes, and there may be other differences
+between patients with similar symptom scores but different rates
+of diagnosed disorder (e.g. duration of disorder).
+Generally GPs were encouraged to recruit all participants they
+considered suitable for counselling, but they may have been
+reluctant to recruit some participants to the study, and some
+authors reported that gathering information on such participants
+from GPs is difficult (Friedli 1997; Harvey 1998; King 2000). While
+it is inappropriate to assume that patients participating in these
+trials were representative of eligible patients generally, all the
+included trials used similar procedures, so they can reasonably
+be combined. Nevertheless, caution must be exercised when
+generalising the results to the wider population of patients in
+primary care. The new study included in the updated review used
+referral from primary care practitioners and recruitment of cases
+through computerised primary care databases (Schroer 2009).
+Such searches are increasingly used to recruit depressed patients
+in primary care and can be more efficient. However, such methods
+potentially access a different population of patients from those
+recruited by the GP.
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+16
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Types of interventions
+There is a tension in the present review between the international
+nature of a Cochrane review, and the topic of 'counselling in
+primary care', which has developed largely within the context
+of health care in the United Kingdom. The use of definitions of
+counselling and accreditation criteria based on a single national
+organisation creates a number of difficulties. First, the results of
+the review may not be generalisable to other healthcare contexts.
+Second, it is not clear whether the inclusion criteria developed for
+the review will be appropriate if trials are identified from other
+countries. Finally, the inclusion or exclusion of particular therapies
+has not been made on the basis of empirically justified criteria. For
+example, a therapist in one trial (Hemmings 1997) was reported as
+having trained in cognitive analytic therapy, which is not generally
+seen as a mainstream form of counselling. However, the counsellors
+in this trial did meet the BACP criteria and the author confirmed that
+the interventions offered were consistent with the BACP definition
+of counselling.
+At present, the literature on counselling in primary care is largely
+restricted to the United Kingdom, as studies in the United States
+have tended to focus more on defined therapies such as cognitive
+behaviour therapy and interpersonal therapy. At present, the
+results of the review are more clearly applicable to the United
+Kingdom health care system.
+None of the trials attempted to standardise 'usual care', and the
+GP interventions were monitored only from the perspective of
+gathering health service utilisation data. While some information
+about medication and referrals was available, there are no other
+details of the therapeutic encounter between GPs and their
+patients. Again, it is possible GPs were offering a sympathetic
+listening approach and that the interventions of counsellors and
+GPs were somewhat similar (Tylee 1998).
+The practices and GPs recruited to the studies were volunteers
+rather than a random sample. The doctors who participated may
+have been particularly interested in the research question and
+may have used therapeutic techniques to a greater extent than is
+usual, thus reducing the additional effect of counselling (Friedli
+1997). In addition, in one trial (Hemmings 1997), GPs participated
+in an Action Learning programme, in which they learned about
+counselling and counselling skills. This may have influenced their
+consultation style and referral practices.
+Types of outcomes
+Almost all the outcomes were reported in terms of continuous
+scales, which may provide a more accurate and sensitive
+assessment of outcomes than dichotomising outcomes, but can
+make interpretation more difficult. The current study used the
+standardised effect size as a useful summary measure, which has
+also been used in major meta-analyses in the general psychological
+therapy literature. There are a number of ways of interpreting such
+an effect. Assuming that the scores of the treatment and control
+groups correspond to a normal distribution, effect sizes can be
+converted into percentiles (Roth 1996). The effect size of -0.28
+found in the main short term comparison (Analysis 1.1) is relatively
+modest, and indicates that the average treated patient had a score
+approximately at the 60th percentile of scores for the untreated
+group. If the treatment had no effect, the scores of the average
+treated patient would be at the 50th percentile of scores (Roth
+1996). A standardised mean difference can also be converted to an
+
+Cochrane Database of Systematic Reviews
+
+estimate of number needed to treat (NNT) if certain assumptions
+are upheld, and the present estimate would represent an NNT of
+around 6 (Kraemer 2006). Finally, of those studies in the review
+which used the Beck Depression Inventory, the pooled standard
+deviations of scores at short term follow up was 9.3, and an effect
+size of -0.28 would represent a reduction of around 2.6 on that scale
+associated with the provision of counselling.
+Comparisons with the effects of alternative treatments in other
+reviews is problematic, as differences may relate to variation in
+study settings, patient populations and study quality. However, it
+should be noted that the effect size reported in the current review
+is not markedly different from those reported in other published
+meta-analyses of psychological and organisational interventions
+for depression, where they have been restricted to primary care
+settings (Bortolotti 2008; Cape 2010; Gilbody 2006).
+Participants allocated to counselling tended to be satisfied with
+the help they received from counsellors, and more satisfied than
+those who remained under 'usual care'. However, satisfaction is
+not necessarily related to outcome, and satisfaction measures
+are open to response bias associated with the trial, such as a
+desire to please the therapist, and to be seen as a polite and
+courteous person (Hemmings 1997). The comparison of counsellors
+and GPs is also confounded with the time available to the two
+types of professionals: differences in satisfaction may be reduced
+or disappear entirely if both professionals were able to provide 50
+minute sessions. Although patient satisfaction is increasingly seen
+as an important outcome in its own right, its status as a factor in
+decision-making about treatment provision in clinical guidelines is
+more ambiguous.
+The analysis of economic outcomes was complicated by the range
+of different analytic techniques used, ranging from simple analyses
+of health service utilisation through more sophisticated net mean
+benefit calculations and cost-effectiveness acceptability curves.
+Given the difficulty of synthesising results across all the included
+studies, the included individual patient data analysis (Bower
+2003a) may represent the best current estimate of the effects of
+counselling on costs. The data would suggest that counselling
+is associated with an increase in costs, although that finding is
+sensitive to assumptions made in the analysis. Whether those cost
+increases are justified is dependent on the value placed on the
+significant though modest benefits in patient outcomes.
+
+Overall completeness and applicability of evidence
+Although the review was concerned with mental health and
+psychosocial problems, and the studies included participants
+considered relevant for counselling by general practitioners, the
+primary outcome assessed was usually depression, and the impact
+of counselling on other outcomes is less well understood. As
+highlighted above, the topic of 'counselling in primary care' has
+developed largely within the context of health care in the United
+Kingdom and the evidence available is restricted to this setting.
+
+Quality of the evidence
+The review included nine studies and 1384 randomised patients,
+allowing estimates of the short term effects of counselling on
+mental health with a reasonable degree of precision, although
+the confidence intervals included effects which may not represent
+a clinically significant impact. There is clearly scope for further
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+17
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+studies to improve the precision of estimates, allow estimation of
+the long-term benefits of counselling, and to explore effectiveness
+in different patient populations and against different comparator
+treatments. The review has identified methodological limitations
+in the studies, although some of these (i.e. blinding) reflect
+difficulties in applying methodological safeguards in the context
+of psychological therapy generally, rather than weaknesses of the
+studies included in the review. Patient self-reported measures used
+with patients who are unblinded to their treatment were judged
+as being at high risk of bias in the current review, although some
+researchers question whether such measures are as vulnerable to
+bias as unblinded observer measures (Friedli 1997). However, given
+the consistency of the rating across studies, this would be unlikely
+to have a substantive effect on the results of the review.
+
+Potential biases in the review process
+The definitions of counselling adopted in the review represent the
+United Kingdom context which means that relevant international
+evidence may have been excluded, although the list of
+excluded studies did not appear to include studies that were
+excluded arbitrarily. Sensitivity analyses on types of interventions,
+populations and on quality were based on issues identified during
+the review, rather than being pre-specified, which may have
+introduced bias. The identified economic analyses were not subject
+to formal critical appraisal and, as such, it is important to consider
+that in drawing conclusions about relative resource use, costs or
+efficiency of counselling in primary care compared with usual care.
+
+Agreements and disagreements with other studies or
+reviews
+As noted previously, the short term effects of counselling reported
+in the current review are not markedly dissimilar to those
+reported in other published meta-analyses of psychological and
+organisational interventions for depression, where they have
+been restricted to primary care settings. For example, cognitive
+behaviour therapy demonstrates an effect size of -0.33 (95% CI
+-0.60 to -0.06, 4 studies) in depression and -0.26 (95% CI -0.44 to
+-0.08, 2 studies) in mixed anxiety and depression, while problem
+solving treatment demonstrates an effect of -0.26 (95% CI -0.49
+to -0.03, 6 studies) in depression and -0.17 (95% CI -0.41 to 0.07,
+6 studies) in mixed anxiety and depression (Cape 2010). A large
+review of collaborative care interventions in primary care (Gilbody
+2006) demonstrated an effect size of -0.25 (95% CI -0.18 to -0.32,
+35 studies). Another review of psychological treatments in primary
+care reported an effect size of -0.42 (95% CI -0.59 to -0.26, 6 studies)
+for major depression (Bortolotti 2008)
+It has been suggested that counsellors working in primary care can
+lead to a reduction in health service utilisation, including fewer
+referrals to psychiatric services, fewer prescriptions and fewer
+GP consultations. Another Cochrane review which included some
+of the studies from the present review among a larger data set
+suggested that this may occur for mental health professionals
+generally, but that the effects are limited in scope and consistency
+(Harkness 2009). The current data reflected the findings of the
+wider review, as there was some evidence that modest reductions
+in health service utilisation did take place. Some studies suggested
+that the provision of counselling was not associated with increased
+costs, but such analyses are hampered by small sample sizes
+(Briggs 2000) and the finding of no differences in costs must be
+interpreted cautiously, particularly since the exploratory individual
+
+Cochrane Database of Systematic Reviews
+
+patient data meta analysis indicated that the costs associated
+with counselling may be higher, which supports the argument that
+previous analyses were underpowered (Bower 2003a).
+
+AUTHORS' CONCLUSIONS
+Implications for practice
+Although the exact estimate of effect size depends on the trials
+included in the analysis, the results demonstrate some consistency
+in suggesting that counselling is significantly more effective in
+reducing mental health symptoms in the short-term, but appears
+to provide no additional advantage in the long-term.
+The implication of this finding for the provision of counselling
+in current stepped care models depends fundamentally on the
+importance attached the size of the short-term effect, and the
+comparison with the effects found in relation to alternative
+treatments, especially cognitive behaviour therapy. Although some
+reviews suggest that the overall effects of different therapies are
+similar in primary care settings (Cape 2010), evidence reviews
+undertaken for clinical guidelines in the United Kingdom are
+not generally restricted to a single setting such as primary care
+(NICE 2010). There is some evidence that treatments provided
+in primary care may demonstrate smaller effects than those in
+secondary settings (Raine 2002) although it is not clear whether
+this represents differences in patients, treatments or study quality
+(Churchill 2002).
+The results can only be generalised to similar patients and
+counsellors. This means that the evidence is restricted to
+counsellors with BACP accreditation or equivalent. Some of the
+trials have been restricted to patients with a certain level of
+disorder, such as a threshold score on the Beck Depression
+Inventory or Patient Health Questionnaire (King 2000; Schroer
+2009; Simpson 2000). Although such severity scores may not be
+generally available to practitioners in all contexts, such measures
+are incentivised for use in some primary care settings such as the
+United Kingdom (Kendrick 2009).
+Factors predicting which patients benefit most from counselling
+and other psychological therapies in primary care are not well
+understood at present. The United Kingdom Department of
+Health guidelines suggest that age, sex, social class and ethnicity
+should not determine access to psychological therapies such as
+counselling (DOH 2001).
+The current evidence suggests that provision of counselling may
+make a useful addition to primary care services alongside other
+mental health treatments. Commissioners of services can use the
+information contained in this review to assist in decision-making
+about current and future service provision.
+The ongoing trial identified in this updated review will add
+significantly to the evidence base for counselling when it reports in
+the next 18 to 24 months. The trial has randomised 755 participants
+between counselling, acupuncture and usual care.
+
+Implications for research
+Although pragmatic trials do not attempt to instigate the highest
+levels of experimental control, it is important that studies
+adequately describe the participants, treatments and other factors
+that are involved in the trial. For example, although 'patients
+
+Counselling for mental health and psychosocial problems in primary care (Review)
+Copyright © 2011 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.
+
+18
+
+Cochrane
+
+Library
+
+Trusted evidence.
+Informed decisions.
+Better health.
+
+Cochrane Database of Systematic Reviews
+
+suitable for counselling' is a pragmatic criterion for entry to
+a trial, it would still be helpful to provide information on all
+types of problems that were eventually referred (e.g. diagnoses).
+Equally, although treatments may not be highly standardised, it
+is important to know that treatments were distinct, which may
+require more extensive descriptive work (especially of the content
+of GP care) or use of validated rating scales of therapy content (King
+2000). Data extraction and quality ratings in the review would be
+improved if sufficient information on key methodological details
+were always provided, and the importance of concealment of
+allocation suggests that routine use of an external randomisation
+agency is justified.
+
+ordinator) for her expert advice, and Chris Champion, Managing
+Editor, CCDAN Group for general support and advice.
+
+Although the review provides information on comparisons
+between counselling and three other treatments (usual care, GP
+antidepressant treatment and cognitive behaviour therapy), the
+evidence is limited with respect to two of those treatments. Given
+the importance of cognitive behaviour therapy in current delivery
+of care for depression and other mental health problems, there
+is clearly a need to further assess the comparative effectiveness
+of counselling and cognitive behaviour therapy to increase the
+precision of the current estimate, and there is scope to compare
+counselling with other psychological therapy treatments, such
+as problem-solving (Mynors-Wallis 1997) or interpersonal therapy
+(Schulberg 1996) and the new generation of guided self-help
+treatments (Gellatly 2007). The ongoing trial identified in this
+updated review is assessing the effectiveness of counselling against
+both usual general practitioner care and acupuncture (Schroer
+2009). As outlined in the introduction, extending the evidence
+base in this way would have the potential to increase patient
+choice about psychological therapies, if other interventions are
+demonstrated to be effective. Questions about the importance of
+patient preferences as determinants of outcome also remain (King
+2005), although there are significant methodological barriers to the
+assessment of the effects of preferences (Torgerson 1996).
+
+Three anonymous referees for their helpful and constructive
+comments on an earlier draft of the review.
+
+Research into the long-term outcome of patients treated with
+psychological therapies is a key priority. Although one trial included
+outcomes at 36 months (Simpson 2000), this was in a population
+of chronically ill patients who did not demonstrate gains in
+the short term. More research is required into the long-term
+clinical and economic impacts of psychological therapies such as
+counselling, although the methodological and logistical challenges
+are significant.
