@@ -3,7 +3,7 @@ import shutil
 from google.cloud import storage
 
 GCP_PROJECT = os.environ["GCP_PROJECT"]
-GCS_BUCKET_NAME = os.environ["GCS_BUCKET_NAME"]
+GCS_RAG_BUCKET_NAME = os.environ["GCS_RAG_BUCKET_NAME"]
 
 
 def makedirs():
@@ -16,7 +16,7 @@ def download():
     makedirs()
 
     client = storage.Client(project=GCP_PROJECT)
-    bucket = client.get_bucket(GCS_BUCKET_NAME)
+    bucket = client.get_bucket(GCS_RAG_BUCKET_NAME)
 
     blobs = bucket.list_blobs()
     for blob in blobs:

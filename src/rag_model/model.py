@@ -13,7 +13,7 @@ from vertexai.preview.language_models import TextEmbeddingModel
 
 
 # Setup
-GENERATIVE_MODEL = "gemini-1.5-flash-001"
+# GENERATIVE_MODEL = "gemini-1.5-flash-001"
 GCP_PROJECT = os.environ["GCP_PROJECT"]
 GCP_LOCATION = "us-central1"
 EMBEDDING_MODEL = "text-embedding-004"
@@ -38,24 +38,27 @@ You are an AI assistant specialized in psychology. Your responses are based sole
 When answering a query:
 1. Carefully read all the text chunks provided.
 2. Identify the most relevant information from these chunks to address the user's question.
-3. Formulate your response using only the information found in the given chunks.
+3. Formulate your response making use of the information found in the given chunks.
 4. If the provided chunks do not contain sufficient information to answer the query, state that you don't have enough information to provide a complete answer.
 5. Always maintain a professional and knowledgeable tone, befitting a psychology expert.
 6. If there are contradictions in the provided chunks, mention this in your response and explain the different viewpoints presented.
 
 Remember:
-- You are an expert in psychology, but your knowledge is limited to the information in the provided chunks.
-- Do not invent information or draw from knowledge outside of the given text chunks.
+- Talk to the user and reference to the information in the provided chunks if necessary.
 - If asked about topics unrelated to psychology, politely redirect the conversation back to psychology-related subjects.
 - Be concise in your responses while ensuring you cover all relevant information from the chunks.
 - Solve the problem in the queries, don't mention the provided chunks in the response.
 
 Your goal is to provide accurate, helpful information about psychology based solely on the content of the text chunks you receive with each query.
 """
-generative_model = GenerativeModel(
-	GENERATIVE_MODEL,
-	system_instruction=[SYSTEM_INSTRUCTION]
-)
+# generative_model = GenerativeModel(
+# 	GENERATIVE_MODEL,
+# 	system_instruction=[SYSTEM_INSTRUCTION]
+# )
+
+MODEL_ENDPOINT = "projects/xenon-depth-434717-n0/locations/us-central1/endpoints/6946258166963240960"
+
+generative_model = GenerativeModel(MODEL_ENDPOINT, system_instruction=[SYSTEM_INSTRUCTION])
 
 def generate_query_embedding(query):
 	query_embedding_inputs = [TextEmbeddingInput(task_type='RETRIEVAL_DOCUMENT', text=query)]
