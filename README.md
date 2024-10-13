@@ -89,7 +89,7 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 
 **Running Dockerfile**
 - navigate to the target folder.
-- run `pipenv install` to create Pipfile.lock
+- run `pipenv install` to create Pipfile.lock.
 - run `sh docker-shell.sh`.
 
 **Containers**
