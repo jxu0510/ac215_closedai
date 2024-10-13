@@ -51,6 +51,8 @@ Remember:
 
 Your goal is to provide accurate, helpful information about psychology based solely on the content of the text chunks you receive with each query.
 """
+
+# Baseline model
 # generative_model = GenerativeModel(
 # 	GENERATIVE_MODEL,
 # 	system_instruction=[SYSTEM_INSTRUCTION]
