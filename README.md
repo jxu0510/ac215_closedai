@@ -88,7 +88,9 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 ## Docker and Containerization
 
 **Running Dockerfile**
-To run Dockerfile, navigate to the target folder and run `sh docker-shell.sh`.
+- navigate to the target folder.
+- run `pipenv install` to create Pipfile.lock
+- run `sh docker-shell.sh`.
 
 **Containers**
 1. Data Preparation Container: This container processes the dataset, preparing it for model fine-tuning. It works with a labeled dataset of questions and responses.
