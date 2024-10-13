@@ -9,7 +9,7 @@ from google.cloud import storage
 # Setup
 GCP_PROJECT = os.environ["GCP_PROJECT"]
 GCP_LOCATION = "us-central1"
-OUTPUT_FOLDER = "../data"
+OUTPUT_FOLDER = "../../data"
 GCS_BUCKET_NAME = os.environ["GCS_BUCKET_NAME"]
 
 # Function to prepare the dataset
