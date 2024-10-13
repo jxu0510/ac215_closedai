@@ -1,5 +1,5 @@
 # Use the official Debian-hosted Python image
-FROM python:3.9-slim-buster
+FROM python:3.12-slim-bookworm
 
 ARG DEBIAN_PACKAGES="build-essential git screen vim"
 
@@ -29,8 +29,6 @@ RUN set -ex; \
     pip install pipenv && \
     useradd -ms /bin/bash app -d /home/app -u 1000 -p "$(openssl passwd -1 Passw0rd)" && \
     mkdir -p /app && \
-    mkdir -p /persistent && \
-    chown app:app /persistent && \
     chown app:app /app
 
 

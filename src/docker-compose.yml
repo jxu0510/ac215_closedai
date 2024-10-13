@@ -1,0 +1,50 @@
+networks:
+  llm-rag-network:
+    driver: bridge
+
+services:
+  datapipeline:
+    container_name: llm-rag-datapipeline
+    build:
+      context: ../src/rag_data_pipeline  # Path to the Dockerfile for datapipeline
+    volumes:
+      - ../../ac215_closedai:/app
+      - ../secrets:/secrets  # Mount your secrets directory
+    environment:
+      GCP_PROJECT: ${GCP_PROJECT}
+      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+    depends_on:
+      - chromadb  # Ensure chromadb starts before datapipeline
+    networks:
+      - llm-rag-network
+
+  model:
+    container_name: llm-rag-model
+    build:
+      context: ../src/rag_model  # Path to the Dockerfile for models
+    volumes:
+      - ../../ac215_closedai:/app
+      - ../secrets:/secrets  # Mount your secrets directory
+    
+    environment:
+      GCP_PROJECT: ${GCP_PROJECT}
+      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+    
+    depends_on:
+      - chromadb  # Ensure chromadb starts before model
+    networks:
+      - llm-rag-network
+
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: llm-rag-chromadb
+    ports:
+      - 8000:8000  # chromadb service port
+    volumes:
+      - ../docker-volumes/chromadb:/chroma/chroma  # Persistent storage for chromadb
+    environment:
+      - IS_PERSISTENT=TRUE
+      - ANONYMIZED_TELEMETRY=FALSE
+      - CHROMA_SERVER_CORS_ALLOW_ORIGINS=["*"]  # For development, restrict in production
+    networks:
+      - llm-rag-network

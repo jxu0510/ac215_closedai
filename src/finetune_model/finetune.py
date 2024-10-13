@@ -34,7 +34,7 @@ def train(wait_for_job=False):
         epochs=3,  # Change number of epochs based on dataset size
         adapter_size=4,  # Adapter size to reduce number of trainable parameters
         learning_rate_multiplier=1.0,  # Modify this for learning rate control
-        tuned_model_display_name="mental-health-chatbot-v1",  # Change this to your tuned model name
+        tuned_model_display_name="mental-health-chatbot-v1",
     )
 
     print("Fine-tuning job started. Monitoring progress...")
