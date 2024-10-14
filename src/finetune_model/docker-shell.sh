@@ -6,16 +6,12 @@ set -e
 # Read the settings file
 source ../env.dev
 
-export IMAGE_NAME="closed_ai"
+export GCP_PROJECT="xenon-depth-434717-n0"
+export GOOGLE_APPLICATION_CREDENTIALS="../../secrets/llm-service-account.json"
 
-# Build the image based on the Dockerfile
-docker build -t $IMAGE_NAME -f Dockerfile .
+# Create the network if we don't have it yet
+docker network inspect llm-rag-network >/dev/null 2>&1 || docker network create llm-rag-network
 
-# Run Container
-docker run --rm --name $IMAGE_NAME -ti \
--v "$BASE_DIR":/app \
--v "$SECRETS_DIR":/secrets \
--e GOOGLE_APPLICATION_CREDENTIALS=$GOOGLE_APPLICATION_CREDENTIALS \
--e GCP_PROJECT=$GCP_PROJECT \
--e GCS_BUCKET_NAME=$GCS_BUCKET_NAME \
-$IMAGE_NAME
+# Build and run finetune-data container
+docker-compose build finetune-model
+docker-compose run --rm --service-ports finetune-model

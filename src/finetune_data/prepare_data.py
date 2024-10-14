@@ -17,7 +17,7 @@ def prepare():
     print("Preparing dataset...")
 
     # Load your dataset (Adjust the path to your dataset)
-    with open("../data/data.json", "r") as file:
+    with open(os.path.join(OUTPUT_FOLDER, "data.json"), "r") as file:
         data = json.load(file)
 
     # List to store all the pattern-response pairs

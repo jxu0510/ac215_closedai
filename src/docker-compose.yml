@@ -6,7 +6,8 @@ services:
   datapipeline:
     container_name: llm-rag-datapipeline
     build:
-      context: ../src/rag_data_pipeline  # Path to the Dockerfile for datapipeline
+      context: ./rag_data_pipeline  # Path to the Dockerfile for datapipeline
+    image: llm-rag-datapipeline
     volumes:
       - ../../ac215_closedai:/app
       - ../secrets:/secrets  # Mount your secrets directory
@@ -21,7 +22,8 @@ services:
   model:
     container_name: llm-rag-model
     build:
-      context: ../src/rag_model  # Path to the Dockerfile for models
+      context: ./rag_model  # Path to the Dockerfile for models
+    image: llm-rag-model
     volumes:
       - ../../ac215_closedai:/app
       - ../secrets:/secrets  # Mount your secrets directory
@@ -46,5 +48,35 @@ services:
       - IS_PERSISTENT=TRUE
       - ANONYMIZED_TELEMETRY=FALSE
       - CHROMA_SERVER_CORS_ALLOW_ORIGINS=["*"]  # For development, restrict in production
+    networks:
+      - llm-rag-network
+
+  finetune-model:
+    container_name: llm-finetune-model
+    build:
+      context: ./finetune_model
+    image: finetune-model
+    volumes:
+      - ../../ac215_closedai:/app
+      - ../secrets:/secrets
+    environment:
+      GCP_PROJECT: ${GCP_PROJECT}
+      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+      GCS_BUCKET_NAME: ${GCS_BUCKET_NAME}
+    networks:
+      - llm-rag-network
+
+  finetune-data:
+    container_name: llm-finetune-data
+    build:
+      context: ./finetune_data
+    image: finetune-data
+    volumes:
+      - ../../ac215_closedai:/app
+      - ../secrets:/secrets
+    environment:
+      GCP_PROJECT: ${GCP_PROJECT}
+      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
+      GCS_BUCKET_NAME: ${GCS_BUCKET_NAME}
     networks:
       - llm-rag-network

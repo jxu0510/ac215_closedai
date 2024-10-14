@@ -11,7 +11,7 @@ GCP_PROJECT = os.environ["GCP_PROJECT"]
 TRAIN_DATASET = "gs://closed-ai/llm-finetune-dataset/train.jsonl"
 VALIDATION_DATASET = "gs://closed-ai/llm-finetune-dataset/test.jsonl"
 GCP_LOCATION = "us-central1"
-GENERATIVE_SOURCE_MODEL = "gemini-1.5-flash-002"  # Replace with model like llama-2-7b or flan-t5
+GENERATIVE_SOURCE_MODEL = "llama3-70b-hf"  # Working models: gemini-1.5-flash-002, gemini-1.5-pro-002
 
 # Configuration settings for fine-tuning
 generation_config = {
