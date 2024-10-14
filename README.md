@@ -65,7 +65,7 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 2. **`src/rag_data_pipeline/dataloader.py`**
    This script prepares the necessary data for setting up our vector database. It downloads pychological paper raw data from the GCS.
 
-3. **`src/rag_data_pipeline/preprocess_rag.py``**
+3. **`src/rag_data_pipeline/preprocess_rag.py`**
    This script prepares the necessary data for setting up our vector database. It performs chunking, embedding and loading data to the ChromaDB database in the localhost.
 
 4. **`src/**/Pipfile`**
@@ -88,7 +88,9 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 ## Docker and Containerization
 
 **Running Dockerfile**
-To run Dockerfile, navigate to the target folder and run `sh docker-shell.sh`.
+- navigate to the target folder.
+- run `pipenv install` to create Pipfile.lock.
+- run `sh docker-shell.sh`.
 
 **Containers**
 1. Data Preparation Container: This container processes the dataset, preparing it for model fine-tuning. It works with a labeled dataset of questions and responses.
@@ -120,4 +122,3 @@ To run Dockerfile, navigate to the target folder and run `sh docker-shell.sh`.
 
 
 We maintain a history of prompt changes through Git's version control, allowing us to manage updates, compare iterations, and revert to previous versions if necessary. Each version of a prompt is committed with detailed messages, ensuring transparency in modifications and facilitating collaboration across the team. 
-----
