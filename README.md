@@ -65,7 +65,7 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 2. **`src/rag_data_pipeline/dataloader.py`**
    This script prepares the necessary data for setting up our vector database. It downloads pychological paper raw data from the GCS.
 
-3. **`src/rag_data_pipeline/preprocess_rag.py``**
+3. **`src/rag_data_pipeline/preprocess_rag.py`**
    This script prepares the necessary data for setting up our vector database. It performs chunking, embedding and loading data to the ChromaDB database in the localhost.
 
 4. **`src/**/Pipfile`**
