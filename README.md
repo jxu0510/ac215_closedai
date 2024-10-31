@@ -9,9 +9,10 @@ Nina Mao, Yunxiao Tang, Jiayi Xu, Xinjie Yi
 #### Project
 In this project, we aim to develop an AI-powered mental healing application. The app will feature advanced conversational technology to engage in meaningful dialogue with individuals experiencing negative psychological states. Powered by fine-tuned GEMINI and RAG models, the application is designed to offer specialized mental healing support. Users can interact with the app through natural conversations, where it draws from a wealth of expert psychology literature to provide professional, evidence-based mental health guidance. Whether users are dealing with stress, anxiety, or other emotional challenges, the app offers personalized therapeutic advice, helping them navigate difficult emotions and promote mental well-being.
 
-## Milestone 2
+## Milestone 3
 
-In this milestone, we have completed the components for fine-tuning the GEMINI model and developed the RAG model for enhanced retrieval capabilities.
+In this milestone, we have completed the basics of front-end to connect with our model endpoint and created presentation slides for mid-term presentation.  
+
 
 #### Project Organization
 
@@ -19,6 +20,7 @@ In this milestone, we have completed the components for fine-tuning the GEMINI m
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── reports
 ├── data
 └── src
     ├── finetune_data
@@ -46,6 +48,7 @@ In this milestone, we have completed the components for fine-tuning the GEMINI m
     │   ├── model.py  
     │   ├── Pipfile
     │   └── Pipfile.lock
+    └── app.py
     ├── docker-compose.yml
     ├── docker-entrypoint.sh
     └── env.dev
