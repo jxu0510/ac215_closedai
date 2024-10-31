@@ -21,6 +21,8 @@ services:
 
   model:
     container_name: llm-rag-model
+    ports:
+      - 8080:8080  
     build:
       context: ./rag_model  # Path to the Dockerfile for models
     image: llm-rag-model

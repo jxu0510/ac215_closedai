@@ -67,6 +67,7 @@ def chat():
         response = generative_model.generate_content([input_prompt], generation_config=generation_config, stream=False)
 
         generated_text = response.text
+        print(generated_text)
         return jsonify({'reply': generated_text})
 
     except Exception as e:
@@ -79,4 +80,4 @@ if __name__ == '__main__':
     parser.add_argument("--chunk_type", default="char-split", help="Split type: char-split | recursive-split | semantic-split")
     args = parser.parse_args()
 
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=8080, debug=True)
