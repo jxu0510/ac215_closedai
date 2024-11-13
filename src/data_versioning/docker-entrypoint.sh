@@ -8,8 +8,6 @@ mkdir -p /mnt/gcs_bucket
 gcsfuse --key-file=$GOOGLE_APPLICATION_CREDENTIALS $GCS_BUCKET_NAME /mnt/gcs_data
 echo 'GCS bucket mounted at /mnt/gcs_data'
 mkdir -p /app/rag_dataset
-mkdir -p /app/finetune_dataset
-mount --bind /mnt/gcs_data/llm-finetune-dataset /app/finetune_dataset
 mount --bind /mnt/gcs_data/llm-rag-dataset /app/rag_dataset
 
 pipenv shell

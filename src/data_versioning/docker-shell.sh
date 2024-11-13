@@ -25,5 +25,4 @@ docker run --rm --name data-version-cli -ti \
 -e GCP_ZONE=$GCP_ZONE \
 -e GCS_BUCKET_NAME=$GCS_BUCKET_NAME data-version-cli
 
-mkdir -p /app/finetune_dataset
 mkdir -p /app/rag_dataset
