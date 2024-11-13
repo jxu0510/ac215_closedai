@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = finetune_dataset
+['remote "finetune_dataset"']
+    url = gs://closed-ai/llm-finetune-dataset
