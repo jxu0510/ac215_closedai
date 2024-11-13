@@ -1,6 +1,6 @@
 outs:
-- md5: d751713988987e9331980363e24189ce.dir
-  size: 0
-  nfiles: 0
+- md5: 9b4e9deee064ae95f6ea050468696f65.dir
+  size: 481609
+  nfiles: 7
   hash: md5
   path: rag_dataset
