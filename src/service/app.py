@@ -38,6 +38,9 @@ def generate_query_embedding(query):
     embeddings = embedding_model.get_embeddings(query_embedding_inputs, **kwargs)
     return embeddings[0].values
 
+def generate_response(input_prompt, generation_config):
+    return generative_model.generate_content([input_prompt], generation_config=generation_config, stream=False)
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -64,7 +67,7 @@ def chat():
 
         # Generate response using the model
         generation_config = {"max_output_tokens": 8192, "temperature": 0.25, "top_p": 0.95}
-        response = generative_model.generate_content([input_prompt], generation_config=generation_config, stream=False)
+        response = generate_response(input_prompt, generation_config)
 
         generated_text = response.text
         print(generated_text)
