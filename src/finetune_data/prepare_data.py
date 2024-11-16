@@ -12,6 +12,7 @@ GCP_LOCATION = "us-central1"
 OUTPUT_FOLDER = "../../data"
 GCS_BUCKET_NAME = os.environ["GCS_BUCKET_NAME"]
 
+
 # Function to prepare the dataset
 def prepare():
     print("Preparing dataset...")
@@ -24,17 +25,14 @@ def prepare():
     pairs = []
 
     # Iterate through intents in the dataset
-    for intent in data['intents']:
-        patterns = intent['patterns']
-        responses = intent['responses']
+    for intent in data["intents"]:
+        patterns = intent["patterns"]
+        responses = intent["responses"]
 
         # Match each pattern with each response
         for pattern in patterns:
             for response in responses:
-                pairs.append({
-                    "question": pattern,
-                    "answer": response
-                })
+                pairs.append({"question": pattern, "answer": response})
 
     # Convert the pairs into a DataFrame for easier handling
     df = pd.DataFrame(pairs)
@@ -48,8 +46,8 @@ def prepare():
         for _, row in df.iterrows():
             entry = {
                 "contents": [
-                    {"role": "user", "parts": [{"text": row['question']}]},
-                    {"role": "model", "parts": [{"text": row['answer']}]}
+                    {"role": "user", "parts": [{"text": row["question"]}]},
+                    {"role": "model", "parts": [{"text": row["answer"]}]},
                 ]
             }
             formatted.append(entry)
@@ -73,6 +71,7 @@ def prepare():
 
     print("Data preparation complete!")
 
+
 # Function to upload the prepared files to Google Cloud Storage
 def upload():
     print("Uploading data...")
@@ -81,7 +80,9 @@ def upload():
     bucket = storage_client.bucket(GCS_BUCKET_NAME)
     timeout = 300
 
-    data_files = glob.glob(os.path.join(OUTPUT_FOLDER, "*.jsonl")) + glob.glob(os.path.join(OUTPUT_FOLDER, "*.csv"))
+    data_files = glob.glob(os.path.join(OUTPUT_FOLDER, "*.jsonl")) + glob.glob(
+        os.path.join(OUTPUT_FOLDER, "*.csv")
+    )
     data_files.sort()
 
     # Upload files to GCS
@@ -94,6 +95,7 @@ def upload():
 
     print("Upload complete!")
 
+
 # Main function to handle arguments
 def main(args=None):
     print("CLI Arguments:", args)
@@ -103,6 +105,7 @@ def main(args=None):
 
     if args.upload:
         upload()
+
 
 # Parse command-line arguments
 if __name__ == "__main__":

@@ -11,7 +11,7 @@ In this project, we aim to develop an AI-powered mental healing application. The
 
 ## Milestone 3
 
-In this milestone, we have completed the basics of front-end to connect with our model endpoint and created presentation slides for mid-term presentation.  
+In this milestone, we have completed the basics of front-end to connect with our model endpoint and created presentation slides for mid-term presentation.
 
 
 #### Project Organization
@@ -45,7 +45,7 @@ In this milestone, we have completed the basics of front-end to connect with our
     └── rag_model
     │   ├── docker-shell.sh
     │   ├── Dockerfile
-    │   ├── model.py  
+    │   ├── model.py
     │   ├── Pipfile
     │   └── Pipfile.lock
     └── app.py
@@ -59,7 +59,7 @@ In this milestone, we have completed the basics of front-end to connect with our
 For finetuning the model, we gathered a dataset of 658 mental health-related Q&A conversations, consisting of 594 training samples and 64 test samples. The dataset includes conversations covering various mental health topics, such as anxiety and depression, and is structured to provide emotional support through chatbot responses. The dataset was sourced from mental health FAQ, classical therapy conversations, and general advice interactions. It has been preprocessed and stored in a format suitable for fine-tuning models, which enables a chatbot to assist users with mental health concerns by identifying intents and providing appropriate responses.
 
 For the RAG model, we gathered 7 academic papers on psychological and mental health counseling in .txt format. This dataset enhances the chatbot's ability to provide accurate, research-based mental health support. This dataset serves as a key resource for enhancing the chatbot's ability to provide accurate and contextually relevant mental health support.
-   
+
 ## Data Pipeline Overview
 
 1. **`src/finetune_data/prepare_data.py`**
@@ -121,7 +121,7 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 	**Output:** A chatbot that processes user inputs and generates responses using the fine-tuned LLM.
 
 
-## Data Versioning 
+## Data Versioning
 
 
-We maintain a history of prompt changes through Git's version control, allowing us to manage updates, compare iterations, and revert to previous versions if necessary. Each version of a prompt is committed with detailed messages, ensuring transparency in modifications and facilitating collaboration across the team. 
+We maintain a history of prompt changes through Git's version control, allowing us to manage updates, compare iterations, and revert to previous versions if necessary. Each version of a prompt is committed with detailed messages, ensuring transparency in modifications and facilitating collaboration across the team.
