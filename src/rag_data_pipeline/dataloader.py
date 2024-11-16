@@ -7,7 +7,8 @@ GCS_RAG_BUCKET_NAME = "closed-ai-rag"
 
 
 def makedirs():
-    os.makedirs("../../data", exist_ok = True)
+    os.makedirs("../../data", exist_ok=True)
+
 
 def download():
     print("downloading")
@@ -24,8 +25,10 @@ def download():
         if not blob.name.endswith("/"):
             blob.download_to_filename("../../data/" + blob.name)
 
+
 def main():
     download()
+
 
 if __name__ == "__main__":
     main()

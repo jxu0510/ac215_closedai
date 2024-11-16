@@ -1,17 +1,18 @@
 import os
 import argparse
 import time
-from google.cloud import storage
 import vertexai
 from vertexai.preview.tuning import sft
-from vertexai.generative_models import GenerativeModel, GenerationConfig
+from vertexai.generative_models import GenerativeModel
 
 # Setup your GCP Project and dataset paths
 GCP_PROJECT = os.environ["GCP_PROJECT"]
 TRAIN_DATASET = "gs://closed-ai/llm-finetune-dataset/train.jsonl"
 VALIDATION_DATASET = "gs://closed-ai/llm-finetune-dataset/test.jsonl"
 GCP_LOCATION = "us-central1"
-GENERATIVE_SOURCE_MODEL = "llama3-70b-hf"  # Working models: gemini-1.5-flash-002, gemini-1.5-pro-002
+GENERATIVE_SOURCE_MODEL = (
+    "llama3-70b-hf"  # Working models: gemini-1.5-flash-002, gemini-1.5-pro-002
+)
 
 # Configuration settings for fine-tuning
 generation_config = {
@@ -22,6 +23,7 @@ generation_config = {
 
 # Initialize Vertex AI environment
 vertexai.init(project=GCP_PROJECT, location=GCP_LOCATION)
+
 
 def train(wait_for_job=False):
     print("Starting fine-tuning...")
@@ -61,7 +63,7 @@ def chat():
 
     # Use the fine-tuned model endpoint (replace with the actual endpoint from your GCP console)
     MODEL_ENDPOINT = "projects/xenon-depth-434717-n0/locations/us-central1/endpoints/6946258166963240960"
-    
+
     # Initialize the fine-tuned model
     generative_model = GenerativeModel(MODEL_ENDPOINT)
 
@@ -91,7 +93,9 @@ def main(args=None):
 
 if __name__ == "__main__":
     # Create argument parser
-    parser = argparse.ArgumentParser(description="Fine-tuning CLI for Mental Health Chatbot")
+    parser = argparse.ArgumentParser(
+        description="Fine-tuning CLI for Mental Health Chatbot"
+    )
 
     # Argument to trigger the fine-tuning process
     parser.add_argument(
