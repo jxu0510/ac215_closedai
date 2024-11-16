@@ -12,5 +12,5 @@ repos:
     rev: 6.0.0
     hooks:
       - id: flake8
-        args: [--max-line-length=128, --extend-ignore=E203]
+        args: [--max-line-length=128, --extend-ignore=E402]
         exclude: ^src/data_versioning/\.dvc/cache/.*$

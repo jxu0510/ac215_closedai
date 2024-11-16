@@ -105,12 +105,10 @@ def chat(method="char-split"):
         # 	print(len(results["documents"][0]))
         #
         joined_results = "\n".join(results["documents"][0])
-        INPUT_PROMPT = (
-            f"""
+        INPUT_PROMPT = f"""
             {query}
             {joined_results}
             """
-            )
 
         # print("INPUT_PROMPT: ",INPUT_PROMPT)
         response = generative_model.generate_content(
