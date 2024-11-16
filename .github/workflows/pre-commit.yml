@@ -23,10 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
-
-      - name: Set up Pipenv with Python 3.9
-        run: pipenv --python 3.9
+          python-version: '3.12'
 
       - name: Install pre-commit and flake8
         run: |
