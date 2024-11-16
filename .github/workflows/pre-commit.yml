@@ -35,3 +35,6 @@ jobs:
 
       - name: Show flake8 configuration (Optional)
         run: flake8 --version
+
+      - name: Run tests
+        run: pytest service/tests/
