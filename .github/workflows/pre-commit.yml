@@ -36,5 +36,11 @@ jobs:
       - name: Show flake8 configuration (Optional)
         run: flake8 --version
 
+      - name: Source environment variables
+        run: |
+          set -a
+          source src/env.dev
+          set +a
+
       - name: Run tests
         run: pytest src/service/tests/
