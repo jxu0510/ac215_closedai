@@ -36,11 +36,14 @@ jobs:
       - name: Show flake8 configuration (Optional)
         run: flake8 --version
 
-      - name: Load environment variables
-        run: |
-          set -a
-          eval $(grep -v '^#' src/env.dev)
-          set +a
-
       - name: Run tests
-        run: pytest src/service/tests/
+        env:
+          BASE_DIR: ${{ github.workspace }}
+          SECRETS_DIR: ${{ github.workspace }}/secrets/
+          GCP_PROJECT: "xenon-depth-434717-n0"
+          GCS_BUCKET_NAME: "closed-ai"
+          GCS_RAG_BUCKET_NAME: "closed-ai-rag"
+          GOOGLE_APPLICATION_CREDENTIALS: "/secrets/llm-service-account.json"
+          GCP_SERVICE_ACCOUNT: "llm-service-account@xenon-depth-434717-n0.iam.gserviceaccount.com"
+          LOCATION: "us-central1"
+        run: pipenv run pytest src/service/tests/
