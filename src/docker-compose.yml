@@ -40,38 +40,18 @@ services:
   empathos:
     container_name: empathos
     ports:
-      - 8080:8080  
+      - 8080:8080
     build:
       context: ./service  # Path to the Dockerfile for models
     image: empathos
     volumes:
       - ../../ac215_closedai:/app
       - ../secrets:/secrets  # Mount your secrets directory
-    
-    environment:
-      GCP_PROJECT: ${GCP_PROJECT}
-      GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
-    
-    depends_on:
-      - chromadb  # Ensure chromadb starts before model
-    networks:
-      - llm-rag-network
 
-  empathos:
-    container_name: empathos
-    ports:
-      - 8080:8080  
-    build:
-      context: ./service  # Path to the Dockerfile for models
-    image: empathos
-    volumes:
-      - ../../ac215_closedai:/app
-      - ../secrets:/secrets  # Mount your secrets directory
-    
     environment:
       GCP_PROJECT: ${GCP_PROJECT}
       GOOGLE_APPLICATION_CREDENTIALS: ${GOOGLE_APPLICATION_CREDENTIALS}
-    
+
     depends_on:
       - chromadb  # Ensure chromadb starts before model
     networks:
