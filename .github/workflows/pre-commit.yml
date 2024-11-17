@@ -44,6 +44,12 @@ jobs:
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
 
+      - name: Authenticate with Google Cloud
+        run: |
+          gcloud auth activate-service-account --key-file=${{ github.workspace }}/secrets/llm-service-account.json
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
+
       - name: Verify Authentication
         run: gcloud auth list
 
