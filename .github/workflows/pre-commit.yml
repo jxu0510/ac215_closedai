@@ -39,6 +39,7 @@ jobs:
 
       - name: Set up Google credentials
         run: |
+          mkdir -p ${{ github.workspace }}/secrets
           echo "${{ secrets.GOOGLE_CREDENTIALS }}" > ${{ github.workspace }}/secrets/llm-service-account.json
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
