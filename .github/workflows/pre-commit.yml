@@ -37,6 +37,12 @@ jobs:
       - name: Show flake8 configuration (Optional)
         run: flake8 --version
 
+      - name: Set up Google credentials
+        run: |
+          echo "${{ secrets.GOOGLE_CREDENTIALS }}" > ${{ github.workspace }}/secrets/llm-service-account.json
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
+
       - name: Run tests
         env:
           BASE_DIR: ${{ github.workspace }}
