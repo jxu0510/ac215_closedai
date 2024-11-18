@@ -1,18 +1,12 @@
 import unittest
 import os
-import shutil
-import dataloader  
-import preprocess_rag
-import prepare_data
-import finetune
+import dataloader
 import pandas as pd
 from unittest.mock import patch, MagicMock, mock_open
-import argparse
-import time
 
 
 class TestFineTuningScript(unittest.TestCase):
-    @patch("time.sleep", return_value=None)  
+    @patch("time.sleep", return_value=None)
     @patch("vertexai.preview.tuning.sft.train")
     def test_train(self, mock_sft_train, mock_sleep):
         mock_sft_job = MagicMock()
@@ -38,16 +32,14 @@ class TestFineTuningScript(unittest.TestCase):
         self.assertEqual(mock_sft_job.tuned_model_name, "mock-tuned-model-name")
 
 
-
-
 class TestLLMFineTuningData(unittest.TestCase):
     @patch("prepare_data.os.makedirs")
     @patch("prepare_data.train_test_split")
-    @patch("prepare_data.open", new_callable=mock_open, read_data='{"intents": [{"patterns": ["Hello"], "responses": ["Hi there!"]}]}')
+    @patch("prepare_data.open", new_callable=mock_open,
+           read_data='{"intents": [{"patterns": ["Hello"], "responses": ["Hi there!"]}]}')
     def test_prepare(self, mock_open_file, mock_train_test_split, mock_makedirs):
         mock_train_test_split.return_value = (pd.DataFrame({"question": ["Hello"], "answer": ["Hi there!"]}),
                                               pd.DataFrame({"question": ["Hi"], "answer": ["Hello there!"]}))
-
         from prepare_data import prepare
         prepare()
 
@@ -57,7 +49,6 @@ class TestLLMFineTuningData(unittest.TestCase):
         mock_open_file.assert_any_call("../../data/test.jsonl", "w")
 
 
-
 class TestPreprocessRag(unittest.TestCase):
     @patch("preprocess_rag.get_embeddings")
     def test_generate_query_embedding(self, mock_get_embeddings):
@@ -65,7 +56,6 @@ class TestPreprocessRag(unittest.TestCase):
 
         from preprocess_rag import generate_query_embedding
         result = generate_query_embedding("test query")
-
         mock_get_embeddings.assert_called_once()
         self.assertEqual(result, [0.1, 0.2, 0.3])
 
@@ -130,13 +120,14 @@ class TestPreprocessRag(unittest.TestCase):
 
         mock_collection.get.assert_called_once_with(where={"book": "mh_2"}, limit=10)
 
+
 class TestDownloadFunction(unittest.TestCase):
     @patch("dataloader.storage.Client")  # Mock the Google Cloud Storage client
     @patch("dataloader.makedirs")       # Mock the `makedirs` function
     @patch("dataloader.shutil.rmtree")  # Mock the `shutil.rmtree` function
     def test_download(self, mock_rmtree, mock_makedirs, mock_storage_client):
         os.environ["GCP_PROJECT"] = "test-project"
-        
+
         mock_client_instance = MagicMock()
         mock_storage_client.return_value = mock_client_instance
         mock_bucket = MagicMock()
@@ -145,15 +136,14 @@ class TestDownloadFunction(unittest.TestCase):
         mock_blob1 = MagicMock()
         mock_blob1.name = "file1.txt"
         mock_blob2 = MagicMock()
-        mock_blob2.name = "folder1/" 
+        mock_blob2.name = "folder1/"
         mock_blob3 = MagicMock()
         mock_blob3.name = "file2.txt"
         mock_bucket.list_blobs.return_value = [mock_blob1, mock_blob2, mock_blob3]
-        
+
         dataloader.download()
-        
+
         mock_rmtree.assert_called_once_with("../../data", ignore_errors=True, onerror=None)
-        mock_makedirs.assert_called_once_with()  
-        mock_client_instance.get_bucket.assert_called_once_with("closed-ai-rag")  
-        mock_bucket.list_blobs.assert_called_once() 
-    
+        mock_makedirs.assert_called_once_with()
+        mock_client_instance.get_bucket.assert_called_once_with("closed-ai-rag")
+        mock_bucket.list_blobs.assert_called_once()

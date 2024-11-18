@@ -64,4 +64,4 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: "/secrets/llm-service-account.json"
           GCP_SERVICE_ACCOUNT: "llm-service-account@xenon-depth-434717-n0.iam.gserviceaccount.com"
           LOCATION: "us-central1"
-        run: pipenv run pytest src/service/tests/
+        run: pipenv run pytest src/tests/

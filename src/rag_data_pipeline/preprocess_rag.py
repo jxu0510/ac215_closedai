@@ -45,8 +45,11 @@ book_mappings = {
     "mh7": {"author": "the seventh book", "year": 2023},
 }
 
+
 def get_embeddings(query_embedding_inputs, **kwargs):
     return embedding_model.get_embeddings(query_embedding_inputs, **kwargs)
+
+
 def generate_query_embedding(query):
     query_embedding_inputs = [
         TextEmbeddingInput(task_type="RETRIEVAL_DOCUMENT", text=query)

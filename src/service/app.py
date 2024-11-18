@@ -1,5 +1,4 @@
 import os
-import argparse
 from flask import Flask, request, jsonify, render_template
 # Setup Flask App
 app = Flask(__name__)
@@ -14,12 +13,14 @@ MODEL_ENDPOINT = (
         "projects/xenon-depth-434717-n0/locations/us-central1/endpoints/6946258166963240960"
 )
 
-    # Initialize the generative model with system instructions
+# Initialize the generative model with system instructions
 SYSTEM_INSTRUCTION = (
         """ You are an AI assistant specialized in psychology. Your responses are based """
         """solely on the information provided in the text chunks given to you. Do not use """
         """any external knowledge..."""
 )
+
+
 # Embedding generation function
 def generate_query_embedding(query):
     embedding_model = TextEmbeddingModel.from_pretrained(EMBEDDING_MODEL)
@@ -42,11 +43,13 @@ def generate_response(input_prompt, generation_config):
     text = response.text
     return text
 
+
 def get_doc_from_client(collection_name, query_embedding):
     client = chromadb.HttpClient(host=CHROMADB_HOST, port=CHROMADB_PORT)
     collection = client.get_collection(name=collection_name)
     results = collection.query(query_embeddings=[query_embedding], n_results=10)
     return results
+
 
 @app.route("/")
 def index():

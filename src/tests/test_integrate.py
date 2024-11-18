@@ -1,5 +1,6 @@
 from unittest.mock import patch
 
+
 @patch('app.generate_query_embedding')
 @patch('app.get_doc_from_client')
 @patch('app.generate_response')
@@ -14,6 +15,7 @@ def test_chat_route(mock_generate_response, mock_get_doc_from_client, mock_gener
     assert response.status_code == 200
     assert 'reply' in data
     assert data['reply'] == "This is a generated response."
+
 
 @patch('app.generate_query_embedding')
 @patch('app.get_doc_from_client')
