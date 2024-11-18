@@ -29,8 +29,7 @@ jobs:
 
       - name: Create Conda environment
         run: |
-          conda env create -f src/environment1.yaml
-          conda init
+          conda env create -f src/environment.yaml
           conda activate myenv
 
       - name: Install pre-commit and flake8
@@ -55,7 +54,7 @@ jobs:
           SECRETS_DIR: ${{ github.workspace }}/secrets/
           GCP_PROJECT: "xenon-depth-434717-n0"
           GCS_BUCKET_NAME: "closed-ai"
-          GCS_RAG_BUCKET_NAME: "closed-ai-rag"
+          GCS_RAG_BUCKET_NAME: "closed-ai"
           GOOGLE_APPLICATION_CREDENTIALS: "/secrets/llm-service-account.json"
           GCP_SERVICE_ACCOUNT: "llm-service-account@xenon-depth-434717-n0.iam.gserviceaccount.com"
           LOCATION: "us-central1"
