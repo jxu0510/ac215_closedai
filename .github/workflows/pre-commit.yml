@@ -37,21 +37,21 @@ jobs:
       - name: Show flake8 configuration (Optional)
         run: flake8 --version
 
-      - name: Set up Google credentials
-        run: |
-          mkdir -p ${{ github.workspace }}/secrets
-          echo "${{ secrets.GOOGLE_CREDENTIALS }}" > ${{ github.workspace }}/secrets/llm-service-account.json
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
+      # - name: Set up Google credentials
+      #   run: |
+      #     mkdir -p ${{ github.workspace }}/secrets
+      #     echo "${{ secrets.GOOGLE_CREDENTIALS }}" > ${{ github.workspace }}/secrets/llm-service-account.json
+      #   env:
+      #     GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
 
-      - name: Authenticate with Google Cloud
-        run: |
-          gcloud auth activate-service-account --key-file=${{ github.workspace }}/secrets/llm-service-account.json
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
+      # - name: Authenticate with Google Cloud
+      #   run: |
+      #     gcloud auth activate-service-account --key-file=${{ github.workspace }}/secrets/llm-service-account.json
+      #   env:
+      #     GOOGLE_APPLICATION_CREDENTIALS: ${{ github.workspace }}/secrets/llm-service-account.json
 
-      - name: Verify Authentication
-        run: gcloud auth list
+      # - name: Verify Authentication
+      #   run: gcloud auth list
 
 
       - name: Run tests
