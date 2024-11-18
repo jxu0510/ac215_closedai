@@ -33,6 +33,7 @@ def generate_query_embedding(query):
     rst = embeddings[0].values
     return rst
 
+
 def generate_response(input_prompt, generation_config):
     generative_model = GenerativeModel(
         MODEL_ENDPOINT, system_instruction=[SYSTEM_INSTRUCTION]
@@ -47,9 +48,9 @@ def get_doc_from_client(collection_name, query_embedding):
     results = collection.query(query_embeddings=[query_embedding], n_results=10)
     return results
 
-@app.route('/')
+@app.route("/")
 def index():
-    return render_template('index.html')
+    return render_template("index.html")
 
 
 @app.route("/chat", methods=["POST"])
@@ -71,7 +72,11 @@ def chat():
         input_prompt = f"{query}\n{documents}"
 
         # Generate response using the model
-        generation_config = {"max_output_tokens": 8192, "temperature": 0.25, "top_p": 0.95}
+        generation_config = {
+            "max_output_tokens": 8192,
+            "temperature": 0.25,
+            "top_p": 0.95,
+        }
         response = generate_response(input_prompt, generation_config)
 
         generated_text = response

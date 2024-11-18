@@ -62,7 +62,7 @@ def generate_text_embeddings(chunks, dimensionality: int = 256, batch_size=250):
     # Max batch size is 250 for Vertex AI
     all_embeddings = []
     for i in range(0, len(chunks), batch_size):
-        batch = chunks[i : i + batch_size]
+        batch = chunks[i: i + batch_size]
         inputs = [TextEmbeddingInput(text, "RETRIEVAL_DOCUMENT") for text in batch]
         kwargs = dict(output_dimensionality=dimensionality) if dimensionality else {}
         embeddings = get_embeddings(inputs, **kwargs)
@@ -90,7 +90,7 @@ def load_text_embeddings(df, collection, batch_size=500):
     total_inserted = 0
     for i in range(0, df.shape[0], batch_size):
         # Create a copy of the batch and reset the index
-        batch = df.iloc[i : i + batch_size].copy().reset_index(drop=True)
+        batch = df.iloc[i: i + batch_size].copy().reset_index(drop=True)
 
         ids = batch["id"].tolist()
         documents = batch["chunk"].tolist()
