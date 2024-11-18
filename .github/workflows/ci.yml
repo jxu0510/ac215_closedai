@@ -66,4 +66,6 @@ jobs:
 
       # Step 6: Clean up the environment to free up space
       - name: Clean up Conda environment
-        run: conda env remove -n myenv
+        run: |
+          conda deactivate
+          conda env remove -n myenv
