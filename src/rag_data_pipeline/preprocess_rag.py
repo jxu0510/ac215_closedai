@@ -5,7 +5,6 @@ import glob
 import hashlib
 import chromadb
 
-
 # Vertex AI
 import vertexai
 from vertexai.language_models import TextEmbeddingInput
@@ -35,15 +34,31 @@ generation_config = {
     "top_p": 0.95,  # Use nucleus sampling
 }
 
-book_mappings = {
-    "mh1": {"author": "the first book", "year": 2023},
-    "mh2": {"author": "the second book", "year": 2023},
-    "mh3": {"author": "the third book", "year": 2023},
-    "mh4": {"author": "the fourth book", "year": 2023},
-    "mh5": {"author": "the fifth book", "year": 2023},
-    "mh6": {"author": "the sixth book", "year": 2023},
-    "mh7": {"author": "the seventh book", "year": 2023},
-}
+
+def count_txt_files(folder):
+    text_files = glob.glob(os.path.join(folder, "*.txt"))
+    return len(text_files)
+
+
+def create_book_mappings(folder, year=2023):
+    num_books = count_txt_files(folder)
+    book_mappings = {
+        f"mh{i+1}": {"author": f"the {ordinal(i+1)} book", "year": year}
+        for i in range(num_books)
+    }
+    return book_mappings
+
+
+def ordinal(n):
+    suffixes = {1: "st", 2: "nd", 3: "rd"}
+    if 10 <= n % 100 <= 20:
+        suffix = "th"
+    else:
+        suffix = suffixes.get(n % 10, "th")
+    return f"{n}{suffix}"
+
+
+book_mappings = create_book_mappings(INPUT_FOLDER)
 
 
 def get_embeddings(query_embedding_inputs, **kwargs):
@@ -311,17 +326,17 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="CLI")
 
     parser.add_argument(
-        "--chunk",
+        "--chunk",  # Step 1
         action="store_true",
         help="Chunk text",
     )
     parser.add_argument(
-        "--embed",
+        "--embed",  # Step 2
         action="store_true",
         help="Generate embeddings",
     )
     parser.add_argument(
-        "--load",
+        "--load",  # Step 3
         action="store_true",
         help="Load embeddings to vector db",
     )

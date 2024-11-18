@@ -145,5 +145,5 @@ class TestDownloadFunction(unittest.TestCase):
 
         mock_rmtree.assert_called_once_with("../../data", ignore_errors=True, onerror=None)
         mock_makedirs.assert_called_once_with()
-        mock_client_instance.get_bucket.assert_called_once_with("closed-ai-rag")
+        mock_client_instance.get_bucket.assert_called_once_with("closed-ai")
         mock_bucket.list_blobs.assert_called_once()

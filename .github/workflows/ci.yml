@@ -1,0 +1,66 @@
+name: CI Workflow
+
+on:
+  pull_request:
+    branches:
+      - main
+      - milestone4
+  push:
+    branches:
+      - main
+      - milestone4
+
+permissions:
+  contents: write
+
+jobs:
+  ci-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-update-conda: true
+          python-version: 3.12
+
+      - name: Create Conda environment
+        run: |
+          conda env create -f src/environment1.yaml
+          conda activate myenv
+
+      - name: Install pre-commit and flake8
+        run: |
+          conda activate myenv
+          python -m pip install --upgrade pip
+          pip install pre-commit flake8 pytest pipenv
+
+      - name: Run pre-commit checks
+        run: |
+          conda activate myenv
+          pre-commit run --all-files
+
+      - name: Show flake8 configuration
+        run: |
+          conda activate myenv
+          flake8 --version
+
+      - name: Run tests
+        env:
+          BASE_DIR: ${{ github.workspace }}
+          SECRETS_DIR: ${{ github.workspace }}/secrets/
+          GCP_PROJECT: "xenon-depth-434717-n0"
+          GCS_BUCKET_NAME: "closed-ai"
+          GCS_RAG_BUCKET_NAME: "closed-ai-rag"
+          GOOGLE_APPLICATION_CREDENTIALS: "/secrets/llm-service-account.json"
+          GCP_SERVICE_ACCOUNT: "llm-service-account@xenon-depth-434717-n0.iam.gserviceaccount.com"
+          LOCATION: "us-central1"
+        run: |
+          conda activate myenv
+          pipenv run pytest src/tests/
+
+      - name: Clean up Conda environment
+        run: conda env remove -n myenv

@@ -2,7 +2,8 @@ import os
 import shutil
 from google.cloud import storage
 GCP_PROJECT = os.environ["GCP_PROJECT"]
-GCS_RAG_BUCKET_NAME = "closed-ai-rag"
+GCS_RAG_BUCKET_NAME = "closed-ai"
+RAG_FOLDER = "llm-rag-dataset"
 
 
 def makedirs():
@@ -20,9 +21,13 @@ def download():
 
     blobs = bucket.list_blobs()
     for blob in blobs:
-        print(blob.name)
-        if not blob.name.endswith("/"):
-            blob.download_to_filename("../../data/" + blob.name)
+        # Only download files inside the specified folder
+        if blob.name.startswith(RAG_FOLDER) and not blob.name.endswith("/"):
+            relative_path = blob.name[len(RAG_FOLDER) + 1:]
+            local_path = os.path.join("../../data", relative_path)
+            os.makedirs(os.path.dirname(local_path), exist_ok=True)
+            print(f"Downloading {blob.name} to {local_path}")
+            blob.download_to_filename(local_path)
 
 
 def main():
