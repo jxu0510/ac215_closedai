@@ -20,5 +20,6 @@ dependencies:
       - pytest
       - pytest-mock
       - pytest-flask
+      - scikit-learn
       - selenium
       - pytest-cov
