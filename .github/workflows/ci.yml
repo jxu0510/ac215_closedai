@@ -61,7 +61,8 @@ jobs:
           LOCATION: "us-central1"
         run: |
           conda activate myenv
-          pytest src/tests/
+          cd src
+          pytest tests/
 
       # Step 6: Clean up the environment to free up space
       - name: Clean up Conda environment
