@@ -29,11 +29,14 @@ jobs:
 
       - name: Create Conda environment
         run: |
-          conda env create -f src/environment.yaml
+          source ~/miniconda/etc/profile.d/conda.sh
+          conda env create -f environment.yaml
+          source ~/miniconda/etc/profile.d/conda.sh
           conda activate myenv
 
       - name: Install pre-commit and flake8
         run: |
+          source ~/miniconda/etc/profile.d/conda.sh
           conda activate myenv
           python -m pip install --upgrade pip
           pip install pre-commit flake8 pytest pipenv
@@ -63,4 +66,6 @@ jobs:
           pipenv run pytest src/tests/
 
       - name: Clean up Conda environment
-        run: conda env remove -n myenv
+        run: |
+          source ~/miniconda/etc/profile.d/conda.sh
+          conda env remove -n myenv
