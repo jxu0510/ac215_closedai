@@ -27,9 +27,7 @@ INPUT_FOLDER = "/app/data"
 OUTPUT_FOLDER = "/app/outputs"
 CHROMADB_HOST = "llm-rag-chromadb"
 CHROMADB_PORT = 8000
-vertexai.init(project=GCP_PROJECT, location=GCP_LOCATION)
-# https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/text-embeddings-api#python
-embedding_model = TextEmbeddingModel.from_pretrained(EMBEDDING_MODEL)
+
 # Configuration settings for the content generation
 generation_config = {
     "max_output_tokens": 8192,  # Maximum number of tokens for output
@@ -47,7 +45,8 @@ book_mappings = {
     "mh7": {"author": "the seventh book", "year": 2023},
 }
 
-
+def get_embeddings(query_embedding_inputs, **kwargs):
+    return embedding_model.get_embeddings(query_embedding_inputs, **kwargs)
 def generate_query_embedding(query):
     query_embedding_inputs = [
         TextEmbeddingInput(task_type="RETRIEVAL_DOCUMENT", text=query)
@@ -55,7 +54,7 @@ def generate_query_embedding(query):
     kwargs = (
         dict(output_dimensionality=EMBEDDING_DIMENSION) if EMBEDDING_DIMENSION else {}
     )
-    embeddings = embedding_model.get_embeddings(query_embedding_inputs, **kwargs)
+    embeddings = get_embeddings(query_embedding_inputs, **kwargs)
     return embeddings[0].values
 
 
@@ -66,7 +65,7 @@ def generate_text_embeddings(chunks, dimensionality: int = 256, batch_size=250):
         batch = chunks[i : i + batch_size]
         inputs = [TextEmbeddingInput(text, "RETRIEVAL_DOCUMENT") for text in batch]
         kwargs = dict(output_dimensionality=dimensionality) if dimensionality else {}
-        embeddings = embedding_model.get_embeddings(inputs, **kwargs)
+        embeddings = get_embeddings(inputs, **kwargs)
         all_embeddings.extend([embedding.values for embedding in embeddings])
 
     return all_embeddings
@@ -301,6 +300,9 @@ def main(args=None):
 
 
 if __name__ == "__main__":
+    vertexai.init(project=GCP_PROJECT, location=GCP_LOCATION)
+# https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/text-embeddings-api#python
+    embedding_model = TextEmbeddingModel.from_pretrained(EMBEDDING_MODEL)
     # Generate the inputs arguments parser
     # if you type into the terminal '--help', it will provide the description
     parser = argparse.ArgumentParser(description="CLI")

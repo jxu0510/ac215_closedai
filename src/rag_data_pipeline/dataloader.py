@@ -1,7 +1,6 @@
 import os
 import shutil
 from google.cloud import storage
-
 GCP_PROJECT = os.environ["GCP_PROJECT"]
 GCS_RAG_BUCKET_NAME = "closed-ai-rag"
 
