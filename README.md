@@ -19,6 +19,10 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── .github/
+    └── workflows/
+        └── ci.yml
+
 ├── reports/
 ├── data/
 │   ├── raw/
@@ -27,7 +31,7 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
 │       ├── .dvc
 │       └── .dvcignore
 ├── src/
-│   ├── app/
+│   ├── service/
 │   │   ├── app.py
 │   │   ├── docker-entrypoint.sh
 │   │   └── docker-compose.yml
@@ -58,6 +62,7 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
 │   │   └── Pipfile.lock
 └── env/
     └── env.dev
+
 ```
 
 #### Data
