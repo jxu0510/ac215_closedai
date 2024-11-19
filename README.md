@@ -210,14 +210,10 @@ TOTAL                                   561    177    68%
 
 Follow these steps to replicate the test results locally:
 
-1. **Navigate to the `src` directory**:
-- `cd src`
+1. **Navigate to the `src` directory**: `cd src`
 
-2. **Export the environment variables**:
-- `source env.dev`
+2. **Export the environment variables**: `source env.dev`
 
-3. **Install the conda environment**:
-- `conda env create -f environment.yaml`
+3. **Install the conda environment**: `conda env create -f environment.yaml`
 
-4. **Generate the test report**:
-- `pytest --cov=. tests/`
+4. **Generate the test report**: `pytest --cov=. tests/`
