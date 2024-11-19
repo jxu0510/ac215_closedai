@@ -16,60 +16,72 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
 #### Project Organization
 
 ```
-├── README.md
 ├── LICENSE
-├── .gitignore
-├── .github/
-    └── workflows/
-        └── ci.yml
-
-├── reports/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── rag_dataset/
-│       ├── .dvc
-│       └── .dvcignore
-├── src/
-│   ├── service/
-│   │   ├── app.py
-│   │   ├── docker-entrypoint.sh
-│   │   └── docker-compose.yml
-│   ├── finetune_data/
-│   │   ├── prepare_data.py
-│   │   ├── Dockerfile
-│   │   ├── docker-shell.sh
-│   │   ├── Pipfile
-│   │   └── Pipfile.lock
-│   ├── finetune_model/
-│   │   ├── finetune.py
-│   │   ├── Dockerfile
-│   │   ├── docker-shell.sh
-│   │   ├── Pipfile
-│   │   └── Pipfile.lock
-│   ├── rag_data_pipeline/
-│   │   ├── dataloader.py
-│   │   ├── preprocess_rag.py
-│   │   ├── Dockerfile
-│   │   ├── docker-shell.sh
-│   │   ├── Pipfile
-│   │   └── Pipfile.lock
-│   ├── rag_model/
-│   │   ├── model.py
-│   │   ├── Dockerfile
-│   │   ├── docker-shell.sh
-│   │   ├── Pipfile
-│   │   └── Pipfile.lock
-└── env/
-    └── env.dev
-
+├── Pipfile
+├── README.md
+├── reports
+│   ├── ac215_ms2_deliverable.pdf
+│   ├── ac215_ms3_deliverable.pdf
+│   └── mockup.pdf
+└── src
+    ├── data_versioning
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── docker-entrypoint.sh
+    │   ├── docker-shell.sh
+    │   ├── rag_dataset
+    │   └── rag_dataset.dvc
+    ├── docker-compose.yml
+    ├── docker-entrypoint.sh
+    ├── env.dev
+    ├── environment.yaml
+    ├── finetune_data
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── docker-shell.sh
+    │   └── prepare_data.py
+    ├── finetune_model
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── docker-shell.sh
+    │   └── finetune.py
+    ├── rag_data_pipeline
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── dataloader.py
+    │   ├── docker-shell.sh
+    │   └── preprocess_rag.py
+    ├── rag_model
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── docker-shell.sh
+    │   └── model.py
+    ├── service
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── app.py
+    │   ├── docker-shell.sh
+    │   └── templates
+    │       └── index.html
+    └── tests
+        ├── conftest.py
+        ├── test_integrate.py
+        ├── test_system.py
+        └── test_unit.py
 ```
 
 #### Data
 
 For finetuning the model, we gathered a dataset of 658 mental health-related Q&A conversations, consisting of 594 training samples and 64 test samples. The dataset includes conversations covering various mental health topics, such as anxiety and depression, and is structured to provide emotional support through chatbot responses. The dataset was sourced from mental health FAQ, classical therapy conversations, and general advice interactions. It has been preprocessed and stored in a format suitable for fine-tuning models, which enables a chatbot to assist users with mental health concerns by identifying intents and providing appropriate responses.
 
-For the RAG model, we gathered 7 academic papers on psychological and mental health counseling in .txt format. This dataset enhances the chatbot's ability to provide accurate, research-based mental health support. This dataset serves as a key resource for enhancing the chatbot's ability to provide accurate and contextually relevant mental health support.
+For the RAG model, we curated a dataset of academic papers on psychological and mental health counseling specifically targeting teenagers and younger adults. These papers, stored in .txt format, were carefully selected to focus on mental health challenges and therapeutic approaches relevant to this demographic. This dataset enhances the chatbot's ability to provide accurate, research-based mental health support tailored to the needs of teenagers and younger adults, ensuring the responses are contextually relevant and specialized for their unique emotional and psychological challenges.
+
 
 ## Data Pipeline Overview
 
@@ -107,32 +119,52 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 - run `sh docker-shell.sh`.
 
 **Containers**
-1. Data Preparation Container: This container processes the dataset, preparing it for model fine-tuning. It works with a labeled dataset of questions and responses.
 
-	**Input:** Raw datasets and environment variables (e.g., GCP project name, GCS bucket name) stored in `env.dev`.
+1. **Data Preparation Container**
+   This container preprocesses raw datasets to create `train.jsonl` and `test.jsonl` files, which are then uploaded to a Google Cloud Storage (GCS) bucket for model fine-tuning.
+   - **Input:** Raw datasets and environment variables (e.g., GCP project name, GCS bucket name) stored in `env.dev`.
+   - **Output:** Preprocessed datasets (`train.jsonl`, `test.jsonl`) stored in GCS.
 
-	**Output:** Generates `train.jsonl` and `test.jsonl` files, which are then uploaded to the specified GCS bucket.
+2. **Model Fine-Tuning Container**
+   This container handles the fine-tuning process for the model using the preprocessed data.
+   - **Input:** Preprocessed datasets (`train.jsonl` and `test.jsonl`) stored in GCS.
+   - **Output:** A fine-tuned model deployed to a Google Cloud endpoint.
 
-2. Model Fine-Tuning Container: This container performs the model fine-tuning process.
+3. **RAG Workflow Preparation Container**
+   This container prepares data for the Retrieval-Augmented Generation (RAG) workflow by downloading raw academic papers from GCS, chunking the data, generating embeddings, and populating the ChromaDB vector database.
+   - **Input:** Source and destination GCS locations and secrets passed via `env.dev`.
+   - **Output:** A ChromaDB database stored locally.
 
-	**Input:** The `train.jsonl` and `test.jsonl` stored on GCS.
+4. **RAG Workflow Execution Container**
+   This container executes the RAG workflow using the fine-tuned model and vector database to generate chatbot responses.
+   - **Input:** The fine-tuned model endpoint deployed on GCP and the ChromaDB vector database.
+   - **Output:** Contextually relevant chatbot responses.
 
-	**Output:** A fine-tuned model deployed to a Google Cloud endpoint.
+5. **Data Versioning Container**
+   This container manages data versioning for the datasets using DVC (Data Version Control). It facilitates tracking changes to the dataset, storing metadata, and ensuring reproducibility.
+   - **Input:** Raw data and versioning configuration files (e.g., `.dvc`, `.dvcignore`).
+   - **Output:** Updated versioned datasets and metadata stored in GCS or local storage.
 
-3. RAG Workflow Preparation Container: This container handles the setup for the Retrieval-Augmented Generation (RAG) workflow, including downloading raw data from GCS, chunking it, generating embeddings, and populating the vector database.
+6. **Service Container**
+   This container serves the chatbot application as a web-based interface for user interaction. It connects with the fine-tuned model and RAG workflow.
+   - **Input:** User queries via the web interface and backend connections to the model and database.
+   - **Output:** Chatbot responses displayed on the web application.
+   - **Access the Application:**
+     Open [http://localhost:8000](http://localhost:8000) in your browser to interact with the chatbot.
 
-	**Input:** Source and destination GCS locations, along with any necessary secrets (passed via Docker).
-
-	**Output:** A ChromaDB database stored locally.
-
-4. RAG Workflow Execution Container: This container runs the RAG workflow using the fine-tuned model.
-
-	**Input:** The fine-tuned model endpoint on GCP.
-
-	**Output:** A chatbot that processes user inputs and generates responses using the fine-tuned LLM.
+**General Note:**
+Make sure you have Docker installed and that the required `env.dev` file is present in the respective directories before running any containers.
 
 
 ## Data Versioning
 
+We maintain a history of data version changes using DVC (Data Version Control) specifically for managing the datasets used in the Retrieval-Augmented Generation (RAG) workflow. DVC is utilized to track and manage larger data files, including raw academic papers, preprocessed chunks, and vector embeddings. This setup enables us to track changes in the RAG datasets, compare iterations, and revert to previous versions if necessary.
 
-We maintain a history of prompt changes through Git's version control, allowing us to manage updates, compare iterations, and revert to previous versions if necessary. Each version of a prompt is committed with detailed messages, ensuring transparency in modifications and facilitating collaboration across the team.
+All updates to the RAG datasets are managed directly through DVC, ensuring transparency and facilitating collaboration across the team.
+
+
+## Front-end Application
+
+We implement a web-based interface designed to facilitate user interaction with the chatbot. It acts as the primary point of communication where users can submit their queries. The interface processes these inputs, communicates with the backend to connect with the fine-tuned model and RAG workflow, and displays the generated chatbot responses to the user. The application is accessible via a local URL and is optimized for seamless interaction, delivering real-time query-response exchanges.
+
+Users can input mental-health related inquiries to the "type your message" section and click send to receive real-time responses from out chatbot.
