@@ -9,7 +9,7 @@ Nina Mao, Yunxiao Tang, Jiayi Xu, Xinjie Yi
 #### Project
 In this project, we aim to develop an AI-powered mental healing application. The app will feature advanced conversational technology to engage in meaningful dialogue with individuals experiencing negative psychological states. Powered by fine-tuned GEMINI and RAG models, the application is designed to offer specialized mental healing support. Users can interact with the app through natural conversations, where it draws from a wealth of expert psychology literature to provide professional, evidence-based mental health guidance. Whether users are dealing with stress, anxiety, or other emotional challenges, the app offers personalized therapeutic advice, helping them navigate difficult emotions and promote mental well-being.
 
-## Milestone 3
+## Milestone 4
 
 In this milestone, we have completed the basics of front-end to connect with our model endpoint and created presentation slides for mid-term presentation.
 
@@ -42,15 +42,22 @@ In this milestone, we have completed the basics of front-end to connect with our
     │   ├── preprocess_rag.py
     │   ├── Pipfile
     │   └── Pipfile.lock
-    └── rag_model
+    └── service
+    │   ├── templates   
+    │   │   ├── index.html
     │   ├── docker-shell.sh
     │   ├── Dockerfile
-    │   ├── model.py
+    │   ├── app.py
     │   ├── Pipfile
     │   └── Pipfile.lock
-    └── app.py
+    └── tests
+    │   ├── conftest.py
+    │   ├── test_integrate.py
+    │   ├── test_system.py
+    │   └── test_unit.py
     ├── docker-compose.yml
     ├── docker-entrypoint.sh
+    ├── environment.yaml
     └── env.dev
 ```
 
@@ -125,3 +132,92 @@ For the RAG model, we gathered 7 academic papers on psychological and mental hea
 
 
 We maintain a history of prompt changes through Git's version control, allowing us to manage updates, compare iterations, and revert to previous versions if necessary. Each version of a prompt is committed with detailed messages, ensuring transparency in modifications and facilitating collaboration across the team.
+
+
+## Test Documentation
+
+### Testing Tools
+
+- **PyTest**: Utilized for testing integration and system functionalities.
+- **Unittest**: Used for unit testing individual modules and their interactions.
+- **Mock**: Used extensively for simulating external dependencies, such as VertexAI and Chromadb to isolate test environments.
+
+### Testing Strategy
+
+#### 1. Unit Tests
+
+Unit tests validate individual components in isolation:
+
+##### `TestFineTuningScript`
+
+- **`test_train`**: Ensures the fine-tuning process is executed with correct parameters and produces expected outputs.
+
+##### `TestLLMFineTuningData`
+
+- **`test_prepare`**: Verifies finetunedata preparation splits intents into training and testing datasets and writes them to correct files.
+
+##### `TestPreprocessRag`
+
+- **`test_generate_query_embedding`**: Tests query embedding generation and ensures embeddings match expected structure.  
+- **`test_generate_text_embeddings`**: Validates text embedding generation for multiple input chunks.  
+- **`test_load`**: Ensures embeddings, chunks, and metadata are correctly added to the ChromaDB collection.  
+- **`test_query`**: Tests querying embeddings and validates results returned from the ChromaDB collection.  
+- **`test_get`**: Verifies document retrieval from ChromaDB using filters.
+
+##### `TestDownloadFunction`
+
+- **`test_download`**: Ensures data for the RAG system is correctly downloaded from Google Cloud Storage and handled appropriately.
+
+#### 2. Integration Tests
+
+Integration tests ensure that multiple components work together as expected:
+
+- **`test_integration`**: Validates interactions with the ChromaDB client in the RAG process by testing the following:
+  - Text embeddings are correctly loaded into the collection with proper metadata and IDs.
+  - Queries return expected results from the collection.
+  - Document retrieval works with specified filters and returns the expected data.
+
+#### 3. System Tests
+
+System tests Covering user flows and interactions:
+
+- **`test_chat_route`**: Pretends to be a user and tests the `/chat` endpoint for a valid input message and verifies the correct response is generated.
+
+- **`test_no_input_route`**: Pretends to be a user and tests the `/chat` endpoint for a missing input message and ensures an appropriate error response is returned.
+
+### Test Coverage Report
+
+Below is the code coverage summary from the most recent test suite run:
+
+```plaintext
+---------- coverage: platform darwin, python 3.12.0-final-0 ----------
+Name                                  Stmts   Miss  Cover
+---------------------------------------------------------
+finetune_data/prepare_data.py            66     23    65%
+finetune_model/finetune.py               50     21    58%
+rag_data_pipeline/dataloader.py          26      8    69%
+rag_data_pipeline/preprocess_rag.py     185    101    45%
+service/app.py                           58     24    59%
+tests/conftest.py                        12      0   100%
+tests/test_integrate.py                  37      0   100%
+tests/test_system.py                     25      0   100%
+tests/test_unit.py                      102      0   100%
+---------------------------------------------------------
+TOTAL                                   561    177    68%
+```
+
+### Instructions to Run Tests Manually
+
+Follow these steps to replicate the test results locally:
+
+1. **Navigate to the `src` directory**:
+- `cd src`
+
+2. **Export the environment variables**:
+- `source env.dev`
+
+3. **Install the conda environment**:
+- `conda env create -f environment.yaml`
+
+4. **Generate the test report**:
+- `pytest --cov=. tests/`
