@@ -9,10 +9,9 @@ Nina Mao, Yunxiao Tang, Jiayi Xu, Xinjie Yi
 #### Project
 In this project, we aim to develop an AI-powered mental healing application. The app will feature advanced conversational technology to engage in meaningful dialogue with individuals experiencing negative psychological states. Powered by fine-tuned GEMINI and RAG models, the application is designed to offer specialized mental healing support. Users can interact with the app through natural conversations, where it draws from a wealth of expert psychology literature to provide professional, evidence-based mental health guidance. Whether users are dealing with stress, anxiety, or other emotional challenges, the app offers personalized therapeutic advice, helping them navigate difficult emotions and promote mental well-being.
 
-## Milestone 3
+## Milestone 4
 
-In this milestone, we have completed the basics of front-end to connect with our model endpoint and created presentation slides for mid-term presentation.
-
+In Milestone 4, we successfully implemented Continuous Integration (CI) using GitHub Actions, automating the build, linting, and testing processes to ensure seamless validation of new code merges. We also implemented tests and reached a coverage rate of 59.2%.
 
 #### Project Organization
 
@@ -20,37 +19,44 @@ In this milestone, we have completed the basics of front-end to connect with our
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-├── reports
-├── data
-└── src
-    ├── finetune_data
-    │   ├── docker-shell.sh
-    │   ├── Dockerfile
-    │   ├── prepare_data.py
-    │   ├── Pipfile
-    │   └── Pipfile.lock
-    └── finetune_model
-    │   ├── docker-shell.sh
-    │   ├── Dockerfile
-    │   ├── finetune.py
-    │   ├── Pipfile
-    │   └── Pipfile.lock
-    └── rag_data_pipeline
-    │   ├── docker-shell.sh
-    │   ├── Dockerfile
-    │   ├── dataloader.py
-    │   ├── preprocess_rag.py
-    │   ├── Pipfile
-    │   └── Pipfile.lock
-    └── rag_model
-    │   ├── docker-shell.sh
-    │   ├── Dockerfile
-    │   ├── model.py
-    │   ├── Pipfile
-    │   └── Pipfile.lock
-    └── app.py
-    ├── docker-compose.yml
-    ├── docker-entrypoint.sh
+├── reports/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── rag_dataset/
+│       ├── .dvc
+│       └── .dvcignore
+├── src/
+│   ├── app/
+│   │   ├── app.py
+│   │   ├── docker-entrypoint.sh
+│   │   └── docker-compose.yml
+│   ├── finetune_data/
+│   │   ├── prepare_data.py
+│   │   ├── Dockerfile
+│   │   ├── docker-shell.sh
+│   │   ├── Pipfile
+│   │   └── Pipfile.lock
+│   ├── finetune_model/
+│   │   ├── finetune.py
+│   │   ├── Dockerfile
+│   │   ├── docker-shell.sh
+│   │   ├── Pipfile
+│   │   └── Pipfile.lock
+│   ├── rag_data_pipeline/
+│   │   ├── dataloader.py
+│   │   ├── preprocess_rag.py
+│   │   ├── Dockerfile
+│   │   ├── docker-shell.sh
+│   │   ├── Pipfile
+│   │   └── Pipfile.lock
+│   ├── rag_model/
+│   │   ├── model.py
+│   │   ├── Dockerfile
+│   │   ├── docker-shell.sh
+│   │   ├── Pipfile
+│   │   └── Pipfile.lock
+└── env/
     └── env.dev
 ```
 
