@@ -5,7 +5,6 @@ from unittest.mock import MagicMock, patch
 
 @pytest.fixture
 def mock_chromadb_client():
-    """Mock the ChromaDB client."""
     mock_client = MagicMock()
     mock_collection = MagicMock()
     mock_client.create_collection.return_value = mock_collection
@@ -17,11 +16,6 @@ def mock_chromadb_client():
 def test_integration(mock_http_client, mock_chromadb_client):
     mock_client, mock_collection = mock_chromadb_client
     mock_http_client.return_value = mock_client
-    input_texts = [
-        "This is the content of book 1.",
-        "This is the content of book 2.",
-        "This is the content of book 3.",
-    ]
     input_books = ["book_1", "book_2", "book_3"]
 
     chunks = [
@@ -52,11 +46,10 @@ def test_integration(mock_http_client, mock_chromadb_client):
 
 
 def load_text_embeddings(df, collection, batch_size=500):
-    """Simulate loading text embeddings into ChromaDB."""
     df["id"] = [f"mock_id_{i}" for i in range(len(df))]
     total_inserted = 0
     for i in range(0, df.shape[0], batch_size):
-        batch = df.iloc[i : i + batch_size]
+        batch = df.iloc[i:i + batch_size]
         collection.add(
             ids=batch["id"].tolist(),
             documents=batch["chunk"].tolist(),
