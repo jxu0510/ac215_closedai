@@ -88,7 +88,7 @@ def chat():
 
     except Exception as e:
         print(e)
-        return jsonify({"reply": f"{e},Error: Could not generate a response."}), 500
+        return jsonify({"reply": f"{e}, Error: Could not generate a response."}), 500
 
 
 if __name__ == "__main__":
