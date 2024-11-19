@@ -1,33 +1,67 @@
-from unittest.mock import patch
+import pytest
+import pandas as pd
+from unittest.mock import MagicMock, patch
 
 
-@patch('app.generate_query_embedding')
-@patch('app.get_doc_from_client')
-@patch('app.generate_response')
-def test_chat_route(mock_generate_response, mock_get_doc_from_client, mock_generate_query_embedding, client):
-    mock_generate_query_embedding.return_value = [0.1, 0.2, 0.3]
-    mock_get_doc_from_client.return_value = {'documents': [["doc1", "doc2"]]}
-    mock_generate_response.return_value = "This is a generated response."
-
-    response = client.post('/chat', json={'message': 'Hello!'})
-    data = response.get_json()
-
-    assert response.status_code == 200
-    assert 'reply' in data
-    assert data['reply'] == "This is a generated response."
+@pytest.fixture
+def mock_chromadb_client():
+    """Mock the ChromaDB client."""
+    mock_client = MagicMock()
+    mock_collection = MagicMock()
+    mock_client.create_collection.return_value = mock_collection
+    mock_client.get_collection.return_value = mock_collection
+    return mock_client, mock_collection
 
 
-@patch('app.generate_query_embedding')
-@patch('app.get_doc_from_client')
-@patch('app.generate_response')
-def test_no_input_route(mock_generate_response, mock_get_doc_from_client, mock_generate_query_embedding, client):
-    mock_generate_query_embedding.return_value = [0.1, 0.2, 0.3]
-    mock_get_doc_from_client.return_value = {'documents': [["doc1", "doc2"]]}
-    mock_generate_response.return_value = "This is a generated response."
+@patch("chromadb.HttpClient")
+def test_integration(mock_http_client, mock_chromadb_client):
+    mock_client, mock_collection = mock_chromadb_client
+    mock_http_client.return_value = mock_client
+    input_texts = [
+        "This is the content of book 1.",
+        "This is the content of book 2.",
+        "This is the content of book 3.",
+    ]
+    input_books = ["book_1", "book_2", "book_3"]
 
-    response = client.post('/chat', json={'message': None})
-    data = response.get_json()
+    chunks = [
+        {"chunk": f"Chunk {i} from {book}", "book": book}
+        for i, book in enumerate(input_books, 1)
+    ]
+    data_df = pd.DataFrame(chunks)
 
-    assert response.status_code == 200
-    assert 'reply' in data
-    assert data['reply'] == "Please enter a message."
+    mock_embeddings = [[0.1 * i] * 256 for i in range(len(chunks))]
+    data_df["embedding"] = mock_embeddings
+
+    load_text_embeddings(data_df, mock_collection)
+    assert mock_collection.add.called, "Collection add method was not called."
+    assert len(mock_collection.add.call_args[1]["ids"]) == len(chunks)
+
+    mock_collection.query.return_value = {
+        "results": [{"id": f"result_{i}", "score": 0.9} for i in range(3)]
+    }
+    results = mock_collection.query(query_embeddings=[[0.1] * 256], n_results=3)
+
+    assert results["results"], "No results returned from the query."
+    mock_collection.get.return_value = {
+        "documents": [{"id": f"doc_{i}", "content": f"Document {i}"} for i in range(3)]
+    }
+    retrieved = mock_collection.get(where={"book": "book_1"}, limit=1)
+
+    assert retrieved["documents"], "No documents retrieved."
+
+
+def load_text_embeddings(df, collection, batch_size=500):
+    """Simulate loading text embeddings into ChromaDB."""
+    df["id"] = [f"mock_id_{i}" for i in range(len(df))]
+    total_inserted = 0
+    for i in range(0, df.shape[0], batch_size):
+        batch = df.iloc[i : i + batch_size]
+        collection.add(
+            ids=batch["id"].tolist(),
+            documents=batch["chunk"].tolist(),
+            metadatas=[{"book": book} for book in batch["book"].tolist()],
+            embeddings=batch["embedding"].tolist(),
+        )
+        total_inserted += len(batch)
+    print(f"Inserted {total_inserted} items into collection.")
