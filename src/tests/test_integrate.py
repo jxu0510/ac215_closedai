@@ -49,7 +49,7 @@ def load_text_embeddings(df, collection, batch_size=500):
     df["id"] = [f"mock_id_{i}" for i in range(len(df))]
     total_inserted = 0
     for i in range(0, df.shape[0], batch_size):
-        batch = df.iloc[i:i + batch_size]
+        batch = df.iloc[i: i + batch_size]
         collection.add(
             ids=batch["id"].tolist(),
             documents=batch["chunk"].tolist(),
