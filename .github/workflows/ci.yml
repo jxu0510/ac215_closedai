@@ -57,7 +57,13 @@ jobs:
         run: |
           conda activate myenv
           cd src
-          pytest tests/ --cov
+          pytest tests/ --cov-report=html
+
+      - name: Upload Coverage Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: coverage-report
+          path: htmlcov/
 
       - name: Clean up Conda environment
         run: |
