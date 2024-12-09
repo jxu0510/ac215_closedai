@@ -56,11 +56,15 @@ body {
 
 /* 聊天区域 */
 .hero {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding-top: 120px; /* 避开导航栏 */
-    width: 70%;
+    display: flex; /* 使用 Flexbox 布局 */
+    flex-direction: column; /* 子元素垂直排列 */
+    align-items: center; /* 子元素水平居中 */
+    justify-content: flex-start; /* 子元素从顶部开始排列 */
+    padding-top: 150px; /* 确保聊天框与导航栏间距适当 */
+    width: 100%; /* 父容器占满屏幕宽度 */
+    height: calc(100vh - 150px); /* 动态调整高度，适配屏幕 */
+    margin: 0 auto; /* 确保居中 */
+    box-sizing: border-box; /* 包括内边距在宽高计算内 */
 }
 
 /* 聊天窗口样式 */
