@@ -9,7 +9,7 @@ Nina Mao, Yunxiao Tang, Jiayi Xu, Xinjie Yi
 #### Project
 In this project, we aim to develop an AI-powered mental healing application. The app will feature advanced conversational technology to engage in meaningful dialogue with individuals experiencing negative psychological states. Powered by fine-tuned GEMINI and RAG models, the application is designed to offer specialized mental healing support. Users can interact with the app through natural conversations, where it draws from a wealth of expert psychology literature to provide professional, evidence-based mental health guidance. Whether users are dealing with stress, anxiety, or other emotional challenges, the app offers personalized therapeutic advice, helping them navigate difficult emotions and promote mental well-being.
 
-## Milestone 4
+## Milestone 5
 
 In Milestone 4, we successfully implemented Continuous Integration (CI) using GitHub Actions, automating the build, linting, and testing processes to ensure seamless validation of new code merges. We also implemented tests and reached a coverage rate of 59.2%.
 
@@ -253,3 +253,15 @@ Follow these steps to replicate the test results locally:
 3. **Install the conda environment**: `conda env create -f environment.yaml`
 
 4. **Generate the test report**: `pytest --cov=. tests/`
+
+
+## Known issues and limitations
+
+1. Overdependence on RAG Dataset
+The chatbot currently relies heavily on the Retrieval-Augmented Generation (RAG) workflow, resulting in responses that are overly factual and rigid, which lacks the conversational and empathetic tone users expect. This overdependence on academic papers can make response
+
+2. Quality of RAG Dataset
+The current RAG workflow is limited by the insufficient quantity and diversity of academic papers on mental health counseling for younger adults. This restricts the chatbot’s ability to address a wide range of queries, even within this demographic. Expanding the dataset to cover more topics will improve the chatbot’s relevance and responsiveness while balancing factual content with conversational flexibilit
+
+3. Limited Model Exploration and Flexibility
+The chatbot’s current performance is restricted by our reliance on a single language model—GEMINI. While GEMINI’s integration with GCP made it a good basic model, we have not yet investigated how other large language models, such as GPT and Llama, might influence the quality, tone, or adaptability of responses. Exploring alternative models could provide opportunities for more helpful and domain-specific dialogues.
