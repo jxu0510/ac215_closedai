@@ -6,49 +6,73 @@
   - name: "Get timestamp for docker tag"
     shell: "(date +%Y%m%d%H%M%S)"
     register: tag
+
   - name: Print tag
     debug:
-      var: tag
-  - name: Build frontend container image
+      var: tag.stdout
+
+  - name: Build finetune_data container image
     community.general.docker_image:
       build:
-        path: /frontend-react
+        path: /finetune_data
         platform: linux/amd64/v2
-      name: gcr.io/{{ gcp_project }}/cheese-app-frontend-react:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/finetune-data:{{ tag.stdout }}
       source: build
-  - name: Push frontend image to GCR
+
+  - name: Push finetune_data image to GCR
     community.general.docker_image:
-      name: gcr.io/{{ gcp_project }}/cheese-app-frontend-react:{{ tag.stdout}}
-      repository: gcr.io/{{ gcp_project }}/cheese-app-frontend-react:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/finetune-data:{{ tag.stdout }}
+      repository: gcr.io/{{ gcp_project }}/finetune-data
       push: yes
       source: local
-  - name: Build api-service container image
+
+  - name: Build finetune_model container image
     community.general.docker_image:
       build:
-        path: /api-service
+        path: /finetune_model
         platform: linux/amd64/v2
-      name: gcr.io/{{ gcp_project }}/cheese-app-api-service:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/finetune-model:{{ tag.stdout }}
       source: build
-  - name: Push api-service image to GCR
+
+  - name: Push finetune_model image to GCR
     community.general.docker_image:
-      name: gcr.io/{{ gcp_project }}/cheese-app-api-service:{{ tag.stdout}}
-      repository: gcr.io/{{ gcp_project }}/cheese-app-api-service:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/finetune-model:{{ tag.stdout }}
+      repository: gcr.io/{{ gcp_project }}/finetune-model
       push: yes
       source: local
-  - name: Build vector-db-cli container image
+
+  - name: Build rag_data_pipeline container image
     community.general.docker_image:
       build:
-        path: /vector-db
+        path: /rag_data_pipeline
         platform: linux/amd64/v2
-      name: gcr.io/{{ gcp_project }}/cheese-app-vector-db-cli:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}
       source: build
-  - name: Push vector-db-cli image to GCR
+
+  - name: Push rag_data_pipeline image to GCR
     community.general.docker_image:
-      name: gcr.io/{{ gcp_project }}/cheese-app-vector-db-cli:{{ tag.stdout}}
-      repository: gcr.io/{{ gcp_project }}/cheese-app-vector-db-cli:{{ tag.stdout}}
+      name: gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}
+      repository: gcr.io/{{ gcp_project }}/rag-data-pipeline
       push: yes
       source: local
+
+  - name: Build service container image
+    community.general.docker_image:
+      build:
+        path: /service
+        platform: linux/amd64/v2
+      name: gcr.io/{{ gcp_project }}/service:{{ tag.stdout }}
+      source: build
+
+  - name: Push service image to GCR
+    community.general.docker_image:
+      name: gcr.io/{{ gcp_project }}/service:{{ tag.stdout }}
+      repository: gcr.io/{{ gcp_project }}/service
+      push: yes
+      source: local
+
   - name: "Save docker tag"
-    shell: echo {{ tag.stdout}} > .docker-tag
+    shell: echo {{ tag.stdout }} > .docker-tag
+
   - name: "Remove all unused containers"
-    shell: docker system prune -a
+    shell: docker system prune -a -f
