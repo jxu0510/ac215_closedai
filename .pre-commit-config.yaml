@@ -7,6 +7,7 @@ repos:
       - id: end-of-file-fixer
         exclude: ^src/data_versioning/\.dvc/cache/.*$
       - id: check-yaml
+        args: [--allow-multiple-documents]
 
   - repo: https://github.com/pycqa/flake8
     rev: 6.0.0
