@@ -11,7 +11,7 @@ In this project, we aim to develop an AI-powered mental healing application. The
 
 ## Milestone 5
 
-In Milestone 4, we successfully implemented Continuous Integration (CI) using GitHub Actions, automating the build, linting, and testing processes to ensure seamless validation of new code merges. We also implemented tests and reached a coverage rate of 59.2%.
+In Milestone 5, we deployed the application to a Kubernetes cluster, demonstrating scalability by manually adjusting load levels. We wrote Ansible playbooks to automate the provisioning and deployment of both the Kubernetes cluster and the application. A CI/CD pipeline was implemented using GitHub Actions to automate testing, integration, and deployment, ensuring at least 60% test coverage and documenting untested modules. Finally, we integrated a production-ready ML workflow with automated data preprocessing, model training and deploying.
 
 #### Project Organization
 
@@ -61,14 +61,28 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
     │   ├── Pipfile.lock
     │   ├── docker-shell.sh
     │   └── model.py
+    ├── deployment
     ├── service
     │   ├── Dockerfile
     │   ├── Pipfile
     │   ├── Pipfile.lock
     │   ├── app.py
+    │   ├── docker-entrypoint.sh
     │   ├── docker-shell.sh
+    │   ├── static
+    │   │   ├── styles.css
+    │   │   └── assets
+    │   │       └── chat_background.png
     │   └── templates
     │       └── index.html
+    ├── vectordb
+    │   ├── Dockerfile
+    │   ├── Pipfile
+    │   ├── Pipfile.lock
+    │   ├── cli.py
+    │   ├── docker-entrypoint.sh
+    │   ├── docker-shell.sh
+    │   └── docker-compose.yml
     └── tests
         ├── conftest.py
         ├── test_integrate.py
@@ -76,186 +90,110 @@ In Milestone 4, we successfully implemented Continuous Integration (CI) using Gi
         └── test_unit.py
 ```
 
-#### Data
+## **1. Prerequisites and Setup Instructions**
 
-For finetuning the model, we gathered a dataset of 658 mental health-related Q&A conversations, consisting of 594 training samples and 64 test samples. The dataset includes conversations covering various mental health topics, such as anxiety and depression, and is structured to provide emotional support through chatbot responses. The dataset was sourced from mental health FAQ, classical therapy conversations, and general advice interactions. It has been preprocessed and stored in a format suitable for fine-tuning models, which enables a chatbot to assist users with mental health concerns by identifying intents and providing appropriate responses.
+### **1.1 Prerequisites**
+#### Software Requirements
+- Docker 
+- Kubernetes 
+- Ansible
+- Python 
+- Git 
+- pipenv
 
-For the RAG model, we curated a dataset of academic papers on psychological and mental health counseling specifically targeting teenagers and younger adults. These papers, stored in .txt format, were carefully selected to focus on mental health challenges and therapeutic approaches relevant to this demographic. This dataset enhances the chatbot's ability to provide accurate, research-based mental health support tailored to the needs of teenagers and younger adults, ensuring the responses are contextually relevant and specialized for their unique emotional and psychological challenges.
+#### Cloud Provider
+- A Google Cloud Platform (GCP) project with Compute Engine and Kubernetes Engine enabled.
 
+#### Service Accounts
+1. Create a GCP service account with permissions for Kubernetes and Compute Engine.
+2. Download the service account key (`.json`).
+3. Set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable:
+   ```bash
+   export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
+   ```
 
-## Data Pipeline Overview
+### **1.2 Setup Instructions**
+#### Clone the Repository
+   ```bash
+   git clone git@github.com:jxu0510/ac215_closedai.git
+   ``` 
+#### Configure Ansible Inventory
+Edit the inventory.yml file to define your target hosts and GCP configurations.
 
-1. **`src/finetune_data/prepare_data.py`**
-   This script handles preprocessing on our mental health dataset with 658 mental health-related Q&A conversations. The preprocessed train and test dataaets arestored on GCS.
+#### API's to Enable in GCP
+Search for each of these in the GCP search bar and click enable to enable these API's
+* Compute Engine API
+* Service Usage API
+* Cloud Resource Manager API
+* Google Container Registry API
 
-2. **`src/rag_data_pipeline/dataloader.py`**
-   This script prepares the necessary data for setting up our vector database. It downloads pychological paper raw data from the GCS.
+#### Setup GCP Service Account
+- Go to [GCP Console](https://console.cloud.google.com/home/dashboard), search for  "Service accounts" from the top search box. or go to: "IAM & Admins" > "Service accounts" from the top-left menu and create a new service account called "deployment". 
+- For `deployment`:
+    - Compute Admin
+    - Compute OS Login
+    - Container Registry Service Agent
+    - Kubernetes Engine Admin
+    - Service Account User
+    - Storage Admin
+- Rename the json key file to `deployment.json`
+- Follow the same process Create another service account called `gcp-service`
+- For `gcp-service` give the following roles:
+    - Storage Object Viewer
+    - Vertex AI Administrator
+- Rename the json key file to `gcp-service.json`
 
-3. **`src/rag_data_pipeline/preprocess_rag.py`**
-   This script prepares the necessary data for setting up our vector database. It performs chunking, embedding and loading data to the ChromaDB database in the localhost.
-
-4. **`src/**/Pipfile`**
-   We use the following packages to help:
-   - user-agent
-   - requests
-   - google-cloud-storage
-   - google-generativeai
-   - google-cloud-aiplatform
-   - pandas
-   - scikit-learn
-   - langchain
-   - llama-index
-   - chromadb
-   - langchain-community
-
-5. **`src/**/Dockerfile`**
-   Our Dockerfiles follow standard conventions, with the exception of some specific modifications described in the Dockerfile part below.
-
-## Docker and Containerization
-
-**Running Dockerfile**
-- navigate to the target folder.
-- run `pipenv install` to create Pipfile.lock.
-- run `sh docker-shell.sh`.
-
-**Containers**
-
-1. **Data Preparation Container**
-   This container preprocesses raw datasets to create `train.jsonl` and `test.jsonl` files, which are then uploaded to a Google Cloud Storage (GCS) bucket for model fine-tuning.
-   - **Input:** Raw datasets and environment variables (e.g., GCP project name, GCS bucket name) stored in `env.dev`.
-   - **Output:** Preprocessed datasets (`train.jsonl`, `test.jsonl`) stored in GCS.
-
-2. **Model Fine-Tuning Container**
-   This container handles the fine-tuning process for the model using the preprocessed data.
-   - **Input:** Preprocessed datasets (`train.jsonl` and `test.jsonl`) stored in GCS.
-   - **Output:** A fine-tuned model deployed to a Google Cloud endpoint.
-
-3. **RAG Workflow Preparation Container**
-   This container prepares data for the Retrieval-Augmented Generation (RAG) workflow by downloading raw academic papers from GCS, chunking the data, generating embeddings, and populating the ChromaDB vector database.
-   - **Input:** Source and destination GCS locations and secrets passed via `env.dev`.
-   - **Output:** A ChromaDB database stored locally.
-
-4. **RAG Workflow Execution Container**
-   This container executes the RAG workflow using the fine-tuned model and vector database to generate chatbot responses.
-   - **Input:** The fine-tuned model endpoint deployed on GCP and the ChromaDB vector database.
-   - **Output:** Contextually relevant chatbot responses.
-
-5. **Data Versioning Container**
-   This container manages data versioning for the datasets using DVC (Data Version Control). It facilitates tracking changes to the dataset, storing metadata, and ensuring reproducibility.
-   - **Input:** Raw data and versioning configuration files (e.g., `.dvc`, `.dvcignore`).
-   - **Output:** Updated versioned datasets and metadata stored in GCS or local storage.
-
-6. **Service Container**
-   This container serves the chatbot application as a web-based interface for user interaction. It connects with the fine-tuned model and RAG workflow.
-   - **Input:** User queries via the web interface and backend connections to the model and database.
-   - **Output:** Chatbot responses displayed on the web application.
-   - **Access the Application:**
-     Open [http://localhost:8000](http://localhost:8000) in your browser to interact with the chatbot.
-
-**General Note:**
-Make sure you have Docker installed and that the required `env.dev` file is present in the respective directories before running any containers.
-
-
-## Data Versioning
-
-We maintain a history of data version changes using DVC (Data Version Control) specifically for managing the datasets used in the Retrieval-Augmented Generation (RAG) workflow. DVC is utilized to track and manage larger data files, including raw academic papers, preprocessed chunks, and vector embeddings. This setup enables us to track changes in the RAG datasets, compare iterations, and revert to previous versions if necessary.
-
-All updates to the RAG datasets are managed directly through DVC, ensuring transparency and facilitating collaboration across the team.
-
-
-## Front-end Application
-
-We implement a web-based interface designed to facilitate user interaction with the chatbot. It acts as the primary point of communication where users can submit their queries. The interface processes these inputs, communicates with the backend to connect with the fine-tuned model and RAG workflow, and displays the generated chatbot responses to the user. The application is accessible via a local URL and is optimized for seamless interaction, delivering real-time query-response exchanges.
-
-Users can input mental-health related inquiries to the "type your message" section and click send to receive real-time responses from out chatbot.
-
-
-## Test Documentation
-
-### Testing Tools
-
-- **PyTest**: Utilized for testing integration and system functionalities.
-- **Unittest**: Used for unit testing individual modules and their interactions.
-- **Mock**: Used extensively for simulating external dependencies, such as VertexAI and Chromadb to isolate test environments.
-
-### Testing Strategy
-
-#### 1. Unit Tests
-
-Unit tests validate individual components in isolation:
-
-##### `TestFineTuningScript`
-
-- **`test_train`**: Ensures the fine-tuning process is executed with correct parameters and produces expected outputs.
-
-##### `TestLLMFineTuningData`
-
-- **`test_prepare`**: Verifies finetunedata preparation splits intents into training and testing datasets and writes them to correct files.
-
-##### `TestPreprocessRag`
-
-- **`test_generate_query_embedding`**: Tests query embedding generation and ensures embeddings match expected structure.
-- **`test_generate_text_embeddings`**: Validates text embedding generation for multiple input chunks.
-- **`test_load`**: Ensures embeddings, chunks, and metadata are correctly added to the ChromaDB collection.
-- **`test_query`**: Tests querying embeddings and validates results returned from the ChromaDB collection.
-- **`test_get`**: Verifies document retrieval from ChromaDB using filters.
-
-##### `TestDownloadFunction`
-
-- **`test_download`**: Ensures data for the RAG system is correctly downloaded from Google Cloud Storage and handled appropriately.
-
-#### 2. Integration Tests
-
-Integration tests ensure that multiple components work together as expected:
-
-- **`test_integration`**: Validates interactions with the ChromaDB client in the RAG process by testing the following:
-  - Text embeddings are correctly loaded into the collection with proper metadata and IDs.
-  - Queries return expected results from the collection.
-  - Document retrieval works with specified filters and returns the expected data.
-
-#### 3. System Tests
-
-System tests Covering user flows and interactions:
-
-- **`test_chat_route`**: Pretends to be a user and tests the `/chat` endpoint for a valid input message and verifies the correct response is generated.
-
-- **`test_no_input_route`**: Pretends to be a user and tests the `/chat` endpoint for a missing input message and ensures an appropriate error response is returned.
-
-### Test Coverage Report
-
-Below is the code coverage summary from the most recent test suite run:
-
-```plaintext
----------- coverage: platform darwin, python 3.12.0-final-0 ----------
-Name                                  Stmts   Miss  Cover
----------------------------------------------------------
-finetune_data/prepare_data.py            66     23    65%
-finetune_model/finetune.py               50     21    58%
-rag_data_pipeline/dataloader.py          26      8    69%
-rag_data_pipeline/preprocess_rag.py     185    101    45%
-service/app.py                           58     24    59%
-tests/conftest.py                        12      0   100%
-tests/test_integrate.py                  37      0   100%
-tests/test_system.py                     25      0   100%
-tests/test_unit.py                      102      0   100%
----------------------------------------------------------
-TOTAL                                   561    177    68%
+#### Configuring OS Login for Service Account
+```
+gcloud compute project-info add-metadata --project <YOUR GCP_PROJECT> --metadata enable-oslogin=TRUE
 ```
 
-### Instructions to Run Tests Manually
+#### Create SSH Key for Service Account
+```
+cd /secrets
+ssh-keygen -f ssh-key-deployment
+cd /app
+```
 
-Follow these steps to replicate the test results locally:
+#### Providing Public SSH Keys to Instances
+```
+gcloud compute os-login ssh-keys add --key-file=/secrets/ssh-key-deployment.pub
+```
 
-1. **Navigate to the `src` directory**: `cd src`
+## **2. Deployment Instructions**
 
-2. **Export the environment variables**: `source env.dev`
+#### Build and Push Docker Containers to GCR (Google Container Registry)
+```
+ansible-playbook deploy-docker-images.yml -i inventory.yml
+```
 
-3. **Install the conda environment**: `conda env create -f environment.yaml`
+#### Create Compute Instance (VM) Server in GCP
+```
+ansible-playbook deploy-create-instance.yml -i inventory.yml --extra-vars cluster_state=present
+```
 
-4. **Generate the test report**: `pytest --cov=. tests/`
+#### Provision Compute Instance in GCP
+```
+ansible-playbook deploy-provision-instance.yml -i inventory.yml
+```
 
+#### Setup Docker Containers in the Compute Instance
+```
+ansible-playbook deploy-setup-containers.yml -i inventory.yml
+```
 
-## Known issues and limitations
+#### Configure Nginx File for Web Server
+* Create nginx.conf file for defaults routes in web server
+
+#### Setup Webserver on the Compute Instance
+```
+ansible-playbook deploy-setup-webserver.yml -i inventory.yml
+```
+
+## **3. Usage Details**
+Once the deployment is complete, the web server will be running on the external IP of the compute instance. To access the application, open the browser and go to `http://<External-IP>/`
+
+## **4. Known Issues and Limitations**
 
 1. Overdependence on RAG Dataset
 The chatbot currently relies heavily on the Retrieval-Augmented Generation (RAG) workflow, resulting in responses that are overly factual and rigid, which lacks the conversational and empathetic tone users expect. This overdependence on academic papers can make response
