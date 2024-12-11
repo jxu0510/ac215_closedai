@@ -1,0 +1,170 @@
+/* Reset 基础样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #0084ff;
+    --secondary-color: #ffffff;
+    --text-color: #333333;
+    --neutral-color: #f9f9f9;
+    --overlay-bg: rgba(0, 0, 0, 0.7); /* 半透明背景 */
+}
+
+/* 通用样式 */
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('/static/assets/chat_background.png') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* 改为顶部对齐 */
+    min-height: 100vh;
+    height: auto; /* 高度允许动态扩展 */
+    overflow-y: auto; /* 启用滚动 */
+    color: var(--text-color);
+}
+
+/* 顶部导航 */
+.header {
+    width: 100%;
+    background: var(--overlay-bg);
+    padding: 15px 20px;
+    color: var(--secondary-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+.nav-container .nav-link {
+    color: var(--secondary-color);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-container .nav-link:hover {
+    color: var(--primary-color);
+}
+
+/* 聊天区域 */
+.hero {
+    display: flex; /* 使用 Flexbox 布局 */
+    flex-direction: column; /* 子元素垂直排列 */
+    align-items: center; /* 子元素水平居中 */
+    justify-content: flex-start; /* 子元素从顶部开始排列 */
+    padding-top: 150px; /* 确保聊天框与导航栏间距适当 */
+    width: 100%; /* 父容器占满屏幕宽度 */
+    height: calc(100vh - 150px); /* 动态调整高度，适配屏幕 */
+    margin: 0 auto; /* 确保居中 */
+    box-sizing: border-box; /* 包括内边距在宽高计算内 */
+}
+
+/* 聊天窗口样式 */
+.chat-container {
+    background: rgba(255, 255, 255, 0.9); /* 白色半透明背景 */
+    border-radius: 20px; /* 圆角效果 */
+
+    padding: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* 柔和阴影 */
+    width: 100%; /* 增大宽度 */
+    max-width: 900px;
+    min-height: calc(100vh - 150px); /* 最小高度为屏幕高度 */
+    height: auto; /* 根据内容动态扩展 */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* 分隔聊天记录和控件 */
+    backdrop-filter: blur(10px); /* 添加背景模糊效果 */
+    overflow-y: hidden; /* 防止聊天容器本身滚动 */
+}
+
+/* 聊天记录窗口 */
+.chat-window {
+    background: var(--neutral-color);
+    border-radius: 10px;
+    padding: 15px;
+    flex: 1; /* 消息区占据剩余空间 */
+    overflow-y: auto; /* 启用垂直滚动 */
+    margin-bottom: 15px;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 1.2em;
+    color: var(--text-color);
+    max-height: calc(100vh - 250px); /* 限制最大高度 */
+}
+
+/* 消息样式 */
+.message {
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    max-width: 80%; /* 限制消息宽度 */
+    line-height: 1.5;
+}
+
+.user {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    align-self: flex-end;
+}
+
+.bot {
+    background: var(--neutral-color);
+    color: var(--text-color);
+    align-self: flex-start;
+}
+
+/* 输入框样式 */
+.input-container {
+    display: flex;
+    gap: 15px;
+}
+
+input {
+    flex: 1;
+    padding: 15px;
+    border-radius: 30px;
+    border: 1px solid var(--primary-color);
+    font-size: 1.2em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    outline: none;
+}
+
+button {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 15px 30px;
+    border-radius: 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    background: #005bb5;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .chat-container {
+        width: 90%;
+        min-height: calc(100vh - 150px);
+    }
+
+    .chat-window {
+        font-size: 1em;
+    }
+
+    input, button {
+        padding: 10px;
+        font-size: 1em;
+    }
+}
