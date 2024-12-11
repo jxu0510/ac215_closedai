@@ -7,8 +7,8 @@ all:
       gcp_auth_kind: "serviceaccount"
       gcp_scopes: "https://www.googleapis.com/auth/compute"
       gcp_project: "xenon-depth-434717-n0"
-      gcp_region: "us-east1"
-      gcp_zone: "us-east1-c"
+      gcp_region: "us-central1"
+      gcp_zone: "us-central1-a"
       docker_network_name: "appnetwork"
       persistent_disk_name: "empathos-demo-disk"
       persistent_disk_size: 50
@@ -19,4 +19,4 @@ all:
     children:
         appserver:
             hosts:
-                35.196.237.203:
+                34.70.20.138:

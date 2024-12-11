@@ -4,7 +4,7 @@
   become: true
 
   tasks:
-    # Setup secrets so containers can have access to GCP resources
+    # Setup secrets so containers can access GCP resources
     - name: Create secrets directory
       file:
         path: "/srv/secrets"
@@ -18,38 +18,26 @@
     - name: Authenticate gcloud using service account
       shell: "gcloud auth activate-service-account --key-file /srv/secrets/gcp-service.json"
 
-    # Create common network for all containers
+    # Create Docker network
     - name: Create network
       docker_network:
-          name: "{{docker_network_name}}"
-          driver: "bridge"
-          attachable: "yes"
+        name: "{{docker_network_name}}"
+        driver: "bridge"
+        attachable: "yes"
 
     - name: Copy docker tag file
       copy:
         src: .docker-tag
-        dest: .docker-tag
+        dest: /srv/.docker-tag
         mode: 0644
     - name: "Get docker tag"
-      shell: "cat .docker-tag"
+      shell: "cat /srv/.docker-tag"
       register: tag
     - name: Print tag
       debug:
-        var: tag
-    - name: Create frontend container
-      docker_container:
-        name: "frontend"
-        image: "gcr.io/{{ gcp_project }}/cheese-app-frontend-react:{{ tag.stdout}}"
-        state: started
-        recreate: yes
-        pull: yes
-        restart: yes
-        published_ports:
-          - 3000:3000
-        networks:
-          - name: "{{docker_network_name}}"
+        var: tag.stdout
 
-    # Create a folder on persistent disk
+    # Persistent storage setup
     - name: Create persistent directory
       file:
         path: "/mnt/disk-1/persistent"
@@ -61,39 +49,56 @@
         state: "directory"
         mode: 0777
 
-    - name: Create vector-db container
+    # Load Vector DB
+    - name: Load Vector DB
+      shell: docker run --rm -it \
+        -e GCP_PROJECT="{{ gcp_project }}" \
+        -e CHROMADB_HOST="vector-db" \
+        -e CHROMADB_PORT="8000" \
+        -e GOOGLE_APPLICATION_CREDENTIALS="/secrets/gcp-service.json" \
+        -v /srv/secrets:/secrets \
+        --network "{{docker_network_name}}" \
+        "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}" cli.py --download --load --chunk_type recursive-split
+
+    # Create service containers
+    - name: Create finetune_data container
       docker_container:
-        name: "vector-db"
-        image: "chromadb/chroma:0.5.6"
+        name: "finetune-data"
+        image: "gcr.io/{{ gcp_project }}/finetune-data:{{ tag.stdout }}"
         state: started
         recreate: yes
-        published_ports:
-          - 8000:8000
-        env:
-          IS_PERSISTENT: "TRUE"
-          ANONYMIZED_TELEMETRY: "FALSE"
+        networks:
+          - name: "{{docker_network_name}}"
+
+    - name: Create finetune_model container
+      docker_container:
+        name: "finetune-model"
+        image: "gcr.io/{{ gcp_project }}/finetune-model:{{ tag.stdout }}"
+        state: started
+        recreate: yes
+        networks:
+          - name: "{{docker_network_name}}"
+
+    - name: Create rag_model container
+      docker_container:
+        name: "rag-model"
+        image: "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}"
+        state: started
+        recreate: yes
         networks:
           - name: "{{docker_network_name}}"
         volumes:
-          - /mnt/disk-1/chromadb:/chroma/chroma
+          - /mnt/disk-1/persistent:/persistent
+          - /srv/secrets:/secrets
 
-    - name: Load Vector DB
-      shell: docker run --rm -it -e GCP_PROJECT="{{ gcp_project }}" -e CHROMADB_HOST="vector-db" -e CHROMADB_PORT="8000" -e GOOGLE_APPLICATION_CREDENTIALS="/secrets/gcp-service.json" -v /srv/secrets:/secrets --network "{{docker_network_name}}" "gcr.io/{{ gcp_project }}/cheese-app-vector-db-cli:{{ tag.stdout}}" cli.py --download --load --chunk_type recursive-split
-
-    - name: Create api-service container
+    - name: Create service container
       docker_container:
-        name: "api-service"
-        image: "gcr.io/{{ gcp_project }}/cheese-app-api-service:{{ tag.stdout}}"
+        name: "service"
+        image: "gcr.io/{{ gcp_project }}/service:{{ tag.stdout }}"
         state: started
         recreate: yes
         published_ports:
-          - 9000:9000
-        env:
-          GOOGLE_APPLICATION_CREDENTIALS: "/secrets/gcp-service.json"
-          GCP_PROJECT: "{{ gcp_project }}"
-          GCS_BUCKET_NAME: "cheese-app-models"
-          CHROMADB_HOST: "vector-db"
-          CHROMADB_PORT: "8000"
+          - 80:80
         networks:
           - name: "{{docker_network_name}}"
         volumes:
