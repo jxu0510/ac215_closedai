@@ -11,7 +11,9 @@ In this project, we aim to develop an AI-powered mental healing application. The
 
 ## Milestone 5
 
-In Milestone 5, we deployed the application to a Kubernetes cluster, demonstrating scalability by manually adjusting load levels. We wrote Ansible playbooks to automate the provisioning and deployment of both the Kubernetes cluster and the application. A CI/CD pipeline was implemented using GitHub Actions to automate testing, integration, and deployment, ensuring about 70% test coverage and documenting untested modules. Finally, we integrated a production-ready ML workflow with automated data preprocessing and model deploying.
+In Milestone 5, we deployed the application to a Kubernetes cluster, demonstrating scalability by manually adjusting load levels. We wrote Ansible playbooks to automate the provisioning and deployment of both the Kubernetes cluster and the application. A CI/CD pipeline was implemented using GitHub Actions to automate testing, integration, and deployment, ensuring 78% test coverage. Finally, we integrated a production-ready ML workflow with automated data preprocessing and model deploying.
+
+Due to the integration with Google Cloud Platform services, certain parts of our codebase cannot be fully tested in a traditional development environment. Specifically, the Retrieval-Augmented Generation (RAG) pipeline, which relies on direct interactions with Google Cloud resources, falls outside the scope of our standard testing procedures. This limitation arises because the RAG pipeline requires live cloud resources, which are not replicable in local or simulated testing environments. As a result, any components that depend on Google Cloud services must be tested in a live cloud environment to ensure functionality and performance accuracy.
 
 #### Project Organization
 
