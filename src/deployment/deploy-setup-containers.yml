@@ -43,54 +43,36 @@
         path: "/mnt/disk-1/persistent"
         state: "directory"
         mode: 0777
-    - name: Create chromadb directory
-      file:
-        path: "/mnt/disk-1/chromadb"
-        state: "directory"
-        mode: 0777
+    # - name: Create chromadb directory
+    #   file:
+    #     path: "/mnt/disk-1/chromadb"
+    #     state: "directory"
+    #     mode: 0777
+    
+    # - name: Create rag_data_pipeline container
+    #   docker_container:
+    #     name: "rag-data-pipeline"
+    #     image: "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}"
+    #     state: started
+    #     recreate: yes
+    #     networks:
+    #       - name: "{{docker_network_name}}"
+    #     volumes:
+    #       - /mnt/disk-1/persistent:/persistent
+    #       - /srv/secrets:/secrets
 
     # Load Vector DB
-    - name: Load Vector DB
-      shell: docker run --rm -it \
-        -e GCP_PROJECT="{{ gcp_project }}" \
-        -e CHROMADB_HOST="vector-db" \
-        -e CHROMADB_PORT="8000" \
-        -e GOOGLE_APPLICATION_CREDENTIALS="/secrets/gcp-service.json" \
-        -v /srv/secrets:/secrets \
-        --network "{{docker_network_name}}" \
-        "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}" cli.py --download --load --chunk_type recursive-split
+    # - name: Load Vector DB
+    #   shell: docker run --rm -it \
+    #     -e GCP_PROJECT="{{ gcp_project }}" \
+    #     -e CHROMADB_HOST="llm-rag-chromadb" \
+    #     -e CHROMADB_PORT="8000" \
+    #     -e GOOGLE_APPLICATION_CREDENTIALS="/secrets/gcp-service.json" \
+    #     -v /srv/secrets:/secrets \
+    #     --network "{{docker_network_name}}" \
+    #     "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}" cli.py --download --load --chunk_type recursive-split
 
-    # Create service containers
-    - name: Create finetune_data container
-      docker_container:
-        name: "finetune-data"
-        image: "gcr.io/{{ gcp_project }}/finetune-data:{{ tag.stdout }}"
-        state: started
-        recreate: yes
-        networks:
-          - name: "{{docker_network_name}}"
-
-    - name: Create finetune_model container
-      docker_container:
-        name: "finetune-model"
-        image: "gcr.io/{{ gcp_project }}/finetune-model:{{ tag.stdout }}"
-        state: started
-        recreate: yes
-        networks:
-          - name: "{{docker_network_name}}"
-
-    - name: Create rag_model container
-      docker_container:
-        name: "rag-model"
-        image: "gcr.io/{{ gcp_project }}/rag-data-pipeline:{{ tag.stdout }}"
-        state: started
-        recreate: yes
-        networks:
-          - name: "{{docker_network_name}}"
-        volumes:
-          - /mnt/disk-1/persistent:/persistent
-          - /srv/secrets:/secrets
-
+    # Create service container
     - name: Create service container
       docker_container:
         name: "service"
@@ -104,6 +86,28 @@
         volumes:
           - /mnt/disk-1/persistent:/persistent
           - /srv/secrets:/secrets
+
+    # Create and Setup Nginx
+    - name: Copy nginx config files
+      copy:
+        src: "./nginx-conf/nginx"
+        dest: "/conf"
+    - name: Create nginx container
+      docker_container:
+        name: "nginx"
+        image: "nginx:stable"
+        state: started
+        recreate: yes
+        published_ports:
+          - 80:80
+          - 443:443
+        networks:
+          - name: "{{docker_network_name}}"
+        volumes:
+          - /conf/nginx/nginx.conf:/etc/nginx/nginx.conf
+
+    - name: "Restart nginx container"
+      shell: "docker container restart nginx"
 
     - name: Check if containers are running
       shell: docker ps

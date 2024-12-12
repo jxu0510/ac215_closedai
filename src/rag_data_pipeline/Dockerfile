@@ -46,4 +46,4 @@ RUN pipenv sync
 ADD --chown=app:app . /app
 
 # Entry point
-ENTRYPOINT ["/bin/bash","src/docker-entrypoint.sh"]
+ENTRYPOINT ["/bin/bash","./docker-entrypoint.sh"]

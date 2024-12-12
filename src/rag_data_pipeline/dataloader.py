@@ -7,13 +7,13 @@ RAG_FOLDER = "llm-rag-dataset"
 
 
 def makedirs():
-    os.makedirs("../../data", exist_ok=True)
+    os.makedirs("./data", exist_ok=True)
 
 
 def download():
     print("downloading")
 
-    shutil.rmtree("../../data", ignore_errors=True, onerror=None)
+    shutil.rmtree("./data", ignore_errors=True, onerror=None)
     makedirs()
 
     client = storage.Client(project=GCP_PROJECT)
@@ -24,7 +24,7 @@ def download():
         # Only download files inside the specified folder
         if blob.name.startswith(RAG_FOLDER) and not blob.name.endswith("/"):
             relative_path = blob.name[len(RAG_FOLDER) + 1:]
-            local_path = os.path.join("../../data", relative_path)
+            local_path = os.path.join("./data", relative_path)
             os.makedirs(os.path.dirname(local_path), exist_ok=True)
             print(f"Downloading {blob.name} to {local_path}")
             blob.download_to_filename(local_path)

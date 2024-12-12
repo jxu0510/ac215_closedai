@@ -64,15 +64,16 @@ def chat():
         return jsonify({"reply": "Please enter a message."})
 
     try:
-        query_embedding = generate_query_embedding(query)
+        # query_embedding = generate_query_embedding(query)
 
-        # Retrieve collection and query the DB
-        collection_name = "char-split-collection"
-        results = get_doc_from_client(collection_name, query_embedding)
+        # # Retrieve collection and query the DB
+        # collection_name = "char-split-collection"
+        # results = get_doc_from_client(collection_name, query_embedding)
 
-        # Construct input prompt from query and results
-        documents = "\n".join(results["documents"][0])
-        input_prompt = f"{query}\n{documents}"
+        # # Construct input prompt from query and results
+        # documents = "\n".join(results["documents"][0])
+        # input_prompt = f"{query}\n{documents}"
+        input_prompt = query
 
         # Generate response using the model
         generation_config = {
