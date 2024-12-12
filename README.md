@@ -193,7 +193,7 @@ ansible-playbook deploy-setup-webserver.yml -i inventory.yml
 ```
 
 ## **3. Usage Details**
-Once the deployment is complete, the web server will be running on the external IP of the compute instance. To access the application, open the browser and go to `http://<External-IP>/`
+Once the deployment is complete, the web server will be running on the external IP of the compute instance.
 
 ## **4. Known Issues and Limitations**
 
