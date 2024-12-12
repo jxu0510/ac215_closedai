@@ -196,10 +196,13 @@ ansible-playbook deploy-setup-webserver.yml -i inventory.yml
 Once the deployment is complete, the web server will be running on the external IP of the compute instance.
 
 Examples:
+
 Q1: What are some factors affecting adolescent mental health problems?
+
 A1: Based on the provided text, several factors affect adolescent mental health problems: * **Social stress:** This is identified as one of three factors impacting adolescent mental health problems. * **Substance abuse:** This is another of the three factors impacting adolescent mental health problems. * **Student-teacher relationship:** Positive relationships at school are associated with positive mental health outcomes in adolescents. * **Sense of community at school:** This contextual factor is linked to positive mental health outcomes. * **Bullying:** A significant school-specific factor, with bullied adolescents showing more than doubled odds of suicidal ideation and attempts. The text mentions that 46% of school-aged children in a UK survey reported being bullied. The text also mentions that mental health risk factors increase the chances of developing psychological illness, while protective factors can reduce the negative impact of these risks. The text does not elaborate on specific protective factors beyond positive student-teacher relationships and a sense of community at school.
 
 Q2: Can you tell me what are some ways to mitigate the risk of having mental health problems?
+
 A2: Based on the provided text, mitigating the risk of mental health problems involves focusing on both risk and protective factors. The text highlights the importance of preventive interventions where different agents work together to promote children's and adolescents' mental health. These interventions should be culturally appropriate. Furthermore, reducing the negative impact of risk factors is crucial, as these factors can increase the chances of developing psychological illness. The text also mentions the need for a shift away from an individual-focused approach to service delivery, suggesting that a broader, population-level approach may be more effective in decreasing rates of mental illness.
 
 ## **4. Known Issues and Limitations**
