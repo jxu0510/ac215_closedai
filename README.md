@@ -96,11 +96,11 @@ Due to the integration with Google Cloud Platform services, certain parts of our
 
 ### **1.1 Prerequisites**
 #### Software Requirements
-- Docker 
-- Kubernetes 
+- Docker
+- Kubernetes
 - Ansible
-- Python 
-- Git 
+- Python
+- Git
 - pipenv
 
 #### Cloud Provider
@@ -118,7 +118,7 @@ Due to the integration with Google Cloud Platform services, certain parts of our
 #### Clone the Repository
    ```bash
    git clone git@github.com:jxu0510/ac215_closedai.git
-   ``` 
+   ```
 #### Configure Ansible Inventory
 Edit the inventory.yml file to define your target hosts and GCP configurations.
 
@@ -130,7 +130,7 @@ Search for each of these in the GCP search bar and click enable to enable these 
 * Google Container Registry API
 
 #### Setup GCP Service Account
-- Go to [GCP Console](https://console.cloud.google.com/home/dashboard), search for  "Service accounts" from the top search box. or go to: "IAM & Admins" > "Service accounts" from the top-left menu and create a new service account called "deployment". 
+- Go to [GCP Console](https://console.cloud.google.com/home/dashboard), search for  "Service accounts" from the top search box. or go to: "IAM & Admins" > "Service accounts" from the top-left menu and create a new service account called "deployment".
 - For `deployment`:
     - Compute Admin
     - Compute OS Login

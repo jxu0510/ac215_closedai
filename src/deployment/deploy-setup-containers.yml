@@ -48,7 +48,7 @@
     #     path: "/mnt/disk-1/chromadb"
     #     state: "directory"
     #     mode: 0777
-    
+
     # - name: Create rag_data_pipeline container
     #   docker_container:
     #     name: "rag-data-pipeline"
