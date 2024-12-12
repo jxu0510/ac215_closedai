@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/eb0e8154-cc16-4b0a-ba80-af884ffa3cc5)# AC215 Final Project - README
+# AC215 Final Project - README
+
+![image](https://github.com/user-attachments/assets/eb0e8154-cc16-4b0a-ba80-af884ffa3cc5)
 
 #### Group Name
 ClosedAI
