@@ -198,10 +198,13 @@ Once the deployment is complete, the web server will be running on the external 
 ## **4. Known Issues and Limitations**
 
 1. Overdependence on RAG Dataset
+
 The chatbot currently relies heavily on the Retrieval-Augmented Generation (RAG) workflow, resulting in responses that are overly factual and rigid, which lacks the conversational and empathetic tone users expect. This overdependence on academic papers can make response
 
 2. Quality of RAG Dataset
+
 The current RAG workflow is limited by the insufficient quantity and diversity of academic papers on mental health counseling for younger adults. This restricts the chatbot’s ability to address a wide range of queries, even within this demographic. Expanding the dataset to cover more topics will improve the chatbot’s relevance and responsiveness while balancing factual content with conversational flexibilit
 
 3. Limited Model Exploration and Flexibility
+
 The chatbot’s current performance is restricted by our reliance on a single language model—GEMINI. While GEMINI’s integration with GCP made it a good basic model, we have not yet investigated how other large language models, such as GPT and Llama, might influence the quality, tone, or adaptability of responses. Exploring alternative models could provide opportunities for more helpful and domain-specific dialogues.
