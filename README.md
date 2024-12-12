@@ -11,7 +11,7 @@ In this project, we aim to develop an AI-powered mental healing application. The
 
 ## Milestone 5
 
-In Milestone 5, we deployed the application to a Kubernetes cluster, demonstrating scalability by manually adjusting load levels. We wrote Ansible playbooks to automate the provisioning and deployment of both the Kubernetes cluster and the application. A CI/CD pipeline was implemented using GitHub Actions to automate testing, integration, and deployment, ensuring at least 60% test coverage and documenting untested modules. Finally, we integrated a production-ready ML workflow with automated data preprocessing and model deploying.
+In Milestone 5, we deployed the application to a Kubernetes cluster, demonstrating scalability by manually adjusting load levels. We wrote Ansible playbooks to automate the provisioning and deployment of both the Kubernetes cluster and the application. A CI/CD pipeline was implemented using GitHub Actions to automate testing, integration, and deployment, ensuring about 70% test coverage and documenting untested modules. Finally, we integrated a production-ready ML workflow with automated data preprocessing and model deploying.
 
 #### Project Organization
 
