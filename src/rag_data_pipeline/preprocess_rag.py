@@ -22,8 +22,8 @@ GCP_PROJECT = os.environ["GCP_PROJECT"]
 GCP_LOCATION = "us-central1"
 EMBEDDING_MODEL = "text-embedding-004"
 EMBEDDING_DIMENSION = 256
-INPUT_FOLDER = "./data"
-OUTPUT_FOLDER = "./outputs"
+INPUT_FOLDER = "../../data"
+OUTPUT_FOLDER = "../../outputs"
 CHROMADB_HOST = "llm-rag-chromadb"
 CHROMADB_PORT = 8000
 

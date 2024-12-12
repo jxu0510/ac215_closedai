@@ -7,13 +7,13 @@ RAG_FOLDER = "llm-rag-dataset"
 
 
 def makedirs():
-    os.makedirs("./data", exist_ok=True)
+    os.makedirs("../../data", exist_ok=True)
 
 
 def download():
     print("downloading")
 
-    shutil.rmtree("./data", ignore_errors=True, onerror=None)
+    shutil.rmtree("../../data", ignore_errors=True, onerror=None)
     makedirs()
 
     client = storage.Client(project=GCP_PROJECT)
